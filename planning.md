@@ -7,7 +7,7 @@
 3. Derive geographic area of a specific pronounciation of a word.
 4. Derive geographic area of a slang word.
 5. Create database of classed "buzzwords" (draw from data.gov, NLTK, etc.).
-6. Predict origin of speaker through a number of questions. 
+6. Predict origin of speaker through a number of questions.
 7. Predict location of speaker through transcribed speech or writing.
 
 ## Future Steps?
