@@ -23,6 +23,8 @@
 - merged Gerardo's pull request (transcribed speech from people of various origins in .trn format, labeled in corresponding .csv metadata files)
 - continued parsing through the DARE corpus
 - restructured folder hierarchy (src vs data files, moved jupyter notebooks to src)
+
+### 1/30/2018
+- researched sk-learn's implementation of Bayesian classifiers
 - researched how to build a Naive Bayes classifier for assigning probabilities of a speaker's geographic origin based on inputted text.
   - worked through a general naive bayes classifier worksheet (not related to/included in repo)
-- researched sk-learn's implementation of Bayesian classifiers
