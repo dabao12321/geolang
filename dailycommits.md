@@ -28,3 +28,13 @@
 - researched sk-learn's implementation of Bayesian classifiers
 - researched how to build a Naive Bayes classifier for assigning probabilities of a speaker's geographic origin based on inputted text.
   - worked through a general naive bayes classifier worksheet (not related to/included in repo)
+
+### 2/2/2018
+- split U.S. regions into individual rows for easier future use of Bayes classifier
+  - ex. instead of {'nh, ma, ri', 'groaner'}, expand into
+  {'nh', 'groaner'}
+  {'ma', 'groaner'}
+  {'ri', 'groaner'}
+- finished parsing through DARE corpus
+- exported cleaned pandas DataFrame of state-specific words to a new .csv file
+  - 'cleaned_dare_corpus.csv'
