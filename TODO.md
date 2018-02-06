@@ -6,7 +6,8 @@
     - Done! Instead of regions, split into non-overlapping areas (states) with words being able to have multiple "origins".
 
 2. Create database of classed "buzzwords" (draw from data.gov, NLTK, etc.).
-    - In progress. Current corpus is from the Dictionary of American Regional English, over 4000 entries (words only).
+    - Sufficient: Current corpus is from the Dictionary of American Regional English, over 4000 entries (words only).
+    - to do: add sentence by sentence data from the SBData transcriptions
 
 3. Build a Naive Bayes classifier to assign probabilities to geographic origin based on a collection (sentence) of words.
 

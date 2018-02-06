@@ -38,3 +38,11 @@
 - finished parsing through DARE corpus
 - exported cleaned pandas DataFrame of state-specific words to a new .csv file
   - 'cleaned_dare_corpus.csv'
+
+### 2/5/2018
+- began working on a new notebook for classification purposes
+  - vectorizing words/sentences
+  - Naive Bayes classifier for predicting geographic origins
+- reviewed Jocelyn's pull request to add an SVM plotting function
+  - left it unmerged (for now), since I'm not yet planning to implement an SVM classifier
+- researched the pros/cons of Bayesian classifiers versus SVMs
