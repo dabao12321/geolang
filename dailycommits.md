@@ -47,5 +47,7 @@
   - left it unmerged (for now), since I'm not yet planning to implement an SVM classifier
 - researched the pros/cons of Bayesian classifiers versus SVMs
 
-### 2/6/2018
-- FILL IN
+### 2/7/2018
+- worked with .csv data in classification notebook
+- began using sklearn to classify dataset
+- assigned targets (corresponding to states) to geodare data
