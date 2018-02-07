@@ -46,3 +46,6 @@
 - reviewed Jocelyn's pull request to add an SVM plotting function
   - left it unmerged (for now), since I'm not yet planning to implement an SVM classifier
 - researched the pros/cons of Bayesian classifiers versus SVMs
+
+### 2/6/2018
+- FILL IN
