@@ -51,3 +51,11 @@
 - worked with .csv data in classification notebook
 - began using sklearn to classify dataset
 - assigned targets (corresponding to states) to geodare data
+
+### 2/10/2018
+- fixed multiple indexing/null entry related bugs in dataset
+- vectorized DARE corpus with sklearn's CountVectorizer
+- normalized inputted training data with sklearn's tfidf transformer
+- created and trained a Naive Bayes classifier on DARE corpus
+  - initial testing indicates that it can functionally predict geographic origin,
+  given the presence of one or more documented words
