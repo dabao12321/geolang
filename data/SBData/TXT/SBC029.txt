@@ -1,0 +1,1214 @@
+2.750	4.370	SETH:	... Excuse me.
+9.480	16.210	>ENV:	... ((DOG_BARKING_BEGINS))
+10.290	10.900	LARRY:	... Hey,
+10.900	12.150		how are you guy?
+11.850	12.760	SETH:	... Are you ~Larry?
+28.820	29.780		... Are you ~Larry?
+30.060	30.520	LARRY:	... Yes.
+30.520	31.120		[How are you].
+30.520	31.120	SETH:	[Are you] --
+31.120	32.020		.. You're the guy.
+32.240	32.980	LARRY:	... Hunh=?
+32.930	34.280	SETH:	.. You're the guy to talk to then.
+34.100	34.900	LARRY:	I'm the guy.
+34.900	35.630		[Yeah].
+34.900	35.630	SETH:	[@@]
+35.840	37.240		(H) I didn't know if I had the right place.
+37.050	37.500	LARRY:	..  <@ Yeah,
+37.500	38.210		you got it @>.
+38.210	38.870		.. I just --
+39.990	41.310	SETH:	... What are you doing there.
+41.200	42.300	LARRY:	<@ You're probably trying t- @> --
+42.300	43.450		.. <VOX Yeah this is strange,
+43.450	45.010		what's this [guy] doing VOX>.
+43.590	44.720	SETH:	            [@@]
+44.990	49.250	LARRY:	.. I'm putting water in a ... <X twenty-six X> gallon container,
+49.250	50.720		inside my ... truck.
+47.600	50.660	>ENV:	((DOG_BARKING_ENDS))
+51.170	51.850	SETH:	... Wow.
+51.850	52.480		.. [That's quite a p-] --
+51.840	53.490	LARRY:	   [Cause I had to] haul it to a property,
+53.490	54.740		which doesn't have any water,
+54.740	56.330		.. and I have to spray the road.
+56.330	57.020	SETH:	.. Ah=.
+57.020	58.230	LARRY:	.. @@
+58.230	60.610		... [Cause the road] .. before .. you can drive on it,
+58.230	59.290	SETH:	    [Interesting].
+60.610	63.100	LARRY:	it needs ... more uh --
+64.160	66.590		... more ... stability.
+66.590	67.750		... Evidently.
+67.890	70.190		... So give me one second to lock this thing,
+70.190	70.760		[and then XX],
+70.190	71.340	SETH:	[Is that to keep the] dust,
+71.340	72.410		.. keep the dust down?
+72.530	73.300	LARRY:	... well (Hx),
+73.300	73.610		no,
+73.610	74.790		.. it's not that so much,
+74.790	75.120		it's uh,
+75.120	75.840	>ENV:	((DOG_BARKING_BEGINS)
+75.120	75.840	LARRY:	they put,
+75.840	77.490		... they put a= uh,
+78.220	82.940		... a type of uh .. base on it that needs water and,
+81.950	83.130	>ENV:	((DOG_BARKING_ENDS))
+83.990	85.760	LARRY:	... that just hasn't happened yet.
+86.700	87.540	SETH:	... [Oh],
+86.700	87.540	LARRY:	    [X] --
+87.540	88.240	SETH:	I see.
+88.730	91.430		... So there's some chemical reaction that has to take [place],
+90.820	91.430	LARRY:	                                                       [Yeah].
+91.430	95.360		.. I guess ... <P a good a- ... analogy P>.
+96.230	98.240	>ENV: ((DOG_BARKING_BEGINS))
+98.240	98.630	LARRY:	... <X #Chelsea X>,
+98.630	99.150		no.
+101.090	102.790	>ENV:	... ((DOG_BARKING_ENDS))
+103.120	105.150	LARRY:	.. That should hold it in there.
+105.860	106.750		... Okay.
+107.940	108.900		... [Nice to meet you].
+107.940	108.900	SETH:	    [How you doing].
+108.900	109.350		Good to see you.
+109.350	109.870	LARRY:	What's your name?
+109.510	109.890	>ENV:	((DOG_BARKING_BEGINS))
+109.890	110.340	SETH:	.. ~Seth.
+110.340	110.640	LARRY:	~Seth.
+110.640	111.320		Okay.
+111.320	112.350	SETH:	.. Here's my card here.
+112.350	113.120	LARRY:	.. Thanks ~Seth.
+112.350	113.140	>ENV:	((DOG_BARKING_ENDS))
+114.640	116.580	LARRY:	... <X I think it's warming up a bit here X>.
+116.830	118.410	SETH:	... Is this the house we're looking at?
+120.350	121.960	LARRY:	... I'll take you down in the basement.
+123.420	124.930	SETH:	... Is the furnace down in the basement?
+125.490	126.460	LARRY:	... What's left of it,
+126.460	127.010		yeah.
+126.800	127.410	SETH:	.. @@
+127.410	128.250	LARRY:	.. @@@ 
+128.250	129.070		.. [We had all these] --
+128.250	129.650	SETH:	   [Is it a .. ol=d] system?
+129.780	130.270	LARRY:	.. Yeah (Hx).
+130.270	132.340		.. We had the asbestos uh all removed from it and,
+133.550	134.460		... and uh,
+134.460	135.110	SETH:	.. Oh really.
+135.100	136.020	LARRY:	... so that's been done.
+135.970	136.480	SETH:	I was j- --
+136.480	139.110		.. I was just at a place that does asbestos removal.
+139.100	139.600	LARRY:	.. Yeah,
+139.600	139.890		.. [where],
+139.610	139.890	SETH:	   [Cal] --
+139.890	140.840		.. Cal Tech?
+140.840	142.110	LARRY:	.. they're the guys that did it.
+142.110	142.740	SETH:	... <@ Are they?
+142.740	143.720		... [Alright @>].
+142.740	143.720	LARRY:	    [Yeah],
+143.720	144.260	SETH:	.. (H )[2=2]
+143.720	144.680	LARRY:	       [2that's down2] in Berkeley,
+144.680	145.020		right?
+145.020	145.530	SETH:	No they're --
+145.530	147.150		.. they've got an office here in Nappa.
+147.990	148.780	LARRY:	... Cal Tech.
+148.780	149.100		<X What was the X> --
+149.100	149.410		No.
+149.410	149.990		.. Synergy.
+149.990	150.500		.. That's who.
+150.440	151.070	SETH:	Synergy.
+151.070	152.210		.. [Dif- .. different] one.
+151.070	152.080	LARRY:	   [%I= I'm sorry].
+152.080	152.830		It's a different outfit.
+152.830	154.190		I didn't know they had one up here.
+154.190	154.450	SETH:	Yeah.
+154.450	156.110		Though I think they had just recently mo=ved here.
+155.850	156.320	LARRY:	Unhunh.
+159.760	160.730	SETH:	... (H) .. Cause I was wondering [t-] --
+160.360	162.330	LARRY:	[So where's] the man with the uh .. camera,
+162.330	162.740		[2and the2] --
+162.420	163.010	SETH:	[2Oh2] I got the --
+163.010	164.540		.. I got my record[3er right here3].
+163.550	165.220	LARRY:	                  [3@@@3]@@@@@
+165.380	166.670		... That's pretty clever.
+167.100	167.300	SETH:	... Yeah,
+167.300	168.520		 my brother is uh,
+168.720	169.680		... teaches linguistics,
+169.680	170.970		and I guess he's doing this study,
+170.970	171.230	LARRY:	Oh=,
+171.230	171.790		<X okay X>,
+171.970	174.850	SETH:	... and they just want ... business conversations.
+177.140	177.800	LARRY:	... alright.
+177.800	178.430		.. Well?
+179.740	180.440	SETH:	... Wow.
+180.440	181.860	LARRY:	... Here's the animal (hx).
+181.860	183.090	SETH:	My= go=sh.
+183.600	184.690		... @@ (H)
+184.700	185.130	LARRY:	(H)
+184.960	185.730	SETH:	W=ow.
+185.730	187.970	LARRY:	They took ... uh some of it with em obviously.
+187.970	188.760	SETH:	Did this used to be --
+188.760	190.090		.. used to be an old oil &
+190.090	190.530	LARRY:	... Yeah.
+190.530	191.410		.. I think it was an [old],
+190.840	191.410	SETH:	                   & [fire]?
+191.410	192.710	LARRY:	... I think it was an old,
+192.990	195.400		... see the .. oil <<THUMP +++ +tank THUMP>> here?
+195.400	196.310		Isn't that an oil tank?
+196.310	196.930	SETH:	Yeah.
+197.170	198.400	LARRY:	... That's what my guess is.
+200.110	201.360		... A=nd [uh (Hx)],
+200.780	203.030	X:	         [<<THUMP ++++++]++[2+++ THUMP>>2]
+202.210	203.040	SETH:	                           [2Wow2].
+203.050	204.390	LARRY:	.. do you have a flashlight on you?
+204.390	204.980	SETH:	Sure do.
+204.980	205.560	LARRY:	<X Yeah X>.
+206.790	207.430	SETH:	... So,
+207.430	208.450		.. <X then you X> get duct work?
+208.450	209.420		.. Or [is this the flue].
+208.450	209.010	LARRY:	      [We=ll,
+209.010	209.420		yeah].
+209.420	210.010		.. [2What they did,
+209.420	210.680	SETH:	   [2That's the flue I guess2].
+210.680	211.190	LARRY:	they they2] took the stubs,
+211.190	212.660		and they cleaned em up (Hx).
+212.660	214.290		.. (H) So you can tie right into em.
+214.290	214.820		See?
+215.160	215.940	SETH:	... Yeah.
+215.940	217.220		... So this used to have asbestos.
+217.220	217.440		Hunh?
+217.440	217.760	LARRY:	Yeah.
+217.760	218.620	SETH:	Where did all this connect?
+218.620	220.880		Was there a (H)[a] plenum on top of here?
+219.400	219.890	LARRY:	               [So],
+221.210	221.600		... Yeah.
+221.600	223.960		There was a bi=g hood that went over the top of this thing,
+223.960	226.570		with these (H) stack that [went this] way,
+225.500	226.100	SETH:	                          [Okay].
+226.590	227.930		Yeah like an [2octopus type2].
+226.870	228.250	LARRY:	             [2and then one that goes2] back,
+228.250	229.990		un- underneath there to the --
+230.120	232.310		.. (H) to the= uh= .. kitchen,
+232.310	233.610		... there are- there are different --
+233.610	234.640		.. there are different ones,
+234.640	236.040		that kinda go all the way up.
+236.200	236.940	SETH:	... I see one r-,
+236.940	238.760		there's a rectang[ular one] right there,
+237.500	237.960	LARRY:	                 [Yeah].
+238.760	239.490	SETH:	... is that one right there,
+239.490	240.590		w- that I'm flashing my light on?
+240.590	240.890	LARRY:	%Yeah=,
+240.890	241.770		it might be (Hx).
+241.770	242.730		.. %It kinda looks like it.
+242.730	243.230		And then there was --
+243.230	244.480		there's one farther up,
+244.480	246.870		... (H) and then there is this <<THUMP +one +here THUMP>>.
+247.430	249.540	SETH:	... So you <X have X> one two three=,
+250.950	252.370		... (H) ... at least .. [two there],
+251.630	252.240	LARRY:	                        [Three],
+252.240	254.940		and then there's another one .. way down.
+254.940	256.500		.. (H) I don't know if you can see it or not,
+256.500	257.290		.. but it's --
+257.700	259.270		... it's up into the kitchen.
+259.290	261.290	SETH:	... So there's probably three back there?
+261.290	261.730		(H) and a- --
+261.730	262.990		and any over on this side?
+262.990	264.130	LARRY:	... Well,
+264.340	265.250		... (H) no but,
+265.250	266.140		.. what- what we --
+266.140	269.010		.. we want to p- you to .. kinda give us an idea,
+269.010	270.280		on a- w- what your [thoughts are].
+269.610	270.280	SETH:	                   [You wanna add a c-] --
+270.280	271.170		.. add a few more?
+270.890	271.570	LARRY:	Add a couple.
+271.570	272.030		Yeah.
+272.330	272.680		... Back,
+272.680	273.890		ee way back there?
+273.890	275.290		.. Is that one way back?
+275.430	276.930		... <X Can't see it X>.
+276.930	278.100	SETH:	... XX .. [get this thing],
+276.930	278.100	LARRY:	          [<X To help X>] --
+278.100	278.930	SETH:	.. to [2a point2].
+278.390	279.350	LARRY:	      [2I don't know2] what this was,
+279.350	280.030		looks like they --
+280.030	281.180	SETH:	That was connected to one of em.
+281.180	281.700	LARRY:	.. Yeah.
+281.700	282.840		They left that here.
+286.710	288.180	SETH:	... I don't see any back in here,
+288.180	288.340		but,
+288.330	290.820	LARRY:	.. (H) Well there's there's definitely one back there.
+290.820	292.530		... (H) Now there's nothing out here,
+292.530	295.270		and this is where we feel we ... we should add one.
+295.270	296.010		.. (H) Is,
+296.010	296.730		.. this is a,
+296.730	297.830		.. gonna be a dining room.
+298.400	299.730	SETH:	... [okay].
+298.400	299.570	LARRY:	    [So],
+299.570	300.590		... (H) uh=,
+300.590	301.250		one for- --
+301.250	302.790		one .. there .. for [sure].
+302.500	303.280	SETH:	                    [What abou=t],
+303.280	303.780		.. uh=,
+303.780	305.620		.. what about above this section of the house.
+305.990	306.900	LARRY:	... Well,
+306.900	308.010		... let me show you that.
+308.010	308.430		And you can give --
+308.430	310.550		you can give me some idea about that as [well].
+310.050	310.590	SETH:	                                        [Now] uh,
+310.590	311.730		.. you are on propane?
+311.730	312.810		... [out here]?
+312.090	312.570	LARRY:	    [No].
+312.570	313.610		.. This is natural gas.
+313.570	314.250	SETH:	Oh really.
+314.280	314.770	LARRY:	.. Yeah.
+314.740	315.380	SETH:	.. Oh good.
+315.380	316.220	LARRY:	.. Kinda rare.
+316.220	316.780	SETH:	.. That's good,
+316.780	317.810		because uh,
+317.810	319.390		.. the problem with propane is that,
+319.400	320.270		they wouldn't be able to v- --
+320.640	321.210		.. (H) the co- --
+321.210	322.940		.. the county would probably have a problem with it.
+322.940	323.350	LARRY:	... [Yeah].
+323.100	324.660	SETH:	    [Cause they're] very concerned about propane.
+324.660	325.520		But natural gas,
+325.520	326.180		I can put [a (H)] --
+325.850	326.180	LARRY:	          [Yeah.
+326.180	329.140		we were] real happy to get this place with natural gas.
+329.140	331.430	SETH:	.. [Do you] want me to remove the old furnace.
+329.140	329.690	LARRY:	   [@]
+332.690	334.050		... We'll not .. have to?
+334.060	334.610	SETH:	.. No uh,
+334.610	335.580		.. do you want me to remove it.
+335.410	336.160	LARRY:	Oh yes.
+335.980	336.440	SETH:	Okay.
+336.440	336.820	LARRY:	.. Yeah.
+336.830	337.380	SETH:	.. [@@]
+336.830	337.380	LARRY:	   [No that's] --
+337.380	338.550		that would be part of our deal.
+338.550	339.020		.. Yeah.
+339.900	342.200	SETH:	... Well y- the new furnace w- .. would be much smaller.
+342.200	343.850		... That much I can guarantee you.
+346.460	346.850	LARRY:	... [Alright.
+346.450	346.740	SETH:	    [Do you- --
+346.950	347.120	LARRY:	X] --
+346.740	348.090	SETH:	.. How many square] feet is the house.
+349.500	350.080	LARRY:	... Uh=,
+350.080	351.900		well I guess it's around twenty-eight.
+353.950	355.000		... Approximately.
+355.000	355.740	SETH:	.. Okay.
+360.840	363.580	LARRY:	... I have a roof guy coming about this time too,
+363.580	363.980		so,
+365.930	366.940	SETH:	... You're [doing the roof]?
+366.350	367.340	LARRY:	           [doorbell] rings,
+367.340	368.300		.. we know who it is.
+369.800	371.150	SETH:	... Getting a new roof put on too?
+372.100	374.370	>ENV:	((RADIO_BECOMES_AUDIBLE))
+371.130	375.720	LARRY:	Well I .. got some problems with ... leakage in certain areas,
+375.720	376.740		and just gotta get it fixed,
+376.740	378.000		before we get the rain again.
+380.730	381.230		... Alright,
+381.230	382.390		well let's start in the kitchen.
+388.680	391.050		... Okay this is (Hx) --
+391.050	392.910		... this is one right here.
+393.650	394.170		... See,
+394.170	395.540		I don't think you saw this one,
+395.540	395.830		but,
+400.820	401.650	SETH:	... I'm wondering if=,
+401.650	403.070		.. you don't have a floor plan of the house,
+403.070	404.090		do you by any chance?
+404.050	404.590	LARRY:	.. No.
+404.590	405.300		... We [don't].
+404.830	405.300	SETH:	       [X]
+405.300	405.920	LARRY:	@@
+406.410	409.020		(H) ... We didn't get anything when we bought this baby @.
+409.020	411.200	SETH:	... I'm wondering if I should just sketch it out.
+412.390	413.110	LARRY:	... Uh=,
+412.880	413.790	SETH:	It's two-story though,
+413.790	414.280		right?
+414.280	415.300	LARRY:	.. Two-story,
+415.300	415.540	SETH:	.. Th- --
+415.540	417.060		Are there <X any X> registers on the second floor?
+417.060	417.490	LARRY:	Unhunh.
+417.770	418.140	SETH:	... Okay.
+418.000	419.110	LARRY:	So all those s=t- --
+419.110	421.960		.. all those s=tubs that were ... behind us,
+421.960	423.550		are the ones that go up [through the] wall.
+422.770	423.460	SETH:	                        [Oh].
+423.460	424.170		.. Okay.
+424.170	424.840	LARRY:	... (H) (TSK)
+424.840	425.660	SETH:	Well that's no [problem],
+425.280	425.650	LARRY:	               [Uh],
+425.710	428.880	SETH:	as long as I don't have to do (H) any ducting to the second floor.
+428.640	429.350	LARRY:	yeah.
+429.350	429.630		.. No.
+429.630	430.340		.. <X They X> only --
+430.340	434.030		the only thing that we wanted you to do is tie into the existing ones,
+434.030	434.600	SETH:	.. Okay.
+434.610	436.300	LARRY:	.. which are on the ground level,
+437.180	438.220	SETH:	... How about that one right there.
+438.220	438.970		Is that one?
+439.320	439.860	LARRY:	... Uh,
+439.860	440.250		yeah.
+440.250	441.480		.. That's one as well.
+442.850	445.070		... And then the return is .. back here.
+448.350	448.850	SETH:	... Okay.
+448.850	450.140		.. Good sized return.
+450.140	450.480	LARRY:	.. Yeah.
+450.480	452.730	SETH:	Now you're not looking at % .. adding air conditioning.
+452.730	453.200		.. Right?
+453.200	453.840	LARRY:	Well,
+454.140	456.350		... [we would] like to have that as an option.
+454.340	454.770	SETH:	    [X]
+456.310	456.790		.. [2Okay].
+456.350	457.510	LARRY:	   [2We could2] always add that later.
+457.510	457.940		Right?
+458.150	458.530	SETH:	... Yeah.
+458.530	459.690		One of the things you can do,
+459.690	461.690		if .. if you don't wanna do it now,
+461.690	462.480		... you can,
+462.480	463.020		.. what they call,
+463.020	464.110		.. prep for air conditioning.
+464.110	465.790		You can put in the coil.
+465.790	467.820		... See you've [got the] furnace and the coil,
+466.190	466.600	LARRY:	               [<X Yeah X>].
+467.820	468.660	SETH:	(H) and then,
+468.660	470.600		... when you add air conditioning in the future,
+470.600	473.090		... all you gotta do is put the outdoor condensing unit,
+473.090	475.330		... and refrigerant piping to that coil.
+476.360	477.420		... So it .. saves --
+477.420	479.860		.. it saves= additional work in the future.
+480.310	480.730	LARRY:	... Mhm.
+480.650	482.440	SETH:	Otherwise you gotta come back and put the coil in,
+482.440	484.400		which means you gotta modify the duct work,
+484.400	485.910		to [get that] coil in there so,
+484.460	484.880	LARRY:	   [Right].
+485.940	487.640	SETH:	.. (H) if you're thinking about doing it in the future,
+487.640	488.960		you might wanna at least put the coil in.
+488.960	491.840		It only .. costs about three-hundred fifty dollars for the coil.
+491.840	492.460	LARRY:	Oh.
+492.460	492.860		.. Alright.
+492.860	494.860	SETH:	.. It's the it's the out[door air conditioning <X that X>] --
+493.690	493.920	LARRY:	                        [Well,
+493.920	495.120		.. write that in] there,
+495.120	496.830		anyway in the .. in the quote.
+496.830	499.030	SETH:	... (TSK) And now that's the .. the dining room you wanna add?
+499.030	499.380	LARRY:	Yeah.
+499.380	499.610		If you --
+499.610	501.740		if you go over and have a look at the dining room,
+501.740	503.530	SETH:	You got a lotta glass in that room it looks like.
+503.300	503.780	LARRY:	yeah,
+503.780	508.280		.. and % we're gonna be making changes to the ... to the house too,
+508.280	510.030		so we're .. keeping that in mind.
+510.030	510.820		But if you notice,
+510.820	512.320		there are no registers in here.
+512.680	513.500		... So,
+513.910	515.100	SETH:	.. (H) Is this accessible?
+515.470	516.030	LARRY:	... oh yeah].
+515.470	516.030	SETH:	    [I wonder] --
+516.030	516.570		I wonder if,
+516.570	517.700		.. [was this] added on you think,
+516.570	516.860	LARRY:	   [(SNIFF)]
+517.700	518.150	SETH:	.. maybe?
+518.150	520.540		... I'm just wondering if that [2foun2]dation wall &
+519.180	519.490	LARRY:	                               [2M-2] --
+520.550	521.540		... It might've been.
+521.540	522.190	SETH:	& goes to that,
+522.190	523.330		.. I wonder if I can get .. into this.
+523.140	524.030	LARRY:	Oh you can get into it.
+524.030	524.430		Yeah.
+524.430	524.860	SETH:	.. [Okay].
+524.430	524.860	LARRY:	   [Oh yeah].
+524.860	525.610		I've been under here.
+525.610	526.270	SETH:	.. Oh okay.
+526.270	526.810		.. [Good].
+526.260	526.810	LARRY:	   [So],
+526.810	527.970		this is not a problem.
+527.970	529.840	SETH:	.. Shoot I'd probab[ly go] with two registers in this room.
+528.260	528.500	LARRY:	                   [X] --
+529.890	530.360		.. Alright.
+530.360	530.540		[X] --
+530.360	531.730	SETH:	[I'd] probably go like [2one here2], 
+531.450	531.790	LARRY:	                       [2<X Oh yeah X>2],
+531.740	532.630	SETH:	and one .. [3one there3].
+532.290	533.910	LARRY:	           [3you'd do one3] over there as well?
+534.110	536.590	SETH:	... Cause it's a good-sized room with a lot of glass.
+536.590	537.390	LARRY:	... Okay.
+537.390	538.470	SETH:	.. Or you could do it,
+538.470	538.690		... you know,
+538.690	540.070		you could put like one on this wall,
+540.070	541.400		and one on that wall.
+541.400	541.980	LARRY:	.. Okay,
+541.980	543.140		on the two .. two out[side- --
+542.990	545.160	SETH:	                     [And then I'd] probably tie em both together,
+543.140	543.470	LARRY:	Yeah].
+545.300	546.960	SETH:	... into one Y-branch,
+546.960	548.050		.. you know like the room,
+548.050	548.880	LARRY:	... Mhm.
+551.000	552.890	SETH:	... the room is shaped somewhat like this.
+554.470	556.590		... <X I could X> put like one there,
+557.440	558.430		... one there,
+558.430	559.690	LARRY:	Now what we'd want you to do,
+559.690	560.440		in this case,
+560.440	561.400		is maybe --
+561.400	563.100	SETH:	.. tie those together like that.
+563.100	563.920	LARRY:	.. See this this --
+563.920	565.940		The end of this room might be modified.
+565.940	566.940		... So,
+566.940	568.780		... all we wanna know is,
+568.780	571.690		... is that we can eventually be able to do this.
+572.160	572.780		... Alright.
+572.780	576.590		... To to get % .. get this= ... duct work done,
+576.590	577.070		when we do --
+577.070	578.990		when we do the modification to [the] --
+578.840	578.990	SETH:	                               [Oh],
+578.990	580.730		so you may not do the duct work at this point?
+580.730	582.000	LARRY:	[Not .. not in this room.
+580.730	582.360	SETH:	[X .. XX .. do it in the future].
+582.000	582.370	LARRY:	We m-] --
+582.380	582.980		.. Yeah.
+582.980	584.800		.. [Uh I I hate] to see us do it,
+582.980	583.780	SETH:	   [<X Where are gonna be your X>] --
+584.900	587.030	LARRY:	(H) although if we do it in the [2sidewalls2],
+586.080	587.910	SETH:	[2Well what would 2] the modification be.
+588.030	589.590	LARRY:	... Oh we might take this out,
+589.590	591.370		.. and we might push this out further,
+591.370	591.870		and,
+592.580	593.070		.. uh,
+593.070	593.320		.. well,
+593.320	594.080		here's the drawings,
+594.080	594.570		right here.
+597.860	598.790		... <0h=,                
+606.110	607.630		... <P let's see=,
+607.630	609.100		.. that's the guest house.
+610.570	612.270		... Where is that sucker P>%>.
+612.260	613.670	SETH:	... Dining room?
+614.690	615.900	LARRY:	... (TSK) (H) Yeah.
+615.900	616.210		.. Yeah,
+616.210	616.420		I --
+616.420	617.040		It's right --
+617.040	617.360		i- --
+617.360	618.870		.. here [it i- here it i-] here it is right here,
+617.360	618.140	SETH:	        [Is this the wall],
+618.870	619.920	LARRY:	you can see that --
+619.920	621.090		(H) this is the current [wall],
+620.830	621.260	SETH:	                        [oh] okay,
+621.260	623.070		so are you gonna go out [2like .. three feet or so2],
+621.660	622.450	LARRY:	                        [2So we might --
+622.450	623.060		.. we might2] --
+623.060	625.800		.. we might %= .. [3do a little modification.
+624.320	626.450	SETH:	                  [3a tape- .. tapered uh .. corners3].
+625.800	627.260	LARRY:	.. A tapered3] corner there.
+627.270	629.240		(H) So we might do .. a little .. of that.
+629.300	629.680	SETH:	.. Okay.
+629.660	629.880	LARRY:	But,
+629.880	632.580		.. if you're gonna ... put it in h- .. this end wall,
+632.580	632.940		then,
+632.940	634.400		.. maybe it wouldn't be affected.
+636.680	638.000		... That one might down there.
+638.000	638.530		.. Because,
+638.530	639.630		we might uh,
+640.460	640.930	SETH:	... [Yeah],
+640.460	640.930	LARRY:	    [XX]
+640.930	641.630	SETH:	see well,
+642.040	643.260	LARRY:	.. (H) See [eventually <X we have s- X>] --
+642.040	642.830	SETH:	           [you know you're right.
+642.830	643.250		.. Cause I] --
+643.250	644.510		.. cause we're looking at right there,
+645.050	645.510		... course,
+645.510	646.400		.. now you gonna go out --
+646.360	646.860	LARRY:	.. That's right.
+646.860	647.880		See we're opening this,
+647.690	648.750	SETH:	That's [gonna go that way].
+647.890	648.160	LARRY:	       [that --
+648.160	648.440		.. <X it's X>] --
+648.500	650.510		.. that that that's going out to this master,
+650.510	652.340		.. which is gonna go up on the hill.
+652.570	652.900	SETH:	... Aw,
+652.900	653.430		so you'll need --
+653.430	654.580		.. What about .. heating for that.
+654.580	655.070	LARRY:	.. Well,
+655.070	657.650		.. what we're gonna do is put uh .. radiated heat.
+657.880	658.330	SETH:	.. Okay.
+658.280	659.020	LARRY:	In- in there.
+659.010	660.250	SETH:	.. [That'll be a slab] floor then.
+659.020	659.730	LARRY:	   [For sure].
+659.960	660.230		Yeah,
+660.230	660.720		yeah.
+660.970	661.800		.. (H) [Uh],
+661.520	663.500	SETH:	    [So that] one might change,
+663.850	664.790	LARRY:	... (H) [2Yeah2].
+663.850	664.790	SETH:	        [2uh=2],
+664.800	666.280	LARRY:	.. I- that's a that's a good point.
+666.280	668.350		I've .. I I'm not .. uh,
+669.160	669.860		... we were th- --
+670.130	670.970	SETH:	... The only thing i=s,
+670.990	671.660		.. I don't know how long,
+671.680	673.210		is that gonna be like ... in the future,
+673.210	674.530		like a year down the road?
+674.650	675.140	LARRY:	... Yeah.
+675.150	675.460		.. [Probably].
+675.140	677.810	SETH:	   [Cause it] would be nice to have heat in here (H) in the meantime.
+678.430	679.830		... I mean say you do the furnace,
+680.030	681.860		... It would be nice to have it .. for this winter.
+681.860	683.410	LARRY:	Well let me work that out with my wife.
+683.530	684.480		... Put that as a --
+684.480	685.500	SETH:	.. But one thing you can do,
+685.500	687.140		even if you do a modification,
+687.140	688.310		you can move the register.
+688.830	692.730		... I mean say we put the register right ... h=ere,
+692.730	693.600		.. and that's gonna b- --
+693.610	695.200		%= that would obviously have to be moved,
+695.490	695.990		... you know,
+695.990	697.810		it's not a [big deal] to move it from here to here.
+696.300	696.720	LARRY:	           [Yeah].
+697.810	699.350	SETH:	You might have to add a piece of duct work,
+699.350	701.360		(H) but it's not gonna be a major change,
+701.350	701.970	LARRY:	Okay.
+702.080	702.650		... Okay.
+703.720	705.240	SETH:	... And this one you may not have to move at all.
+705.240	706.330		That may be okay.
+707.580	708.040	LARRY:	... Alright.
+708.570	709.920	SETH:	... But then that's probably how I'd do it,
+709.920	710.820		some- .. something like that,
+710.820	711.250		or,
+711.250	712.990		if I had the registers .. going that way,
+713.810	715.400		... that might be the best way to do it.
+715.420	718.000		... It'd be like for- fourteen by six,
+718.940	720.450	LARRY:	... (SNIFF) (SNIFF) (SNIFF)
+720.150	721.580	SETH:	 I mean that would probably be an eight-inch duct,
+721.580	722.340		that'd be an eight-inch,
+722.340	723.310		that'd be a ten-inch,
+724.840	725.620		... and then the furnace,
+725.620	725.950		I don't know,
+725.950	727.980		it's somewhere over there (Hx) [in that area],
+727.110	729.010	LARRY:	                               [Furnace=] .. [2is=2] --
+728.020	729.420	SETH:	[2I'm not sure how many feet2],
+729.030	730.660	LARRY:	Well the furnace sits down,
+730.660	731.870		.. over in this,
+732.220	733.670		... this corner over here.
+734.600	736.090		... That's where the furnace is.
+737.100	737.650	SETH:	... One.
+737.650	738.230		... Two.
+738.230	741.330	LARRY:	.. Probab[ly] right ... in here.
+738.450	738.810	SETH:	         [Three].
+742.750	743.160	LARRY:	... And now --
+743.160	744.030		That's probably what- --
+744.030	744.760		that's one of the &
+744.760	745.790	SETH:	That's about [thirty] --
+745.320	745.470	LARRY:	& key]
+745.470	747.100		my key [2concerns2],
+746.010	747.580	SETH:	       [2about thirty-six2] feet across.
+747.580	750.130	LARRY:	is th- .. is the how noisy the furnace is.
+750.800	752.260		... That's a real concern to me.
+753.600	754.480		... A=nd uh,
+754.480	756.070		I don't know what they've got these days,
+756.070	756.690		.. if they're all --
+756.690	758.660		.. %= I know there's pulse type furnaces,
+758.660	760.780		which evidently are kinda lou=d or something,
+760.780	761.560	SETH:	Oh yeah.
+761.560	761.920		... Yeah.
+761.920	762.680		Lennox pulse.
+762.680	763.000		@@
+763.000	763.740	LARRY:	oh [@really]?
+763.230	764.440	SETH:	   [(H)] That's a loud one.
+764.440	764.870	LARRY:	Is it?
+764.860	765.180	SETH:	(H) [Yeah],
+764.870	765.320	LARRY:	    [<X Really X>].
+765.180	766.200	SETH:	I've put a few of those in,
+766.200	766.890		[and they],
+766.200	766.890	LARRY:	[<X Have you X>].
+766.890	767.790	SETH:	(H) .. I've had problems.
+767.790	769.210		I wouldn't go with the Lennox pulse.
+769.220	769.770	LARRY:	Okay.
+770.180	771.220	SETH:	... If I go [with a=] uh,
+770.660	771.200	LARRY:	            [Well],
+771.220	772.650	SETH:	I'd probably go with the Carrier.
+772.650	773.880		... Carrier furnace.
+773.880	775.720		(H) The return grill's plenty big enough.
+775.720	776.040	LARRY:	.. yeah.
+776.040	777.160		It's a big [return,
+776.330	777.160	SETH:	           [I mean I can't --
+777.160	778.910		you can't] have any kind of problem [2there2],
+777.160	777.770	LARRY:	and a] --
+778.300	779.900		[2and2] and the pipes are big enough,
+779.900	780.310		so=,
+780.310	781.740		and that's normally when you get --
+781.740	784.220		.. you get .. a lot of noise .. in the house.
+784.420	786.150		(H) Is if your= --
+786.370	788.990		... if your uh ... ducts are too small.
+788.990	789.330		Right?
+789.330	789.790	SETH:	Right.
+790.520	790.750		.. (H) Yeah,
+790.760	792.450		y- the two main sources of noise,
+792.450	793.230		.. are either,
+794.690	795.300		... uh=,
+795.720	796.550		... air noise,
+796.550	798.520		.. which is due to undersized grills,
+798.420	798.880	LARRY:	Really?
+798.880	800.990	SETH:	you got air rushing through there at high velocity.
+801.040	804.250		(H) The other source of noise is th- .. is the fan motor itself.
+804.250	804.450		(H)
+804.410	805.780	LARRY:	In the- in the actual --
+805.780	807.190	SETH:	.. In the .. unit itself.
+806.940	807.350	LARRY:	Unhunh.
+807.190	808.490	SETH:	And that's usually solved by b-,
+809.010	812.710		just having flexible duct between the unit .. and the d- and the registers,
+812.710	814.370		so that it dampens out the noise.
+814.650	817.480		(H) In other words if we had the furnace like right behind that wall=,
+817.480	818.740		(H) it would be noisy.
+818.610	819.130	LARRY:	.. Yeah.
+819.130	819.740	SETH:	But we're going d- --
+819.740	821.280		I'm not sure how it .. connects,
+821.540	822.820		... did we see that down there?
+823.050	824.990		... I'll have to go down and take a look at that again [but,
+824.390	824.980	LARRY:	                                                       [Okay].
+825.040	826.670	SETH:	(H)] I imagine it goes dow=n,
+826.820	829.000		.. (H) and then we can run some kind of a flexible duct to the unit.
+829.000	832.010		As long as I can get say ten feet or so between that and the unit,
+832.350	833.130		.. (H) [then I] --
+832.620	833.130	LARRY:	       [You can].
+833.130	836.170	SETH:	.. then I can= uh ... eliminate th- .. the noise problem.
+836.170	836.840	LARRY:	.. Alright.
+840.020	841.690	SETH:	... So it's basically thirty by thirty,
+842.470	843.550		... return air.
+844.870	847.090		... Thirty by thirty return air.
+849.270	850.500	LARRY:	... And this is a uh=,
+850.500	851.830		this is the only return,
+851.830	852.320		and I'd= --
+852.320	853.320		I would [say not -- 
+852.850	854.110	SETH:	        [Oh this is return also]?
+853.320	854.110	LARRY:	.. not placed],
+854.110	855.260		.. not placed very well,
+855.260	856.040		in the room.
+856.770	857.160	SETH:	... [This is] --
+856.770	857.160	LARRY:	    [So],
+857.160	857.990	SETH:	this is supply though.
+857.990	858.420		Right?
+858.880	859.810	LARRY:	... this is the supply.
+859.810	860.190		Right.
+860.040	860.690	SETH:	Okay.
+860.700	862.080		... (H) Yeah.
+862.230	862.670	LARRY:	.. See,
+862.670	863.560		and I'd (Hx) --
+863.580	865.310		.. Where would you suggest .. they would go.
+865.310	865.990		If uh,
+865.990	867.240		.. if we put uh,
+867.340	867.940	SETH:	... Boy.
+867.950	868.530		.. I would say g-,
+868.530	869.730		I'd probably go with two.
+870.460	871.550		... I'd put one on each side,
+871.560	873.930		I'd probably put one like right underneath that window there,
+874.660	876.300		... and maybe underneath that window.
+876.930	878.510		... Be nice to put it behind the couch,
+878.510	878.960		but then you've --
+878.970	880.450		it would be blocked off too much.
+880.790	881.090	LARRY:	... And you thi- --
+881.090	883.730		you so you .. you p- you try and put em= under windows,
+883.730	884.990		where .. that's where [your] --
+884.990	885.260	SETH:	                      [(Hx)] .. Yeah.
+885.260	886.730		I try to [put em] on= .. the cold- --
+885.660	885.860	LARRY:	         [X] --
+886.740	888.190	SETH:	basically the coldest part of the room (Hx).
+888.180	888.840	LARRY:	Okay.
+889.140	890.840	SETH:	... (TSK) Because uh,
+892.560	893.380		... it just helps,
+893.380	894.740		%y= .. because otherwise,
+894.740	895.090		%you know,
+895.090	896.550		with a grill right here,
+896.610	898.870		(H) .. you end up having cold spots on the sides.
+898.870	899.270	LARRY:	Mhm.
+899.270	900.130	SETH:	Cause what happens is,
+900.130	902.390		the air goes b=ack to the return grill,
+902.590	903.650		(H) [so it never really,
+902.580	904.440	LARRY:	    [<X It wouldn't get X> out circulating through] --
+903.650	905.530	SETH:	it never really blows] out .. to the corners.
+905.530	905.910	LARRY:	[2Right].
+905.530	908.510	SETH:	[2So that's why I2] try to put it .. as far away (H) on the perimeter,
+908.510	910.370		and have it pull across the room.
+910.720	911.040	LARRY:	... Okay.
+911.050	911.860		well this is the on[ly --
+911.730	912.870	SETH:	                   [So I don't know if you'd wanna] --
+912.060	913.830	LARRY:	.. % the only the only] other addition room,
+913.830	916.350		where we thought maybe registers would be important.
+917.080	917.760		... And I'd,
+917.760	919.220		.. I don't know if,
+919.440	920.260		... uh=,
+920.720	921.900		... floor registers?
+921.900	922.250		Are there --
+922.250	923.740		are- th- i- i- i- is- d- does it --
+923.750	925.980		.. that's not a good idea these days?
+926.080	926.390	SETH:	... No,
+926.400	927.820		 I would go with floor registers in this house,
+927.820	928.950		cause you got high ceilings.
+928.950	929.850	LARRY:	.. % [XX]
+928.950	929.850	SETH:	     [Well in fact],
+929.850	933.180		you wouldn't be able to (H) put any kind of ceiling register in.
+933.300	934.560		... Cause you get the second floor.
+934.560	935.310	LARRY:	Right.
+936.110	936.530	SETH:	... So,
+936.530	936.700		no.
+936.700	937.810		Floor registers are fine,
+937.810	938.460		for heating.
+939.840	940.210	LARRY:	... But th- --
+940.210	941.530		you're talking about wa=ll regis- --
+941.530	942.890		.. putting em in the wall here.
+943.400	943.700	SETH:	... No,
+943.700	945.160		I was- I was thinking about putting em in the floor.
+945.170	945.920	LARRY:	Oh in the floor?
+945.920	946.400	SETH:	.. Yeah to- --
+946.400	947.440		... to go in the wa=ll,
+947.440	948.660		would be .. pretty tough.
+948.680	949.270	LARRY:	Okay.
+949.280	949.880		... Alright.
+949.880	951.680	SETH:	I don't know if you wanna cut the floor though.
+951.690	952.150	LARRY:	... Yeah.
+952.150	953.650		.. Well I hate to do it right there.
+953.650	955.220		May- maybe we'd do it right in here.
+955.710	956.300	SETH:	... Yeah.
+956.840	958.740		... But to get in the wall [would be] almost --
+957.650	958.120	LARRY:	                           [X]
+958.920	960.710	SETH:	... I mean you can do that during new construction,
+960.710	962.770		but it's tough .. when you're coming back after the fact,
+962.770	963.670		cause <X you= just X> got,
+963.670	963.970		(H)
+963.950	964.320	LARRY:	Sure.
+964.320	966.050	SETH:	your- your two-by-four framing,
+966.640	968.470		... and it's just too tough to get in there.
+968.540	969.500	LARRY:	... Okay.
+971.300	971.570		... Alright.
+971.570	973.810		So we'd put a couple in this room somewhere?
+975.180	976.140		... [And then uh],
+975.180	977.220	SETH:	    [So this is like] a= family room?
+977.220	978.020		Is that what this is?
+978.020	978.330	LARRY:	.. Uh=,
+978.330	979.240		it's kinda like a lo- --
+979.240	981.420		kinda a little ... parlor,
+981.420	981.990		library,
+981.990	982.550		something,
+984.370	985.420		... resembles --
+1001.570	1002.370	SETH:	... Alright.
+1003.520	1004.870	LARRY:	... XXX,
+1004.870	1007.780		... XXXX.
+1007.880	1008.900		... This is a register,
+1008.900	1010.170		so that's okay.
+1010.170	1011.680		... Cause it's .. under there,
+1012.030	1012.670	SETH:	.. Okay.
+1012.660	1014.540	LARRY:	.. the bathroom has a register,
+1014.880	1016.620		... (H) now that was it.
+1016.620	1017.200		.. [XXX]
+1016.620	1018.380	SETH:	   [How about] the uh thermostat.
+1020.300	1020.940	LARRY:	... This guy?
+1022.190	1022.670	SETH:	... Okay.
+1022.670	1024.390		.. I would definitely go with a new thermostat.
+1024.390	1025.110	LARRY:	... Yeah.
+1026.690	1027.910		... Kind of a [.. X antique,
+1026.690	1027.910	SETH:	              [But that's probably a good --
+1027.910	1028.860		.. that's probably] a good spot.
+1027.910	1028.180	LARRY:	isn't it].
+1028.860	1029.040	SETH:	Yeah,
+1029.040	1030.380		that should be in a museum.
+1030.380	1032.290	LARRY:	... @@@@@
+1033.270	1033.960		... Uh,
+1033.960	1034.680		.. I don't know.
+1034.680	1035.950		.. I- i- are we doing the right --
+1035.950	1038.160		If I'm supposed to kinda walk you around the house here?
+1038.160	1038.990		Is that what uh --
+1039.940	1040.490	SETH:	... Yeah.
+1040.490	1040.920		Do you think,
+1039.200	1040.580	>ENV:	((RADIO_BECOMES_INAUDIBLE))
+1040.920	1041.300	SETH:	.. well,
+1041.310	1042.330		.. I guess you [haven't really] --
+1041.630	1043.960	LARRY:	[I don't know] if there's anything you need to do up here.
+1043.960	1046.350		Other than the fact <X just X> kinda know that we've got em.
+1046.430	1046.720	SETH:	.. Yeah,
+1046.720	1049.440		you haven't .. r- really lived in the house .. during the winter.
+1049.440	1049.770		Have you?
+1049.770	1050.230	LARRY:	No.
+1050.230	1050.790	.. @@
+1050.790	1051.840		[(H) And that's what we th- --
+1050.790	1051.840	SETH:	[So you don't really know=,
+1051.840	1052.340		if there's a] --
+1051.840	1053.630	LARRY:	See and that's what] we thought we would do,
+1053.630	1053.990		uh (Hx),
+1054.240	1056.090	SETH:	So you're not really sure if there's any problems,
+1056.380	1057.830		... with heating certain areas,
+1057.830	1058.460	LARRY:	.. That's right.
+1058.600	1059.260		... [so <X I sa- X>] --
+1058.600	1060.480	SETH:	    [So we don't know] if there's any particular areas,
+1060.480	1060.920		like that b-  --
+1060.920	1063.220		I bet you that parlor room has had a hard time,
+1063.220	1063.980		... in the past.
+1063.840	1066.180	LARRY:	@ [<@ Do you think it's pretty] cool in there @>?
+1064.200	1065.350	SETH:	  [Just .. that one grill].
+1066.220	1069.350	LARRY:	(H) And then this guy has a ... register,
+1069.350	1069.620		so,
+1069.620	1071.050	SETH:	Oh they got AC up here too.
+1071.890	1072.470	LARRY:	... yeah.
+1072.470	1073.790		.. I n- I think that's gonna go.
+1074.900	1075.350	SETH:	... Well uh,
+1075.360	1077.880		.. [especially if] you get the forced air [2(H)2] heating and cooling,
+1075.390	1075.850	LARRY:	   [Well],
+1076.800	1077.310		                                          [2Yes2].
+1077.880	1078.740	SETH:	you won't need that.
+1078.900	1080.310	LARRY:	.. One little guy there.
+1080.400	1082.770	SETH:	.. Yeah see these aren't ... strategically placed either,
+1082.770	1084.650		but you've .. pretty much got no choice.
+1085.720	1086.680		.. (H) ... On most of these,
+1086.680	1086.860		these --
+1086.860	1089.900		it's almost impossible to ... to change these now,
+1090.740	1092.350		... but really on the second floor,
+1092.440	1093.850	LARRY:	... This one's [not too bad].
+1093.850	1094.800	SETH:	               [(H)] the heat .. the heat's gonna rise,
+1094.800	1095.880		.. from the first floor anyway.
+1095.880	1096.340	LARRY:	Yeah up to- --
+1096.340	1096.870		You [know.
+1096.550	1097.300	SETH:	    [So= I] -- 
+1096.870	1098.560	LARRY:	And it'll] hold it in here real [2well2].
+1098.110	1098.550	SETH:	                                [2Yeah2].
+1098.550	1098.920		.. Typically,
+1098.920	1101.340		and- if anything you have 0verheating problems.
+1101.370	1101.900	LARRY:	.. Mm.
+1101.900	1102.440		[Yeah.
+1101.850	1102.690	SETH:	[On the second floor].
+1102.440	1103.720	LARRY:	(H) Well] see that's what we wanted to do,
+1103.720	1104.990		is have some kind of a system,
+1104.990	1106.930		that we know we can shut off.
+1108.120	1109.860		... Certain .. certain areas.
+1109.860	1110.620		Like if w- --
+1110.620	1111.560	SETH:	.. One of the things we could do,
+1111.560	1113.000		I don't think they have any dampers here.
+1113.000	1113.480		Do they?
+1114.680	1115.990		.. (H) ... Oh they do.
+1118.320	1118.990	LARRY:	... (H) Yeah.
+1119.530	1120.600	SETH:	... [So you can close off] --
+1119.530	1120.210	LARRY:	    [Oh okay.
+1120.210	1121.310		.. <X So that's] how it's X> --
+1121.410	1123.270	SETH:	... Yeah you can close off [2.. individual d-2] --
+1122.320	1123.270	LARRY:	                           [2Close these off2],
+1123.580	1124.230	SETH:	... [3(H)3]
+1123.580	1124.230	LARRY:	    [3and then the-3] --
+1124.230	1125.650		.. then it'll force the air what.
+1125.660	1126.890		.. Down into --
+1127.170	1128.180	SETH:	... (H) Downstairs.
+1128.180	1128.380		[Now,
+1128.170	1128.470	LARRY:	[X]
+1128.380	1129.630	SETH:	the] one thing you don't wanna do though,
+1129.630	1131.950		is close off= .. too many of em.
+1132.430	1134.410	LARRY:	... [Cause then you put a strain on the]= --
+1132.430	1134.410	SETH:	    [Cause .. cause then you're uh=] --
+1134.420	1134.750		.. yeah,
+1134.750	1136.200		you've gotta have a certain amount of air,
+1136.390	1138.110		(H) for the furnace to work properly.
+1138.110	1140.330		... And if you reduce the airflow too much,
+1140.850	1143.530		.. (H) then it won't have enough air going across .. the heat exchanger,
+1143.530	1143.830		and it'll --
+1143.830	1145.180		.. it'll overheat the heat exchanger.
+1145.180	1145.490	LARRY:	Oh.
+1145.490	1145.870		.. Really?
+1145.870	1146.480		.. Okay.
+1147.260	1147.990	SETH:	... So I would say,
+1148.780	1150.750	>ENV:	((RADIO_BECOMES_AUDIBLE))
+1147.990	1149.710	SETH:	you don't want to close more than uh,
+1151.000	1153.130		... more than about twenty-five percent of em.
+1155.140	1156.110		... Or you can close em,
+1156.110	1156.570		%y= you know,
+1156.570	1158.580		if you close em uh %a=- a hundred percent.
+1158.580	1159.990		If you close em all the way,
+1161.990	1164.290		... you probably don't want to shut more than (hx) twenty-five percent of em.
+1164.290	1164.950		All the way.
+1165.490	1167.220	LARRY:	... (Hx)=
+1167.250	1167.940	SETH:	... Which would b- --
+1167.940	1168.680		.. I'm not sure,
+1168.680	1170.220		(H) maybe all upstairs,
+1170.950	1172.940		... (H) you might wanna leave em cracked open just a little bit [though.
+1172.760	1173.210	LARRY:	[Unhunh]?
+1172.940	1174.270	SETH:	Just] to make sure you get enough air,
+1174.250	1174.490	LARRY:	Yeah.
+1175.550	1176.400	SETH:	... (H) But,
+1176.400	1176.810		okay,
+1176.810	1178.820		so we'd be looking at adding two,
+1178.990	1181.090		... two registers for that .. parlor room?
+1181.660	1183.320	LARRY:	... Adding two to that [parlor room],
+1182.510	1183.280	SETH:	                       [And then what about that one].
+1183.280	1184.410		Do you wanna hold off on that?
+1184.410	1184.710	LARRY:	Well,
+1184.710	1185.890		maybe we should jus=t --
+1186.190	1187.980	SETH:	... Or would you wanna do at least one of em?
+1189.240	1190.510	LARRY:	... (TSK) %= I think we should do something,
+1190.510	1190.790		yeah.
+1190.800	1192.030		Only because --
+1192.620	1195.100	SETH:	.. Because if that [.. remodel's a year away then],
+1192.990	1193.610	LARRY:	                   [I I th- --
+1193.610	1194.070		<X I guess I th- X> --
+1194.070	1196.240		I think] this thing is gonna be a cold little --
+1196.520	1196.760	SETH:	.. oh,
+1196.760	1198.180		I can def[initely @see that @@].
+1197.390	1198.640	LARRY:	         [I.. I I can tell you] that,
+1198.640	1200.250		because the windows,
+1200.270	1200.830	SETH:	.. See you only <X like X> -- 
+1200.830	1201.900		.. the only heat you have in this room,
+1201.900	1203.490		is that .. one register over there.
+1203.480	1207.330	LARRY:	.. the windows in this thing are <<THUMP ++ just a+bout +ready +to ++fall out.
+1207.330	1208.210		+ I +mean +they're THUMP>> --
+1208.210	1208.790		.. they're not --
+1208.790	1209.440		.. Look at this.
+1209.680	1212.110		... So I know there's gonna be a lot of uh --
+1212.620	1213.740	SETH:	... A lotta infiltration.
+1213.550	1213.970	LARRY:	Yeah.
+1213.970	1215.490		Until we get this corrected.
+1215.490	1218.680	SETH:	... See hopefully you'll go with double-pane glass on your remodel.
+1218.610	1219.560	LARRY:	... X[XX]	
+1218.680	1220.570	SETH:	     [That'll help] cut down a lot.
+1220.560	1220.960	LARRY:	Yeah.
+1220.960	1221.200	SETH:	On your &
+1221.200	1221.490	LARRY:	        [Yeah].
+1221.490	1222.230	SETH:	& heat loss.
+1222.400	1222.900	LARRY:	... So,
+1222.900	1223.310		.. I mean,
+1223.310	1224.830		.. %= in some ways,
+1224.830	1225.690		having windows,
+1225.690	1226.710		.. is it a bad idea?
+1226.710	1229.680		Because you get a lot of natural .. heat from the the s- from sun.
+1229.680	1230.630	SETH:	.. [That's right].
+1229.680	1230.630	LARRY:	   [<X You knowX>].
+1230.630	1231.510	SETH:	.. Okay this is like it would [2get2] --
+1231.250	1231.700	LARRY:	                              [2So2],
+1231.510	1232.700	SETH:	This is like east facing.
+1232.700	1233.040		Right?
+1233.040	1233.270		(H)
+1233.270	1233.680	LARRY:	Yeah.
+1233.680	1234.590		The [s- in in] --
+1233.740	1234.910	SETH:	    [So you get some morning] sun.
+1234.910	1235.430	LARRY:	You get the morning,
+1235.430	1235.960		in the winter,
+1235.960	1237.700		it's gonna come right across like [this].
+1237.190	1237.700	SETH:	                                  [Yeah].
+1237.700	1237.980	LARRY:	So,
+1237.980	1238.130		[XX]
+1237.710	1238.660	SETH:	[So that's gonna be] good.
+1238.630	1239.420	LARRY:	So that'll be good.
+1239.420	1241.510		So maybe one register in here for the moment,
+1241.510	1243.820		.. until we kinda feel it out [would be= uh],
+1242.720	1243.820	SETH:	                              [(SNIFF) .. Sure].
+1243.820	1245.060		.. I mean this one it looks like,
+1245.060	1246.470		.. if we put a register over here,
+1246.490	1248.430		(H) .. you wouldn't have to change it anyway.
+1248.690	1249.180	LARRY:	... Yeah.
+1249.180	1249.840		.. No that .. [that] --
+1249.350	1250.280	SETH:	              [With your] remodel,
+1250.280	1251.590		that might .. work into it.
+1251.590	1252.160	LARRY:	.. Yeah.
+1252.160	1252.790	SETH:	.. And like I say,
+1252.790	1253.090		even i- --
+1253.090	1254.400		even if you do have to move it,
+1254.440	1255.820		.. (H) it's not X a big deal.
+1256.220	1258.050		... I mean [somebody] ... just moves it,
+1256.440	1257.170	LARRY:	           [Okay].
+1258.050	1258.270	SETH:	.. you know,
+1258.270	1259.350		a carpenter can do it even.
+1259.360	1261.330		You don't even need to have us come out and do it really.
+1261.390	1262.480		... You might have to add a- --
+1262.480	1264.660		.. buy a piece of flexible duct and stick it on there,
+1264.660	1265.380		but [it's not a] --
+1264.750	1265.320	LARRY:	    [Yeah].
+1265.320	1266.350	SETH:	... not a big deal.
+1266.350	1266.950	LARRY:	.. Okay.
+1267.580	1268.760		... Alright.
+1269.400	1270.180	SETH:	... Okay?
+1270.040	1270.940	LARRY:	Well that sounds good.
+1270.940	1272.190	SETH:	Well let me check .. downstairs again,
+1272.190	1274.020		I gotta take some measurements on that [room].
+1273.860	1274.400	LARRY:	                                       [O]kay.
+1274.400	1275.220		.. Well now you get --
+1275.220	1276.510		you've got the logistics of every- --
+1276.510	1277.100		Oh= wait.
+1277.100	1278.520		.. [<X And then I think X>] my wife,
+1277.080	1277.380	SETH:	   [Now  you --
+1277.380	1278.100		.. now you say about] --
+1278.540	1282.110	LARRY:	.. my wife said she would like .. to have a register put in this room.
+1282.550	1283.990		... And I think it's kinda weird,
+1283.990	1284.230		but,
+1285.940	1287.350		... (Hx) what do you think.
+1288.500	1289.280		... Why would [she] --
+1288.830	1289.280	SETH:	              [What is] this --
+1289.280	1290.330		[2what is this room used for2].
+1289.280	1290.000	LARRY:	[2(TSK) (H) Well,
+1290.000	1291.660		even2]tually this is gonna be,
+1292.130	1294.460		(H) ... uh= (Hx),
+1297.020	1298.760		... (TSK) ... and we're gonna open this up.
+1298.760	1300.530		We're gonna take out some of these shelves,
+1300.530	1302.510		and get some light to come through here.
+1302.770	1304.060	SETH:	... This is [sort of] like a pantry?
+1302.970	1303.180	LARRY:	            [But],
+1304.090	1305.270		kinda pantry area.
+1305.270	1308.090		.. But it's gonna be (H) an extension of the kitchen.
+1308.090	1308.600		... Kind of.
+1308.600	1309.280		So,
+1309.280	1310.600		... (H) I don't know if % --
+1310.600	1310.840	SETH:	I'd --
+1310.840	1311.040		.. Yeah,
+1311.040	1311.290		I'd put --
+1311.290	1312.670		I'd probably put one like right there.
+1313.030	1313.670		... [About right] there.
+1313.030	1313.480	LARRY:	     [(SNIFF)]
+1313.670	1314.990	SETH:	You gonna be putting [2anything2] there?
+1314.140	1314.620	LARRY:	                     [2<X<WH I think WH>X>2] --
+1315.790	1316.870	SETH:	... Probably something's gonna go there.
+1316.870	1317.110		Right?
+1317.110	1318.290		@A table or something?
+1318.290	1319.380	LARRY:	... (H) I don't know.
+1319.380	1319.860		... I,
+1319.860	1320.140		[Yeah].
+1319.860	1321.530	SETH:	[Cause that's] about the only spot .. you can put it.
+1321.530	1321.770		Well,
+1321.770	1322.670		I mean y- we could put a- --
+1322.670	1325.230		we could put a floor r- .. floor register right .. along here,
+1325.230	1326.360		I don't know if you'd want that.
+1327.590	1328.790		... But that's probably where I'd put it.
+1328.790	1330.340		.. In fact the one that I was gonna put in there,
+1330.340	1330.770		[I'd probably] --
+1330.340	1332.260	LARRY:	[We might have] trouble getting to this spot though.
+1332.260	1332.720		I think.
+1332.720	1333.380	SETH:	You think so?
+1333.380	1333.670	LARRY:	.. Yeah.
+1333.670	1336.180		.. Cause it starts getting real tight up there on this end.
+1337.020	1337.760		... Yeah.
+1338.050	1338.990		... (H) Well,
+1338.990	1339.870		.. let's uh,
+1340.720	1341.780	SETH:	... Maybe on this end?
+1342.750	1343.060	LARRY:	... Yeah.
+1343.060	1344.010		.. It would have to be=,
+1345.740	1346.500		... if anywhere,
+1346.500	1347.340		.. it'd have to be [down],
+1347.080	1348.700	SETH:	                   [X that's] not a bad spot.
+1350.470	1351.170	LARRY:	... okay.
+1351.170	1351.950	SETH:	.. It's gonna help out,
+1351.950	1352.250		cause I --
+1352.250	1353.300		.. See this whole area,
+1353.300	1354.870		(H) you've just got that one grill.
+1355.740	1357.560		... It's a pretty good-sized area right here.
+1359.460	1360.160	LARRY:	... (H) Okay.
+1360.160	1360.900	SETH:	What about [the kitchen].
+1360.160	1360.710	LARRY:	           [Well let's] --
+1360.760	1361.730		.. let's consider [2that2] --
+1361.370	1362.350	SETH:	                  [2Kitchen's2] got one?
+1363.000	1364.500	LARRY:	... kitchen's got one right here,
+1364.510	1364.940	SETH:	... Yeah,
+1364.940	1365.490		okay.
+1366.260	1367.700	LARRY:	... and uh,
+1368.160	1369.600		... I'm not too worried about the kitchen.
+1369.600	1371.410		I don't like hot kitchens anyway.
+1372.570	1373.100		... Cause I mean y- --
+1373.100	1374.200		you got a stove going,
+1374.200	1374.520		and --
+1377.630	1379.830		... <VOX Ah we're in good shape that way (Hx) VOX>.
+1381.010	1381.540		..ah.
+1381.540	1382.000		.. Wait a minute.
+1382.010	1383.390		.. <X Did X> I forget something else,
+1383.390	1383.850		too.
+1388.950	1390.170		... Ah= yeah.
+1390.170	1392.050		We're gonna have to put a register out here.
+1396.950	1397.600		... Because y-,
+1397.600	1399.900		this .. this wall is eventually gonna come out.
+1401.230	1402.650		... And so= uh=,
+1402.760	1403.770	SETH:	.. Utility room.
+1403.980	1404.830	LARRY:	... utility room,
+1404.830	1406.840		but it's gonna eventually be part of the kitchen.
+1407.800	1409.660		... And we're moving the utility room.
+1412.140	1413.000		... So=,
+1415.160	1416.240		... and this=.
+1416.240	1416.820		@T- --
+1416.820	1417.560		... This is a joke.
+1417.560	1418.660		.. N_look at this.
+1419.840	1420.600	SETH:	... (SNIFF)
+1420.680	1421.350	LARRY:	... (Hx)
+1421.350	1422.370	SETH:	.. [(TSK)_Well] some of these,
+1421.350	1421.850	LARRY:	   [X]
+1422.050	1424.050		Maybe maybe this doesn't make any sense,
+1424.050	1424.250		[to] --
+1424.050	1426.920	SETH:	[well] some of these things you may wanna wait until you do the remodel.
+1427.040	1427.460		... [2<X Like X>2] --
+1427.040	1429.190	LARRY:	    [2I'm th-2] I'm I'm wa- I'm beginning to won[3der if3] --
+1428.920	1429.960	SETH:	[3Because what I3] would prob- --
+1429.960	1431.130		.. What you can do,
+1431.740	1432.240		... [uh=],
+1431.740	1432.240	LARRY:	    [(HICCUP)],
+1432.240	1433.640	SETH:	is tap right off the plenum.
+1433.640	1436.630		Cause the furnace is ... somewhere in that general area.
+1436.660	1437.290	LARRY:	... It's right there,
+1437.290	1437.950		yeah.
+1437.950	1440.230	SETH:	... And you can just tap right off the plenum with a duct,
+1440.230	1441.420		... and bring it to this room.
+1441.270	1441.610	LARRY:	Okay.
+1441.650	1442.730		Well that's what we wan[ted to --
+1442.290	1443.440	SETH:	                       [So that can be done],
+1442.730	1444.320	LARRY:	that's what we wanna kn- .. wanna know.
+1444.320	1446.090	SETH:	that can be done at a later time.
+1446.090	1446.670	LARRY:	.. Alright.
+1446.810	1447.620		(H) [But maybe t-] --
+1446.810	1448.370	SETH:	    [That can be done at] .. [2at any time.
+1447.620	1449.870	LARRY:	[2maybe for the sake of2] your quotation,
+1448.370	1448.840	SETH:	Really2].
+1449.870	1451.180	LARRY:	you should ... say,
+1451.180	1454.900		this is what it's gonna cost you to put in ... a duct here,
+1455.130	1456.160		... all these ducts,
+1456.160	1456.920		... at [this] time.
+1456.300	1456.610	SETH:	       [Yeah].
+1456.930	1457.370		[2Okay2].
+1456.930	1457.790	LARRY:	[2Now I don't2] know if --
+1457.790	1459.920		(H) if we can price em out individually,
+1459.920	1460.410		or not.
+1460.420	1460.740	SETH:	.. Sure.
+1460.740	1461.410		I call this what,
+1461.410	1462.720		utility r- .. utility room,
+1462.720	1463.250	LARRY:	Yeah.
+1463.250	1464.290		.. Just pu- uh .. call it [a] --
+1464.090	1466.130	SETH:	[figure] a duct somewhere on this wall you think?
+1466.170	1466.530	LARRY:	... Yeah.
+1466.530	1468.380		Let's just assume it'd be on this wall.
+1469.050	1469.710	SETH:	... Okay.
+1472.270	1473.570		... Utility room kitchen,
+1473.760	1476.220		... that back one we'll call that ... pantry,
+1477.150	1477.670	LARRY:	... Yeah.
+1477.670	1478.470		.. Pantry,
+1479.670	1481.720		... and then you got the dining room glass,
+1481.990	1483.160	SETH:	... dining room,
+1482.780	1484.050	LARRY:	glass dining [room],
+1483.160	1484.510	SETH:	             [and then the par]lor.
+1484.530	1486.330	LARRY:	... and then the .. parlor,
+1486.800	1488.350		... one [on each] end there.
+1487.080	1487.440	SETH:	        [(SNIFF)]
+1492.300	1492.730		... Yeah.
+1492.730	1493.390		.. Cause we can do em now,
+1493.390	1494.570		or we can do em later.
+1494.840	1499.290		... But it's not ... any more difficult ... to do em .. at a later time.
+1500.270	1502.150		... So it's not like you ha=ve to do it now.
+1502.150	1502.740	LARRY:	Okay.
+1507.370	1509.190	SETH:	... So the registers that we're connecting to,
+1509.190	1509.830		that are existing,
+1509.830	1510.860		how many of those we have got.
+1510.860	1512.160		We've got the one in the kitchen,
+1514.190	1515.420		... and then we've got= uh,
+1515.420	1517.450		one in the d- .. living room here,
+1522.210	1523.230	LARRY:	... That guy,
+1523.310	1525.470		... then there's one in the bathroom,
+1525.470	1528.180		there's one in the s= ... study,
+1529.420	1531.340		... and there is one in the .. library.
+1531.350	1532.590		.. Or in the parlor.
+1534.170	1535.420		... I don't know what we'd do with that.
+1535.420	1536.450		... Do we disconnect that,
+1536.450	1537.420		if we put two,
+1540.450	1541.340		... or do you leave it.
+1541.350	1542.300	SETH:	.. Uh=,
+1542.300	1543.760		.. yeah I might disconnect that.
+1546.120	1547.940		... Well it's not .. it's not connected up right now.
+1547.940	1548.630		So,
+1549.600	1550.410	LARRY:	... Oh that's right.
+1550.920	1552.000	SETH:	... so it'd just be a matter w- --
+1552.000	1552.650		.. Actually it sh- --
+1552.650	1554.580		.. it should be capped off probably though.
+1556.870	1558.450		... And this is the study,
+1564.240	1565.470		... one right there,
+1570.460	1571.820		... and the bathroom's got one?
+1571.900	1572.920	LARRY:	.. Bathroom's got one,
+1572.920	1574.130		over by the shower there.
+1574.480	1575.310		... On the floor,
+1575.730	1576.420	SETH:	... Okay.
+1612.380	1612.690		... Okay,
+1612.690	1614.340		let me take a look downstairs again,
+1614.650	1615.220	LARRY:	... okay.
+1615.450	1616.840	SETH:	... at that furnace.

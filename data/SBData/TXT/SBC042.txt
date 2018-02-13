@@ -1,0 +1,719 @@
+0.000	2.278	KENDRA:	... What'd you do ~Sabrina?
+2.278	4.417	SABRINA:	... Nothing.
+4.417	5.927		... I left the phone in my bedroom <% last night,
+5.927	6.966		and so I'm grounded from the phone %>.
+6.966	9.073		(H)= (YAWN)=
+9.073	11.029		... <YWN It was [an accident YWN>].
+9.903	11.523	GEMINI:	[You guys are always in] trouble.
+11.523	12.307		What's up with [2that2].
+12.085	13.224	KENDRA:	[2Mo2]m's a b=itch.
+13.224	23.191	>ENV:	... ((CAR_DOOR_OPEN))
+23.191	29.587	KITTY:	... Get your feet off of there.
+29.587	33.741		... Get your feet .. off of there.
+33.741	36.188	>ENV:	... ((CAR_DOOR_CLOSE))
+36.188	38.254		.. ((CAR_START))
+38.254	61.471	KENDRA:	... You're so stupid thinking I spent the night.
+61.471	63.520		... I came home last night and told you.
+63.520	64.047	SABRINA:	~Kendra,
+64.047	64.990		.. just let it go.
+64.990	65.407	KITTY:	[You] --
+64.990	65.407	KENDRA:	[No],
+65.407	65.916		because she does[2n't2] --
+65.736	67.290	KITTY:	[2A=2]ll you [3said last night was,
+66.201	67.769	KENDRA:	[3She thinks .. I spent the night <X in my jeans X>3] --
+67.290	69.428	KITTY:	<MRC Kim3] wasn't stay[4ing the night MRC>4].
+68.399	69.272	KENDRA:	[4If I did spend the night,
+69.272	69.928		and4] I was trying to lie,
+69.928	70.700		I would give up.
+70.700	71.822		.. Cause then I wouldn't ca=re.
+71.822	73.790		... Cause I knew I deserved it.
+73.790	74.536		But I didn't spend the night,
+74.536	75.599		and I don't deserve this.
+75.599	79.106		... Kim couldn't spend the night,
+79.106	79.764		I told you.
+79.764	80.622		.. (H) She could,
+80.622	81.145		but then af- --
+81.145	82.609		I wanted to stay at the game longer?
+82.609	83.902		(H) And her mom wanted to take her home early,
+83.902	84.191		and I'm like,
+84.191	85.158		no= let's stay longer.
+85.158	86.015		But her mom wouldn't let her?
+86.015	87.186		.. (H) And so she went home and,
+87.186	87.501		I was like,
+87.501	88.279		I'll call you when I get home,
+88.279	88.793		and then you come over.
+88.793	89.092		And she goes,
+89.092	90.374		.. (H) no just .. spend the night.
+90.374	91.579		We'll .. do this some other weekend.
+91.579	92.170		Okay cool,
+92.170	94.441		... cause she had to go bowling in the morning.
+94.441	97.479		... <VOX Talk to Melanie's mom VOX>.
+97.479	98.319		Her mom would know.
+98.319	99.740		... I'll have Melanie call you.
+99.740	100.452	KITTY:	... Oh,
+100.452	101.169	KENDRA:	Her [mom call you,
+100.568	101.112	KITTY:	[right,
+101.169	101.523		right,
+101.169	102.058	KENDRA:	her mom wouldn't lie,
+101.523	102.058	KITTY:	right,
+102.058	104.085		Melanie will call me to] confirm your lie,
+102.058	103.138	KENDRA:	.. Melanie lies but],
+104.085	105.211	KITTY:	you'll get a hold of her first.
+105.211	106.228		I know how that works.
+106.228	107.579	KENDRA:	No Melanie's mo=m.
+107.579	110.968	KITTY:	... <VOX I thought Melanie didn't have a pho=ne.
+110.968	114.648		... But I'm supposed [to ca]=ll Melanie's mo=[2=m VOX>2].
+112.539	112.927	KENDRA:	[(SIGHS)]
+114.178	115.866		[2<VOX I didn't want2] you to have her phone number VOX>.
+115.866	118.625	KITTY:	... Yeah,
+118.625	119.777		another lie.
+119.777	120.436		Remem[ber]?
+120.088	121.232	KENDRA:	[(TSK) That was a] long time [2ago2].
+120.841	122.146	KITTY:	[2Now I'm2] supposed to re- %a- --
+122.146	124.547		(H) And I'm supposed [3to <HI tr3]ust HI> you every time you tell the truth,
+122.865	123.234	KENDRA:	[3(THROAT)3]
+124.547	126.692	KITTY:	[4(H) <VOX but how am I supposed to know when4] you're telling the [5truth5].
+124.547	125.738	KENDRA:	[4That was a joke4].
+126.158	127.508		[5That was a jo=ke5].
+127.508	127.869	KITTY:	<F Yeah=,
+127.869	130.465		and I'm supposed to read your mind and know what you're joking about F>VOX>.
+130.465	131.280	KENDRA:	.. No= but,
+131.280	132.039		it was a joke.
+132.039	132.818	KITTY:	You know ~Kendra,
+132.818	133.373		... %y- --
+133.373	134.483		I don't know how many times I gotta tell you,
+134.483	135.362		once you lie=,
+135.362	137.027		... once you [<F lie F>,
+136.359	136.728	KENDRA:	[XXX
+136.728	138.239		.. (TSK) Are they having a carwash]?
+137.027	138.822	KITTY:	you lose th- .. complete] trust.
+138.822	139.601	SABRINA:	... No.
+139.601	140.721	KENDRA:	... Yeah they are.
+140.721	141.626	KITTY:	.. Yeah that's [what it is a,
+141.159	142.344	KENDRA:	[We should have a carwash the=re].
+141.626	143.283	KITTY:	.. carwa]sh and a bakesale.
+143.283	145.182		... They're not getting any people though.
+145.182	145.995	KENDRA:	... Mm.
+145.995	147.766		... Hot out.
+147.766	149.600	SABRINA:	... What's that supposed to be,
+149.600	150.814		they're making it into something.
+150.814	152.444	KITTY:	.. You're not going anywhere [for a while].
+151.823	152.444	KENDRA:	[It's a bookstore].
+152.444	153.951	SABRINA:	... Really?
+153.951	155.058	KENDRA:	... <VOX<F Go=d,
+155.058	156.126		I didn't spend the night,
+156.126	157.044		that's what makes me so m=ad,
+157.044	158.125		I'm grounded for nothi=ng.
+158.125	160.022		... I was home all night last night,
+160.022	161.186		I came home and told you.
+161.186	163.629		... (H) And even my <X cuffs X> and everything's on my bed F>VOX>.
+163.629	169.811		... <P So stupid P>.
+169.811	173.263		... Next time if I leave in the morning,
+173.263	173.900		I'll wake you up.
+173.900	175.284		(H) Mom I'm .. awake now,
+175.284	176.083		I'm [leaving].
+175.506	177.488	KITTY:	[<VOX<F Well you woke] me up last ni=ght,
+177.488	179.277		to tell me Kim wasn't spending the night,
+179.277	181.034		I don't know why you couldn't wake me up in the morning,
+181.034	182.350		to tell me that you were going F>VOX>.
+182.350	189.811		... You guys wake me up every time I'm trying to take a little <VOX na=p VOX>.
+189.811	191.943	KENDRA:	... <X What if we are awake X>.
+191.943	193.282		.. I was tired this morning.
+193.282	195.120		... So much fun.
+195.120	196.624		.. My hair looks like a <X mess X>.
+196.624	197.829		... I left it in a ponytail,
+197.829	198.798		I didn't even have time to take a shower.
+198.798	201.759		... I think if I spent the night I would've took a shower.
+201.759	214.618		... All I need is your signature so I can .. play the volleyball.
+214.618	215.408		On [the volleyball] team.
+214.746	215.157	KITTY:	[No].
+215.408	215.895		.. No.
+215.895	216.812	KENDRA:	(H) <F<VOX Why=.
+216.812	218.246		.. It's just volleyba=ll VOX>F>.
+218.246	221.075		... It's f- like .. on Saturdays and Wednesdays.
+221.075	222.983		... It's for church.
+222.983	224.139		... It's fun.
+224.139	228.562	KITTY:	... <MRC You have practice every Wednesday MRC>.
+228.562	229.151	KENDRA:	Yeah but,
+229.151	229.831		.. not %at- %uh --
+229.831	231.102		This is at six thirty.
+231.102	233.504	KITTY:	.. [<MRC I don't care MRC>].
+232.423	234.029	KENDRA:	[And Susan's going to it] too.
+234.029	243.515	SABRINA:	... Mm.
+243.515	244.330		Who cut the grass.
+244.330	245.724	KENDRA:	... ~Marlena did it.
+245.724	246.937	KITTY:	~Marlena did it a long time ago,
+246.937	248.074		but it hasn't been watered.
+248.074	249.416		... It's .. dying.
+249.416	256.514	>ENV:	... ((CAR_DOORS_AND_ENGINE_OFF))
+256.514	259.525	GEMINI:	... [I know].
+259.025	260.349	SABRINA:	[<X Gonna rip X>] your purse.
+260.349	260.919	GEMINI:	I know,
+260.919	262.164		XXX
+262.164	265.135	KENDRA:	... See if I spent the night Mom,
+265.135	267.017		you'd think I'd still be in my uniform?
+267.017	271.726	KITTY:	... I know she's --
+271.726	272.110		J- she- --
+272.110	274.343		See now she's trying to think of ways to cover her tracks.
+274.343	275.349		I know what you're doing.
+275.349	277.403		... Seen this before.
+277.403	278.409	SABRINA:	.. I'm hungry.
+278.409	279.736	KITTY:	... Shit.
+279.736	291.290	>ENV:	((FOOTSTEPS))
+291.290	292.698	MARLENA:	.. <X I .. love your jeans X>.
+292.698	295.084	SABRINA:	<X<P Cause I wanted to go to the bathroom when you're done P>X>.
+295.084	296.283	MARLENA:	... Anyways,
+296.283	297.010		they were not.
+297.010	298.223	CURT:	.. Did you get a sawsall?
+298.223	298.900	KITTY:	.. Yes,
+298.900	299.520		it's right here.
+299.520	300.055	CURT:	.. Oh.
+300.055	301.379	KITTY:	... I got the blades.
+301.379	303.588		... They're right here.
+303.588	306.378	CURT:	... Do you remember the uh,
+306.378	309.624		... X program on TV,
+309.624	311.261		.. about hunter virus,
+311.261	313.191	KITTY:	... About what virus?
+313.191	314.110	CURT:	.. Hunter virus,
+314.110	315.197	KITTY:	... Hutter.
+315.197	317.057		... What's that about.
+317.057	318.159		I don't re- I don't remember.
+318.159	320.256	CURT:	... It's the one from the dead mice,
+320.256	321.097	KITTY:	... Oh,
+321.097	321.679		yeah.
+321.679	322.710		... Is it,
+322.710	325.292		... is it all over now?
+325.292	327.489		... Is it for real now?
+327.489	328.946		... Is it in here?
+328.946	330.279		Is it in the United States now?
+330.279	331.643	CURT:	... XXX they said,
+331.643	334.678		.. they already determined it was in like eighteen different states.
+334.678	335.295	SABRINA:	.. What.
+335.295	335.910	KITTY:	.. So,
+335.910	336.881	CURT:	[The hunter virus].
+335.910	336.249	KITTY:	[What,
+336.249	336.881		what are you g-] --
+336.881	337.285	CURT:	[2Well2],
+336.881	337.940	KITTY:	[2So what2]'re you getting at.
+337.940	340.969	CURT:	... [3That insulation out there3] with the mice shit in it?
+338.919	339.726	KITTY:	[3<X Did you just wash- X>3] --
+340.969	341.538		Yes,
+341.538	342.415	CURT:	Really bothers me.
+342.415	342.916	KITTY:	.. I n- --
+342.916	343.979		Oh oh I know.
+343.979	345.507		I mean that's the thing I thought of too.
+345.507	346.769	CURT:	... Well,
+346.769	349.258		it's all packed up in ... garbage bags now.
+349.258	350.057		I didn't even touch it.
+350.057	351.969		... Used a hoe,
+351.969	352.854		stuffed it X.
+352.854	356.296		... @= @@@[@]
+355.974	357.253	KITTY:	[X]X XXX.
+357.253	358.950	CURT:	... I didn't touch anything.
+358.950	360.326		.. Don't touch anything yellow.
+360.326	360.955		.. Okay?
+360.955	362.546		.. Not with your gloves or anything.
+362.546	364.917		... [Find some]thing else to pick it up with.
+363.364	363.817	KITTY:	[Mhm].
+364.917	365.373		.. Did you --
+365.373	366.815		Did you .. put it in a trash bag?
+366.815	368.519	CURT:	.. I took that brown trash thing,
+368.519	369.577		and tucked a bag in it.
+369.577	370.857		.. And then I put them in there.
+370.857	372.380		.. S=quashed em [down],
+371.954	373.484	SABRINA:	[I'm starting the] [2dishwash2]er[3=3],
+372.380	372.771	KITTY:	[2<X You need s- X>2] --
+372.987	374.290	CURT:	[3I packed3] two bags full.
+374.290	375.739	KITTY:	... Okay.
+375.739	377.938		... I'm gonna go to the bathroom.
+377.938	379.463		.. Me and ~Kendra got in another fight.
+379.463	382.960	SABRINA:	... Mom I'm [starting the dishwasher].
+381.906	382.925	KENDRA:	[Let me tell you right now],
+382.925	384.300		I did no=t spend the night.
+384.300	387.013		... This [is stupid].
+386.418	386.826	SABRINA:	[~Kendra,
+386.826	388.055		I'm] starting the [2dishwasher2].
+387.270	388.703	KITTY:	[2<F<X Well maybe X> you've done it2] too many times,
+388.703	390.091		[3I don't believe it anymore F>3].
+388.703	389.439	KENDRA:	[3<F I'm not gonna --
+389.439	390.326		If I would've3] done it,
+390.326	391.972		I would have s- told you after a while F>,
+391.972	392.725		I would have told you.
+392.725	393.435		.. <F This isn't fair,
+393.435	394.708	SABRINA:	[After a while].
+393.435	394.708	KENDRA:	[I'm being punished for no reason F>].
+394.813	396.498	SABRINA:	.. After three days <X a while X>.
+396.498	397.342		.. Whoah.
+397.342	398.516	KENDRA:	Fucking stupi=d.
+398.516	405.820	SABRINA:	... (YAWN)
+405.820	412.545	>ENV:	((DISHWASHER_CLOSING))
+412.545	413.964	SABRINA:	Back hurts.
+413.964	422.153	CURT:	... (SNIFF) .. You know that oil light in your car,
+422.153	423.610	SABRINA:	... I had an oil leak?
+423.610	425.314	CURT:	... The oil light.
+425.314	425.856	SABRINA:	.. [Oh].
+425.314	426.184	CURT:	[Little light] kept --
+426.184	426.761	SABRINA:	Yeah,
+426.761	427.619	CURT:	.. Wouldn't go off?
+427.619	429.168	SABRINA:	... It doesn't go off.
+429.168	429.621	CURT:	.. Huh?
+429.621	430.033	SABRINA:	.. No,
+430.033	430.780		%- it doesn't go [off].
+430.470	431.735	CURT:	[Well it] doesn't light anymore.
+431.735	432.802	SABRINA:	... Goo=d.
+432.802	434.814	CURT:	... That's what was making your car not stop.
+434.814	435.515		.. Not [start].
+435.233	436.447	X:	[<SING XXX SING>]
+436.447	437.914	SABRINA:	... Was the light?
+437.914	438.377	CURT:	.. Yep.
+438.377	439.958		... It's a safety device.
+439.958	441.383	SABRINA:	... Huh?
+441.383	442.320	CURT:	It's a safety circuit.
+442.320	442.811	SABRINA:	.. Uh[uh],
+442.721	443.922	CURT:	[The] manufacturer put in there.
+443.922	444.801		.. When your oil --
+444.801	445.973		... It tells them that,
+445.973	447.529		... when there's no oil pressure,
+447.529	448.306		your engine's gonna f-,
+448.306	449.503		... gonna .. burn up.
+449.503	450.119		.. So.
+		
+450.119	451.734	CURT:	... [When that light comes on,
+450.690	451.848	MARLENA:	[<X Would you turn on the light X>]?
+451.734	452.685	CURT:	it] grounds the ignition,
+452.685	453.520		and you [2had no spa2]=rk.
+452.811	453.317	KITTY:	[2No=2],
+453.520	454.246	MARLENA:	... Why.
+454.246	455.115	CURT:	Makes it shut [off,
+455.005	456.824	KENDRA:	[Mom doesn't believe I didn't] [2spend the night2],
+455.115	455.960	CURT:	you don't have to worry about it].
+455.960	457.092	SABRINA:	[2Oh so that's2] why?
+457.092	458.328	KENDRA:	<X believe I didn't X> spend the night,
+458.328	459.047	SABRINA:	Okay.
+459.047	459.711	KENDRA:	and I didn't,
+459.711	460.934		... and if I [did,
+460.620	461.137	SABRINA:	[<X<P It's too big P>X>].
+460.620	461.597	GEMINI:	[<X<P What do you want me] [2to do P>X>2].
+460.934	461.437	KENDRA:	..] [2I would --
+461.437	461.905		I2] [3wouldn't3] --
+461.709	461.905	SABRINA:	[3N-3] --
+461.905	463.260	KENDRA:	I would be taking my punishment,
+463.260	464.191	SABRINA:	[<P Mm= P>].
+463.260	463.854	KENDRA:	[and I didn't,
+463.854	464.191		and I] --
+464.191	465.289		X XX [2X2] --
+464.879	465.577	GEMINI:	[2<P XXX2] [3X P>3]?
+465.289	465.577	KITTY:	[3Oh3],
+465.577	465.971		right,
+465.971	466.387		she says,
+466.387	468.588		[(H) <F if I did I'd be taking my punishment.
+466.387	471.226	KENDRA:	[((INAUDIBLE))]
+468.588	471.167	KITTY:	(H) Since whe=n has she taken her punishment F>].
+471.167	472.062	KENDRA:	.. If I ha=d,
+472.062	472.904	KITTY:	<F R=ea=lly F>.
+472.904	474.477	KENDRA:	[<X What if she] [2XX2] punish X>.
+472.904	473.604	MARLENA:	[XXXX]
+473.604	474.131	KITTY:	[2What a2] --
+474.477	474.784		(PFF)
+474.784	475.331	MARLENA:	Why are you --
+475.331	476.224		[XXX][2XXX2]
+475.331	476.224	SABRINA:	[U=][2=m2],
+475.548	476.224	KITTY:	[2<VOX Oh= VOX>2].
+476.224	477.517	GEMINI:	.. [3@@@@3]
+476.709	477.517	KENDRA:	[3Grounded for a month3],
+477.517	478.756		[4<YELL and I didn't do nothing4].
+477.517	478.756	GEMINI:	[4<X Turn off the heater X>4].
+478.756	481.108	KENDRA:	.. [5I went to volleyball practice5] [6at church6].
+478.988	480.301	SABRINA:	[5<X Just likes if it's still XX X>5].
+480.301	481.108	GEMINI:	[6@Go=d6].
+		
+481.224	482.362	KENDRA:	[7I went up to the church YELL>7].
+481.108	481.550	MARLENA:	[7<YELL Mo=m,
+481.550	483.456		she didn't YELL> s7][8pend the night8],
+482.362	482.642	KITTY:	[8<YELL Hey,
+482.642	483.456		stay out of it8].
+483.456	484.289		... Stay out of it,
+484.289	485.529		you're not involved in this YELL>.
+485.529	488.467	KENDRA:	... Don't bother with her,
+488.467	490.018	CURT:	(COUGH) ... (COUGH)
+490.018	490.996	KENDRA:	<X she'll just get angry X>.
+490.996	494.751	KITTY:	... <YELL You been caught in a lie ~Kendra,
+494.751	496.085		and that's the whole thing.
+496.085	497.685		That's why you're pissed YELL>.
+497.685	500.478	GEMINI:	... Hey,
+500.478	505.233	CURT:	... It's gonna be a[nother wonderful Saturday].
+503.531	507.525	KITTY:	[<YELL Well then this makes up for all] the other [2lies I did2][3n't catch you3] in YELL>.
+505.570	506.394	GEMINI:	[2@@@@2]
+505.570	507.250	CURT:	[2I can ..2] [3tell already3].
+507.525	508.669		And I'm getting out of here.
+508.669	510.798	GEMINI:	... @@@@@
+510.798	512.169	SABRINA:	At least you ca=n.
+512.169	515.073	CURT:	... <X Uh I'm going outside and get uh,
+515.073	517.112		... after the third X>,
+517.112	522.592	GEMINI:	... I have a like mosquito bite,
+522.592	523.925		it h=urts like h=eck.
+523.925	525.515	KITTY:	.. Oh= there's no more coffee.
+525.515	529.242	SABRINA:	... That mu=st be the reason for your jovial-,
+529.242	529.872		um=,
+529.872	532.337		... attitude this morning.
+532.337	535.747	KITTY:	... Well I'm,
+535.747	539.595		... I'm irritated at ... you staying the night without permission too.
+539.595	546.026	GEMINI:	... (HUMMING)
+546.026	553.395	KITTY:	... Saturday,
+553.395	554.658		I already told you guys I need,
+554.658	556.408		gonna need your help .. % this weekend.
+556.408	558.687		.. <VOX Yeah yeah yeah yeah VOX>.
+558.687	563.283		... I don't believe ~Kendra.
+563.283	565.823	SABRINA:	... Well I don't care w- you believe her or not.
+565.823	567.090		<X She's X> not my problem.
+567.090	569.767	KITTY:	... Well it is your problem in a way,
+569.767	570.875		you live in this house.
+570.875	571.563	SABRINA:	.. %Uh ts- --
+571.563	573.674		% <VOX Yeah I I know I live in this house VOX>.
+573.674	574.010		Bu[=t],
+573.801	574.264	GEMINI:	[X],
+574.264	574.988		what are these.
+574.988	576.495	SABRINA:	... Just stick em over here.
+576.495	578.497	GEMINI:	... You wanna wash em first?
+578.497	578.866	SABRINA:	.. <% Yeah %>.
+578.866	596.234	>ENV:	((WASHING_DISHES))
+596.234	598.304	KITTY:	.. Found out Melanie is just like Susan.
+598.304	600.665	SABRINA:	... Drugs and stuff?
+600.665	601.825	KITTY:	... Susan,
+601.825	602.574		... no=.
+602.574	605.823		... The little escapades they all think of.
+605.823	606.986	SABRINA:	.. <P Do you wanna cookie P>.
+606.986	607.918	GEMINI:	.. What?
+607.918	608.786	SABRINA:	.. You wanna cookie.
+608.786	609.660	GEMINI:	No=.
+609.660	611.698	KITTY:	... You [better get em while you can,
+610.944	612.982	>ENV:	[((PHONE_RINGS))]=
+611.698	612.571	KITTY:	there's only a couple left].
+612.982	613.552		I'll get that.
+613.552	614.182	SABRINA:	You get it.
+614.182	616.649	ENV:	... ((PHONE_BEEP))
+616.649	617.406	KITTY:	.. Hello?
+617.406	619.964		... ~Kendra's grounded from the phone.
+		
+619.964	620.802	SABRINA:	<X Is that like traveling X>.
+620.802	621.306	KITTY:	Who is this.
+621.306	622.238	SABRINA:	... Are you sure?
+622.238	622.559	KITTY:	.. Yeah,
+622.559	623.606		she's grounded from the phone.
+623.606	624.554	SABRINA:	Let me see if we have enough milk.
+624.554	625.626		Then we can [have c]ereal.
+624.958	625.251	KITTY:	[What]?
+625.626	626.303		... No.
+626.303	626.976		.. Just again.
+626.976	628.111		.. She did something again.
+628.111	631.051		... She= didn't come home last night.
+631.051	632.330	MARLENA:	... <HI Yes she did HI>.
+632.330	636.510	SABRINA:	... Well we have lots of cereal.
+636.510	637.375		Just [no milk].
+636.848	637.723	KITTY:	[Alright yeah I'll] tell her.
+637.723	638.773	GEMINI:	... [2@@@2]
+638.142	638.773	KITTY:	[2Bye2].
+638.773	640.505	>ENV:	... ((HANGS_UP_PHONE))
+		
+640.505	642.495	SABRINA:	... <X I'm gonna go [to the store and get some milk X>].
+641.724	644.326	KITTY:	[<F You don't know] for a fa=ct that she came [2home,
+644.106	645.080	MARLENA:	[2Neither do you2].
+644.326	645.080	KITTY:	okay F>2]?
+645.080	646.184		.. <F<MRC Yes I do MRC>F>,
+646.184	647.225		I went in her room,
+647.225	648.652		and .. she wasn't in there.
+648.652	650.813	SABRINA:	.. <FOOD Mom I'm gonna pick up some milk at the store FOOD>.
+650.813	653.020	MARLENA:	... <F You're probably lying about that Mom F>.
+653.020	654.114	KITTY:	... <YELL Hey,
+654.114	656.134		... don't start on me=.
+656.134	657.976		.. And I said s=tay out of it,
+657.976	659.628		it's none of your concern YELL>.
+659.628	665.193		... Sure you [don't wanna go back home] ~Gemini?
+663.631	664.442	GEMINI:	[What do I do with this].
+665.193	666.811		... @(Hx)= @@ @(H)
+666.811	667.568		.. <@ It's okay @>.
+667.568	670.573	KITTY:	... See how she does that?
+670.573	673.786		... <X Check [that bill X>].
+673.034	673.786	MARLENA:	[(COUGH) (COUGH)]
+673.786	676.481	GEMINI:	... Hey what do you do with this,
+676.481	677.555		[you wanna wash this too]?
+676.481	677.555	MARLENA:	[(THROAT) .. (THROAT)]
+677.555	683.930	KITTY:	... You know what I really want done is that laundry over there.
+683.930	684.968		I don't know what's what.
+684.968	686.473		That looks like .. [sh=it].
+685.739	686.473	SABRINA:	[It's ~Marlena's].
+686.473	696.493	KITTY:	... We're gonna be to- --
+696.493	698.132		We're gonna be doing your bedroom ~Sabrina.
+698.132	700.430	SABRINA:	... The wa=ll?
+700.430	700.898	KITTY:	.. Yes,
+700.898	701.939		that outside wall.
+701.939	703.786		... And it's gonna take a while.
+703.786	714.454	SABRINA:	... Yeah I'm --
+714.454	715.415		I wanna go get some milk.
+715.415	722.306	KITTY:	... By the way ~Sabrina,
+722.306	723.466		the vacuum cleaner works.
+723.466	724.302	SABRINA:	... Wha=t?
+724.302	726.181	KITTY:	... This vacuum cleaner's working,
+726.181	728.313		... this one right here.
+728.313	730.555		... It works pretty good.
+730.555	731.421		~Curt fixed it.
+731.421	734.239	GEMINI:	... <SING X XX X SING>
+734.239	736.475		... What do I do with this.
+736.475	738.077	SABRINA:	... Uh,
+738.077	738.933		.. stick it on th- --
+738.933	739.408	KITTY:	.. Mm.
+739.408	740.911	SABRINA:	... X --
+740.911	741.785		... Mom,
+741.785	742.551		.. I wanna go --
+742.551	745.289	KITTY:	... (HICCUP) .. %What?
+745.289	745.933	SABRINA:	.. I want milk.
+745.933	746.751		.. There's no milk.
+746.751	747.937	KITTY:	... There's no=ne?
+747.937	748.461	SABRINA:	No=ne.
+748.461	749.838		.. I just threw away the gallon.
+749.838	750.912		That was [the last one].
+750.096	750.437	KITTY:	[Well,
+750.437	751.841		a=fter] this place gets clean,
+751.841	752.750		then you can go get some.
+752.750	753.636	SABRINA:	... %Well,
+753.636	755.132		% .. I haven't had breakfast yet.
+755.132	760.814	KITTY:	... You know Jennifer's jacket here has a rip in it?
+760.814	761.632		Did you know that?
+761.632	763.460	SABRINA:	... Hm-m.
+763.460	765.011	KITTY:	... <P<% It's got a rip in it %>P>.
+765.011	766.167	SABRINA:	... It does?
+766.167	767.990	KITTY:	... <P<X And I don't really see X>P> XXX.
+767.990	769.573		.. The seam is coming apart.
+769.573	770.786	SABRINA:	... Where.
+770.786	773.381	KITTY:	... Where did I see it.
+773.381	775.575		... I know I saw it.
+775.575	778.616		... I saw it just laying there.
+778.616	784.411	SABRINA:	... Oh=,
+784.411	784.951		Mom?
+784.951	785.489	KITTY:	Yeah?
+785.489	786.413	SABRINA:	... When we turn --
+786.413	788.423		% When we turn in the five hundred dollars?
+788.423	789.692		... For[=],
+789.545	790.115	KITTY:	[It's g]otta be due --
+790.115	790.547		It's gotta --
+790.547	791.700		It's due on the sixth.
+791.700	792.175		.. By the way,
+792.175	792.867		here's your watch.
+792.867	793.996	SABRINA:	... Okay.
+793.996	795.864		.. When we um ... turn it in?
+795.864	796.894		... Let's turn- --
+796.894	798.010		I'm gonna turn in that,
+798.010	800.387		all that stuff for my si=zes and stuff with it.
+800.387	801.581	KITTY:	... Oh okay.
+801.581	804.056		... I don't know what to do with this.
+804.056	806.132		... This is [you guys's].
+805.395	808.579	SABRINA:	[I have to] take it to Jennifer ~Stevenson's ... house.
+808.579	810.559	KITTY:	... Have to take it to Jenn[2ifer's2]?
+810.141	810.942	SABRINA:	[2Jennifer2]'s=.
+810.942	813.250	KITTY:	... Oh did she buy that jacket?
+813.250	813.715	SABRINA:	Yeah it's,
+813.715	814.722		it s- has her name on it.
+814.722	815.448	KITTY:	.. Oh I know,
+815.448	816.886		but I thought maybe she didn't buy- --
+816.886	817.221		Oh.
+817.221	818.077		.. <P Oh that's right,
+818.077	818.616		you have to buy it,
+818.616	819.767		if it's gonna XXXX P>.
+819.767	832.462	GEMINI:	... We=ll I guess that .. note --
+832.462	847.130		... My da=d is home now,
+847.130	848.508		he's probably gonna look at it too.
+848.508	849.535		... @~Sabrina,
+849.535	850.661		.. [(H)] he's gonna read it.
+849.631	849.930	SABRINA:	[Hm],
+850.661	851.549	GEMINI:	And he's gonna be like <VOX<HI wha=t HI>VOX>?
+851.549	852.507		@@@
+852.507	853.977		... @(H)=
+853.977	854.400		[@@]
+854.081	856.292	SABRINA:	[Say it was] one of those notes that you just wrote to X.
+856.292	857.700	KITTY:	... Did you leave a note --
+857.700	859.353		.. Did your parents know where you're at?
+859.353	859.821	GEMINI:	.. Yeah.
+859.821	860.731		My parents know.
+860.731	864.722	KITTY:	... See=?
+864.722	871.208	GEMINI:	... (H) But my letter to [my <@ boyfrie]=nd is on the table @>.
+868.203	868.773	KITTY:	[See some] --
+871.208	874.515	GEMINI:	@(H)= I forgot to .. bring it with @me= @@@@@.
+874.515	876.696		... (H) .. There gonna be like <VOX<HI wha=t HI>VOX>?
+876.696	877.107		@@
+877.107	878.583		... @(H)=
+878.583	885.935	KITTY:	... <FOOD You just <X want X> a cookie FOOD>?
+885.935	887.252	SABRINA:	... Yes I do,
+887.252	887.822		cause I didn't have,
+887.822	888.238	KITTY:	<FOOD<X Alright [here X>FOOD>].
+888.048	888.752	SABRINA:	[just] had one.
+888.752	890.726	KITTY:	... This one's all I had.
+890.726	891.230		.. <X Yeah X>.
+891.230	897.100	SABRINA:	... <P<X Get some milk X>P>.
+897.100	904.290		... (Hx) ... Are those the sweet peppers?
+904.290	905.189	KITTY:	... Mhm.
+905.189	906.261	SABRINA:	... ~Gemini,
+906.261	907.459		have you ever tried a sweet pepper?
+907.459	908.869	GEMINI:	@(Hx) @@ @(H)
+908.869	909.132		I don't --
+909.132	909.866		I don't XX,
+909.866	910.747		I like it hot.
+910.747	911.976		<@ I like it ho- @>.
+911.976	914.913	KITTY:	... You better get em while you can,
+914.913	916.290		cause ~Marlena [XXXX].
+915.433	916.290	SABRINA:	[I hate those].
+916.290	917.951	KITTY:	... I thought you liked em.
+917.951	918.791	SABRINA:	... Mom.
+918.791	920.777		.. How many times have I said [yuck].
+920.330	921.018	MARLENA:	[(THROAT)]=
+921.018	922.101		They're gone anyways.
+922.101	923.273	KITTY:	<FOOD That's the last one FOOD>?
+923.273	923.912	MARLENA:	.. <HI Mhm HI>?
+923.912	927.994	KITTY:	... You're gonna get some milk?
+927.994	930.413		... Why don't you go with her,
+930.413	931.503		and get some more of those ~Marlena.
+931.503	932.842	MARLENA:	.. Unh-unh.
+932.842	933.469	KITTY:	.. Okay?
+933.469	934.197	MARLENA:	.. No.
+934.197	936.869	KITTY:	... So that you can have some.
+936.869	937.589	MARLENA:	... I know,
+937.589	938.284		I don't want any more.
+938.284	939.321	KITTY:	.. You don't want any more?
+939.321	940.197		What about next week.
+940.197	944.999		... XX get some money,
+944.999	945.694		.. get some milk,
+945.694	946.068		and some,
+946.068	947.174		... some of those peppers.
+947.174	948.187	SABRINA:	... Okay.
+948.187	964.532	KITTY:	... By the way,
+964.532	965.227		.. gonna co- --
+965.227	965.937		We're gonna .. co- --
+965.937	968.340		... pour some concrete in that .. breezeway.
+968.340	971.325		... <P<X Oh= no=.
+971.325	974.880		... I hate that noise X>P>.
+974.880	979.361		... Oh shit.
+979.361	982.310		... Do you know where the s- flyswatter is?
+982.310	983.320	SABRINA:	... No=,
+983.320	985.037		.. it's ~Curt's favorite toy.
+985.037	991.690	KITTY:	... It's going,
+991.690	993.529		... uh-[oh],
+993.297	994.152	SABRINA:	[Go]i=ng,
+994.152	995.285	KITTY:	<X Hope that wasn't a drink X>.
+995.285	996.044	SABRINA:	It was ~Marlena's.
+996.044	997.733	KITTY:	... Well pick it u=p.
+997.733	998.199		.. Oh,
+998.199	999.068		it's gone ~Sabrina.
+999.068	1000.765		... [Ooh ooh,
+1000.232	1000.765	SABRINA:	[@@@
+1000.765	1001.007		Great].
+1000.765	1001.883	KITTY:	he's in] the water now.
+1001.883	1003.942		... %
+1003.942	1005.517	SABRINA:	Shall I [turn the disposal on]?
+1004.204	1004.790	KITTY:	[Ooh,
+1004.790	1005.517		.. ooh].
+1005.517	1005.914		Yuck.
+1005.914	1008.160		... He's all yours.
+1008.160	1008.810		<VOX Yuck VOX>.
+1008.810	1010.268	SABRINA:	.. <VOX Thank you Mo=m VOX>.
+1010.268	1013.617		... Yuck.
+1013.617	1019.203		... He went [down].
+1018.912	1020.229	KITTY:	[Well] I gotta go out there and,
+1020.229	1022.746		... and do that work.
+1022.746	1025.014		... Is this yours ~Sabrina,
+1025.014	1026.602	SABRINA:	... Yes=.
+1026.602	1029.718	KITTY:	... See now I can't tell if this is dirty or clean.
+1029.718	1031.141	SABRINA:	... It's ... clean.
+1031.141	1032.681	KITTY:	... It's [clean]?
+1032.335	1033.065	SABRINA:	[It's] white,
+1033.065	1033.520		Mom.
+1033.520	1034.090	KITTY:	... [Well],
+1033.764	1034.090	SABRINA:	[X] --
+1034.090	1034.374	KITTY:	.. %uh,
+1034.374	1035.402		just [becau]se it's white,
+1034.560	1034.800	SABRINA:	[<X Off X>] --
+1035.402	1036.615	KITTY:	doesn't mean it's clean.
+1036.615	1037.295	SABRINA:	.. No=.
+1037.295	1038.543		... %It it's white,
+1038.543	1040.334		means it s- .. shows dirt more.
+1040.334	1042.410		... S=tained.
+1042.410	1045.577	KITTY:	... I'm gonna get a pair of gloves on.
+1045.577	1052.070		... I think ~Curt still has your keys.
+1052.070	1054.468	SABRINA:	... It should be on the table.
+1054.468	1055.560		... On the desk.
+1055.560	1056.709	KITTY:	... N- I don't know.
+1056.709	1060.021		... I don't know where my other [glove is either].
+1059.171	1059.572	SABRINA:	[He --
+1059.572	1060.493		Cause he] um,
+1060.493	1061.738	KITTY:	... Hunh?
+1061.738	1062.825	SABRINA:	When he came to get my car,
+1062.825	1064.055		he was using the spare.
+1064.055	1065.741		... And,
+1065.741	1066.714		.. yesterday,
+1066.714	1067.558		when I was looking at,
+1067.558	1068.745		.. <X the ke- on the desk X>,
+1068.745	1069.635		it was .. the spare- --
+1069.635	1069.925		My --
+1069.925	1071.733		My .. original key was still there.
+1071.733	1072.716		... You know what?
+1072.716	1074.080		.. I think I'm gonna take,
+1074.080	1075.906		trade the spare ... key,
+1075.906	1077.593		... for the original key,
+1077.593	1077.891		cause,
+1077.891	1079.588		everybody makes fun of my key.
+1079.588	1082.675	KITTY:	... What's wrong with that key.
+1082.675	1083.374		I like it.
+1083.374	1085.871	SABRINA:	... Too big and bulky.
+1085.871	1087.476	KITTY:	... You can find it though,
+1087.476	1088.040		can't you.
+1088.040	1089.771	SABRINA:	... Yeah=,
+1089.771	1090.633	GEMINI:	<X Should X> I put this <X pan X>,
+1090.633	1091.338	KITTY:	... Um,
+1091.338	1091.757		.. ~Sabrina,
+1091.757	1092.545		did you ever give that,
+1092.545	1094.088		.. that card to um,
+1094.088	1095.041		.. Country Gen[tleman]?
+1094.671	1095.332	GEMINI:	[XX]X=,
+1095.332	1096.282	SABRINA:	... No,
+1096.282	1097.103		but we got a new one,
+1097.103	1097.913		that we gave <X there X>.
+1097.913	1100.346	KITTY:	... You mean that one that I made,
+1100.346	1100.607		didn't,
+1100.607	1101.549		wasn't good enough?
+1101.549	1102.528	SABRINA:	... No %.
+1102.528	1105.151		.. We had already given like three .. to them already.
+1105.151	1106.790		... Three ... [cards],
+1106.217	1107.899	KITTY:	[Well what did you g]uys do with that one I made.
+1107.899	1109.489		... I'd like to have it back.
+1109.489	1110.716	SABRINA:	... Okay.
+1110.716	1112.948		... I'll try- see if I can find it.
+1112.948	1113.993		<X Wonder X> where I put it.
+1113.993	1114.703	KITTY:	... Hunh?
+1114.703	1117.077		... I'd [like to just keep] that card.
+1115.621	1116.290	SABRINA:	[Ooh=].
+1117.077	1119.706		... I [2left it2] at the carwash.
+1118.399	1118.732	KITTY:	[2(SWALLOW)2]
+1119.706	1120.241	SABRINA:	So they c- --
+1120.241	1121.291		The girls could sign it.
+1121.291	1124.190		... If the carwash was that .. little party we saw,
+1124.190	1125.894		I bet you they .. <P<X threw .. a[way X>P>].
+1125.624	1126.003	KITTY:	[%N-] %n-,
+1126.003	1128.432		%It's probably outside and ended up getting trashed.
+1128.432	1130.517		... I wanted to keep that.
+1130.517	1131.726		If you guys weren't gonna use it.
+1131.726	1133.304		.. %I should've just done it myself.
+1133.304	1137.914	SABRINA:	... Hey you never know,
+1137.914	1139.123		%it might have gotten XX.
+1139.123	1141.839		... (SIGH)=
+1141.839	1143.243	KITTY:	... (TSK) Ask ~Kendra.
+1143.243	1145.920		... She might have done something [with it.
+1145.771	1146.767	SABRINA:	[I'll ask .. X].
+1145.920	1146.497	KITTY:	Y- you know],
+1146.497	1146.810		.. I --
+1146.810	1147.108		I --
+1147.108	1147.407		You know,
+1147.407	1149.318		it took me a while to make that thing.
+1149.318	1149.567	SABRINA:	Well,
+1149.567	1150.174		I know,
+1150.174	1151.302	KITTY:	... You guys just --
+1151.302	1152.026		... Yeah=,
+1152.026	1154.210		... I don't know why I bother sometimes.
+1154.210	1157.689		...

@@ -1,0 +1,832 @@
+0.000	21.077	MANY:	((APPLAUSE))
+21.077	29.571	PERROT:	... Good afternoon ladies and gentlemen (Hx),
+29.571	31.367		... It's uh,
+31.367	34.490		... truly a historic occasion ... today,
+34.490	37.085		... to have % among us,
+37.085	40.826		... a citizen who has contributed so much,
+40.826	44.139		... not only to this .. entire area,
+44.139	47.193		... but t- to the world of ceramics,
+47.193	49.959		... and also to the world of literature,
+49.959	52.204		... [and been] part %,
+50.784	51.354	WOOD:	[@@]
+52.204	55.142	PERROT:	of one of the great .. artistic movements,
+55.142	58.058		... which .. revolutionized,
+58.058	61.095		... the way ... art was considered,
+61.095	64.082		... and which today= still has,
+64.082	66.292		... extraordinary resonance,
+66.292	69.657		... in the work ... of younger artists,
+69.657	72.061		... who are .. rediscovering,
+72.061	74.292		... something that was discovered,
+74.292	75.675		... at the v- --
+75.675	77.775		almost at the beginning of this century,
+77.775	79.862		... and with which .. Miss Wood,
+79.862	82.729		... was so intimately involved.
+82.729	83.632	WOOD:	... <P XXX P>?
+83.632	87.500	PERROT:	... To have .. the Mother .. of Dada [.. w]ith us,
+86.532	86.825	WOOD:	[@]
+87.500	92.813	MANY:	((LAUGHTER_AND_APPLAUSE))[=]=[2=2]=
+89.670	90.824	WOOD:	[<X Let's keep X> XX],
+91.247	91.902		[2Is this it2].
+92.813	94.574	PERROT:	is in .. deed a pleasure.
+94.574	95.027		N- now,
+95.027	96.765		I would like to .. hold forth,
+96.765	98.834		but .. I don't think I'm going to be allowed to.
+98.834	100.235	MANY:	... [(LAUGHTER)]=
+99.247	99.776	PERROT:	[So],
+100.235	100.675	WOOD:	@@
+100.675	101.463	PERROT:	Beatrice %,
+101.463	102.512		.. it is yours @(Hx).
+102.512	102.598	WOOD:	@
+102.598	102.731	PERROT:	@
+102.731	105.163	WOOD:	(H) Is % my voice alright.
+105.163	107.403	MANY:	... [((MURMURS_AND_APPLAUSE))]=
+105.388	106.583	WOOD:	[Like this alright].
+107.403	108.041		(H) Now,
+108.041	110.248		referring to that period,
+110.248	111.916		(H) just mentioned.
+111.916	114.635		(H) .. It a=ll ... touched me=,
+114.635	118.097		... by the name ... no.
+118.097	123.377		No is the most dangerous (H) word (H) in the English language.
+123.377	124.365		(H) .. And,
+124.365	127.336		.. it has absolutely .. changed my life.
+127.336	128.854		.. (H) For instance,
+128.854	131.413		.. (H) ... I was brought up,
+131.413	133.644		... very carefully,
+133.644	135.952		... I was a =good little girl.
+135.952	138.577		... And I was in great <X revolt X>.
+138.577	142.282		... My mother saw that I had a governess,
+142.282	144.788		(H) that I went to private schools,
+144.788	145.987		(H) and I was in --
+145.987	148.157		.. I didn't like this at all.
+148.157	149.783		... (H) Now,
+149.783	151.646		(H) ... one day,
+151.646	154.362		... I met Elisa.
+154.362	156.164		... A journalist.
+156.164	157.860		(H) She knew writers,
+157.860	159.520		she knew artists,
+159.520	161.920		(H) she lived a bohemian life,
+161.920	164.369		(H) and I was very .. attracted.
+164.369	165.404		And interested.
+165.404	168.093		(H) So I invited her ... to home,
+168.093	169.165		.. for luncheon.
+169.165	171.172		... (H) After she left,
+171.172	172.652		my mother said to me,
+172.652	174.357		... <VOX she's common VOX>.
+174.357	179.873	MANY:	... (LAUGHTER)=[=]
+179.740	181.376	WOOD:	[Th]at .. hurt me.
+181.376	184.642		... (H) ... That was first .. no.
+184.642	186.359		... (H) Alright,
+186.359	187.859		So the next time,
+187.859	189.534		... I went to see her,
+189.534	191.436		.. (TSK) (H) ... and,
+191.436	194.838		... she had a little apartment in Greenwich Village,
+194.838	195.873		and she said,
+195.873	198.565		... (TSK) (H) there's a .. young musician,
+198.565	200.037		of twenty-six.
+200.037	201.902		(H) Who's broken his leg,
+201.902	202.667		he's French,
+202.667	203.989		he's very lonely,
+203.989	205.383		(H) you speak French,
+205.383	206.808		so go see him.
+206.808	208.340		... (H) So %,
+208.340	210.536		I went to see him in the hospital,
+210.536	212.236		(H) and it was % Varese,
+212.236	215.946		the musician of the avant-garde (H) music,
+215.946	217.174		(H) and,
+217.174	220.128		the second time I went to call on him,
+220.128	223.200		(H) Marcel .. Duchamp .. was there.
+223.200	224.651		(H) The great painter,
+224.651	227.898		(H) .. of The Nude Descending the Staircase.
+227.898	229.208		... Alright.
+229.208	230.920		(H) Marcel Duchamp,
+230.920	232.066		introduced me,
+232.066	232.844		(H) to,
+232.844	234.633		Henri-Pierre Roche.
+234.633	238.676		.. (H) .. Roche was a .. collector .. of a=rt,
+238.676	240.677		(H) a=nd .. a diplomat,
+240.677	243.304		(H) uh sent by the French government,
+243.304	244.508		very correct,
+244.508	247.538		(H) he called on my parents twice,
+247.538	249.681		(H) ... and after he left,
+249.681	251.107		.. my mother said,
+251.107	253.636		... <VOX you're in love with that man.
+253.636	255.364		You shouldn't see him again VOX>.
+255.364	260.795	MANY:	(LAUGHTER)
+260.795	262.802	WOOD:	I [didn't] know whether I was or not,
+261.045	261.277	AUD:	[@]
+262.802	264.202	WOOD:	but I was attracted.
+264.202	267.153		... Alright.
+267.153	269.732		.. That was her ... second .. no.
+269.732	272.613	MANY:	(LAUGHTER)[=] 
+271.870	272.613	WOOD:	[(H) So],
+272.613	273.622		very politely,
+273.622	275.473		he called a third time,
+275.473	276.564		.. (H) and I said,
+276.564	277.094		oh %.
+277.094	278.039		I was at the phone,
+278.039	279.852		(H) I'll come to see you.
+279.852	280.713		... (H) He said,
+280.713	281.305		oh no,
+281.305	284.287		I just have a little apartment in Greenwich Village,
+284.287	285.715		(H) it's nothing at all,
+285.715	287.206		I said oh that's alright,
+287.206	288.359		(H) I don't mind,
+288.359	288.796		he said,
+288.796	289.908		(H) no no no,
+289.908	290.260		it's --
+290.260	291.073		(H) It's not --
+291.073	292.397		It's not attractive.
+292.397	293.637		(H) I said lo=ok.
+293.637	296.514		.. I'm .. shopping just around the corner,
+296.514	302.800	MANY:	(LAUGHTER)
+302.800	304.355	WOOD:	[I see you get the] point.
+302.800	303.900	AUD:	[@ @@@]
+304.355	310.660	MANY:	(LAUGHTER)
+310.660	311.526	WOOD:	It was a lie,
+311.526	312.770		if I ever said one.
+312.770	315.376	MANY:	(LAUGHTER)[=]=[2=2]
+312.995	314.214	WOOD:	[(TSK) @So],
+315.064	315.763		[2I2] um,
+315.763	317.433		... m- ... decided,
+317.433	318.941		and I went to see him.
+318.941	322.259		... (H) And I entered his .. very simple little room,
+322.259	323.566		I looked around it,
+323.566	326.781		(H) and I remembered there were very coarse curtains,
+326.781	329.266		and the (H) sun shone through them,
+329.266	331.106		(H) made them like gold,
+331.106	333.266		(H) and I stood in his room,
+333.266	336.901		... and he was very nice gentlemanly man,
+336.901	339.244		(H) he didn't quite know what to do,
+339.244	340.281		so he came,
+340.281	341.902		(H) and he stood opposite me,
+341.902	343.015		and looked at me,
+343.015	344.214		(H) ... And,
+344.214	346.446		I saw a painting on his .. wall,
+346.446	347.457		and I saw,
+347.457	350.736		(H) a= .. glass of water on the table,
+350.736	351.836		(H) ... and,
+351.836	353.886		... he wasn't saying anything.
+353.886	354.827		(H) .. So,
+354.827	356.717		finally I .. looked at him,
+356.717	357.618		and I said,
+357.618	361.443		... <VOX aren't you going to show me your .. etchings VOX>?
+361.443	368.305	MANY:	(LAUGHTER)
+368.305	369.840	WOOD:	From that time on,
+369.840	372.516		I was never (H) a good little girl.
+372.516	379.657	MANY:	((LAUGHTER_AND_APPLAUSE))=[=]=
+378.695	379.409	WOOD:	[That],
+379.657	382.740		it was the kind of life (H) I wanted.
+382.740	383.870		... (H) He,
+383.870	384.732		... uh,
+384.732	385.133		%%
+385.133	386.135		... he %,
+386.135	387.260		a=nd Duchamp,
+387.260	389.635		introduced me to the Arensbergs,
+389.635	392.907		(H) and I met all the great artists of that day,
+392.907	395.300		and had a w=onderful (H) time.
+395.300	397.721		(H) I was just I think twenty-two,
+397.721	399.247		going on twenty-three,
+399.247	400.015		(H) so,
+400.015	401.242		.. I was of age.
+401.242	403.231		And my mother couldn't say anything.
+403.231	404.250	MANY:	(LAUGHTER)[=]
+403.707	404.778	WOOD:	[(TSK) (H)] Now,
+404.778	407.879		... I'm v=ery .. international,
+407.879	409.119		... in feeling.
+409.119	411.768		... (H) I've traveled quite a good deal,
+411.768	412.242		.. and,
+412.242	413.740		to me as I travel,
+413.740	416.696		(H) people ... are the same .. everywhere.
+416.696	421.508		.. (H) And in spite ..	of having .. this feeling for the whole world.
+421.508	425.362		.. (H) .. I l=ove that I'm a Californian,
+425.362	426.213		(H) [I] --
+425.713	428.284	MANY:	[(LAUGHTER)]=[2=2]
+427.224	429.938	WOOD:	[2I was born2] in San Francisco,
+429.938	434.292		(H) and one of the reasons I love California so much,
+434.292	435.390		(H) ... is,
+435.390	436.906		.. that it's kinky.
+436.906	437.666		(H) [And] --
+437.193	447.665	MANY:	[(LAUGHTER)]=[2=2]=[3=3]
+443.860	446.044	WOOD:	[2But this is very important2].
+446.973	447.665		[3Because3],
+447.665	449.389		new ideas,
+449.389	451.626		... come up because it's kinky.
+451.626	452.927		... And,
+452.927	454.402		.. it's just wonderful,
+454.402	457.307		the % .. marvelous new ideas that come up.
+457.307	458.722		(H) And of course,
+458.722	461.605		what I ... like about ... America,
+461.605	463.136		... because,
+463.136	466.796		in spite of being ... very international in my feeling,
+466.796	468.403		(H) I think ours,
+468.403	470.736		is a w=onderful country.
+470.736	473.623		(H) .. We're quick in friendship.
+473.623	476.695		We are ... open to new ideas.
+476.695	477.988		(H) We .. made,
+477.988	481.567		we presented many .. new inventions.
+481.567	482.968		... But,
+482.968	486.071		... and this is very serious.
+486.071	487.615		.. (H) Ou=r,
+487.615	488.708		... um,
+488.708	490.326		... (TSK) (H) uh,
+490.326	491.606		.. athletes,
+491.606	493.688		... (H) our actors %,
+493.688	495.139		are getting millions.
+495.139	497.325		... (H) And our teachers,
+497.325	499.000		.. are being cut down.
+499.000	500.928		(H) And our libraries %,
+500.928	502.346		are being closed.
+502.346	505.714		... <MRC This is very very serious MRC>,
+505.714	509.111		(H) it's putting a bl=ock ... on knowledge,
+509.111	510.231		(H) China,
+510.231	512.088		and other Middle East country- --
+512.088	513.700		Not (H) other Middle East but %,
+513.700	516.042		... Middle East countries and China,
+516.042	517.567		(H) and other countries %,
+517.567	521.356		.. (H) are realizing the importance of education.
+521.356	523.508		(H) And going after it.
+523.508	524.856		.. (H) And we=,
+524.856	526.400		.. are cutting down.
+526.400	527.819		In that direction.
+527.819	530.120		(H) And it worries me a great deal.
+530.120	531.063		(H) Now.
+531.063	533.990		... (TSK) (H) ... One of the wonders of America,
+533.990	534.891		.. (TSK) however,
+534.891	537.394		.. (H) (TSK) in spite of the bad things,
+537.394	538.973		.. (H) several years ago,
+538.973	540.502		Tony Prieto,
+540.502	541.661		(H) uh,
+541.661	543.305		.. who taught ceramics,
+543.305	545.113		... I think at Mills College,
+545.113	546.133		he and his wife,
+546.133	547.982		(H) % went to Europe.
+547.982	548.879		... To learn.
+548.879	550.535		And we he rela- -turned,
+550.535	551.409		he said,
+551.409	554.254		(H) <MRC Europe shares nothing MRC>.
+554.254	556.880		... America shares.
+556.880	558.915		(H) And because America shares %,
+558.915	560.532		our craft movement.
+560.532	562.708		(H) Has grown so wonderfully.
+562.708	566.937		.. (H) We're doing w=onderfully inventive things in craft.
+566.937	567.866		(H) Uh,
+567.866	570.455		I have been very fortunate myself,
+570.455	572.509		I'm not naturally a craftsman,
+572.509	573.374		(H) but,
+573.374	577.624		I've had % fou=r .. very wonderful craftsmen,
+577.624	579.476		(H) to= help me,
+579.476	582.051		(H) uh Lukens at USC,
+582.051	583.425		(H) the Natzlers,
+583.425	585.559		Otto= and Gertrud Natzler,
+585.559	586.909		great potters,
+586.909	589.069		(H) when they first came to America,
+589.069	590.314		Gertrud Natzler,
+590.314	592.560		(H) would sit by me at the wheel,
+592.560	594.582		(H) and help me .. try,
+594.582	597.132		(H) to see what throwing was about,
+597.132	598.340		(H) then,
+598.340	600.525		my colleagues in Ojai,
+600.525	602.428		Vivika and Otto Heino,
+602.428	604.575		(H) they've been so generous,
+604.575	605.670		they're teachers,
+605.670	607.888		(H) they pass down everything,
+607.888	609.040		they've helped me,
+609.040	610.943		.. (H) a=nd uh=,
+610.943	614.977		... I remember Toshiko= (H) Takaezu,
+614.977	616.628		her name's so hard for me to say,
+616.628	618.031		(H) was visiting me,
+618.031	620.713		(H) she spent a day and a half helping me,
+620.713	622.773		(H) ... center on the wheel.
+622.773	625.023		(H) <MRC All this sharing MRC>.
+625.023	626.441		(H) In our schools.
+626.441	628.532		Amongst craftsman themselves.
+628.532	630.247		(H) Is a wonderful thing.
+630.247	632.208		(H) So the movements go on.
+632.208	633.740		(H) .. And of course %,
+633.740	635.250		.. our museums %.
+635.250	637.602		.. Are so .. important.
+637.602	639.422		(H) I don't know,
+639.422	643.267		... if military ... minded people,
+643.267	646.192		... <PAR hope nobody from the FBI is here PAR>,
+646.192	653.761	MANY:	(LAUGHTER)
+653.761	655.353	WOOD:	If our military people-,
+655.353	656.034		%if %uh,
+656.034	656.928		realize,
+656.928	659.153		.. the importance of museums,
+659.153	664.203		(H) <MRC museums protect all the great art MRC>.
+664.203	666.151		(H) The gr=eat invention.
+666.151	670.577		(H) The creative efforts of man from the beginning of time.
+670.577	671.436		.. (H) And,
+671.436	673.837		... they're our inspiration,
+673.837	677.640		(H) and I think our museums are doing wonderfully now,
+677.640	678.468		even though,
+678.468	681.448		(H) we're beginning to cut down on education.
+681.448	683.348		... (H) ... I %uh,
+683.348	685.204		... I feel,
+685.204	687.673		... about the importance,
+687.673	689.479		(H) ... of craft.
+689.479	691.926		... Of bringing ... beauty.
+691.926	693.274		.. Craft into life.
+693.274	696.955		... (TSK) (H) One day .. I said to Vivika Heino.
+696.955	700.199		... Because I'm a snob about art.
+700.199	701.422		Ever since a child,
+701.422	702.328		I've been dragged,
+702.328	704.299		(H) through the museums of Europe,
+704.299	705.110		and America,
+705.110	708.486		and my eyes are exposed to (H) great art.
+708.486	709.787		(H) So I said,
+709.787	710.800		... <VOX you know VOX>,
+710.800	712.391		... it's a mistake,
+712.391	713.691		... to teach, 
+713.691	715.317		... .. cr- % pottery,
+715.317	716.844		... in high school.
+716.844	721.500		... The students haven't time to make anything beautiful and important.
+721.500	725.405		... And Vivika Heino so wisely answered,
+725.405	728.316		(H) .. that is not the purpos=e.
+728.316	730.127		(H) It opens them.
+730.127	731.918		... To aesthetics.
+731.918	735.200		.. (H) And that's what right education does.
+735.200	736.149		.. (H) Now,
+736.149	737.401		(H) I wonder.
+737.401	744.998		... We have ... a trem=endous ... population in prison.
+744.998	747.076		... And it's growing,
+747.076	749.357		we can hardly ... house them.
+749.357	751.307		... Why.
+751.307	753.997		... We put the cart before the horse.
+753.997	756.097		... We put people in prison.
+756.097	756.999		.. Why=.
+756.999	762.930		... Because they have <MRC not had right education MRC> in the beginning.
+762.930	765.425		.. (H) And r=ight ... education,
+765.425	768.175		is the b=asis (H) .. of everything.
+768.175	772.213		... (H) Now ha- I'll .. end with one other (H) .. idea,
+772.213	774.075		and then you can ask me questions,
+774.075	775.282		and that is this.
+775.282	780.477		... (H) .. Since there is an Olympic .. of athletes.
+780.477	783.985		... (H) .. Why not have an Olympic,
+783.985	787.272		... of ethnic and tribal dancers,
+787.272	790.963		(H) from .. countries all over the world.
+790.963	793.468		(H) Then people could come,
+793.468	794.467		(H) and meet,
+794.467	796.560		they'd have beautiful costumes,
+796.560	798.944		(H) friendships would be made,
+798.944	799.883		(H) a=nd,
+799.883	802.953		... I don't think we can have peace,
+802.953	805.147		... just with guns.
+805.147	807.554		(H) Peace comes through friendship.
+807.554	809.850		(H) And friendships would be made,
+809.850	813.060		(H) with all these dancers intermingling.
+813.060	815.722		(H) And even dancing with each other.
+815.722	816.925		... Because,
+816.925	818.356		... when you touch,
+818.356	820.098		... you don't shoot.
+820.098	822.894	MANY:	... (LAUGHTER)
+822.894	831.119		((APPLAUSE))
+831.119	831.876	WOOD:	.. And %,
+831.876	833.517		... I base this %,
+833.517	836.037		on a little experience of my own,
+836.037	837.455		(H) when I was in,
+837.455	839.413		(H) %uh .. %uh Ojai.
+839.413	840.898		As a sweet young thing.
+840.898	843.652		(H) I would go dancing at the art center.
+843.652	845.783		I knew all kinds of square dancing,
+845.783	846.881		folk dancing,
+846.881	848.799		(H) nobody cared,
+848.799	850.673		... who we were dancing with,
+850.673	852.633		if it was the rich rancher,
+852.633	853.808		(H) or=,
+853.808	856.190		(H) a man taking care of trash,
+856.190	857.613		... nobody cared.
+857.613	860.002		(H) As long as he was a good dancer.
+860.002	861.340		(H) And [after],
+860.827	861.340	PERROT:	[@@]
+861.340	862.394	WOOD:	every month,
+862.394	864.011		(H) we had a party.
+864.011	865.639		And .. a=ll of us,
+865.639	867.790		(H) mixed together in friendship.
+867.790	870.110		(H) That .. is w=onderful.
+870.110	870.566		(H) And,
+870.566	872.352		something like this could happen.
+872.352	874.669		(H) If we had great dances.
+874.669	875.601		(H) So,
+875.601	877.226		... I come back,
+877.226	880.055		my las=t ... word is,
+880.055	882.381		... violence,
+882.381	883.836		.. never ends,
+883.836	885.641		... with violence.
+885.641	888.187		... And right education,
+888.187	890.568		... is the b=asis,
+890.568	891.653		.. of everything.
+891.653	905.555	MANY:	... ((APPLAUSE))
+905.555	905.902	PERROT:	.. Well,
+905.902	908.480		I do hope that there is someone from the FBI here,
+908.480	909.758		to re[lay this] message,
+908.830	909.225	AUD:	[@@]
+909.758	911.058	PERROT:	 to the State Department.
+911.058	912.910	MANY:	(LAUGHTER)[=]=[2=2]
+911.476	912.910	PERROT:	[Because if the] [2State Depart-2] --
+912.073	912.910	WOOD:	[2<X Okay X>2]?
+912.910	916.893	PERROT:	... <F I .. hope that there is someone from the FBI here,
+916.893	919.645		[so that they] could tell it to the State Depart[2ment F>2].
+916.893	917.447	WOOD:	[@(H)]
+919.295	919.645		[2@@2]
+919.295	921.627	MANY:	[2((LAUGHTER_AND_APPLAUSE))2]=[3=3]
+919.895	921.627	WOOD:	[3@@@@ .. @(H) @3]
+921.627	924.534	PERROT:	Miss Wood asked me to .. inform everyone,
+924.534	927.431		that her hearing was rather ... difficult,
+927.431	928.281		at the moment,
+928.281	929.319		(H) and so,
+929.319	929.694		%uh,
+929.694	931.780		I will have to speak very loud,
+931.780	932.747		and clearly,
+932.747	935.165		so so- she can [hear what I say].
+933.646	933.923	WOOD:	[Yes,
+933.923	936.280		I'm very hard] ... of hearing.
+936.280	937.082		... Age.
+937.082	938.534		There's no getting around it,
+938.534	943.148	MANY:	(LAUGHTER)[=]=[2=2]=[3=3]
+938.796	939.130	WOOD:	[so],
+939.555	941.687		[2Mister Perrot will take questions2].
+941.912	942.248	PERROT:	[3So,
+942.248	944.425		if you will ask3] your questions clearly,
+944.425	946.287		and please don't make them too long,
+946.287	946.512		s- --
+946.512	947.802		because I might forget,
+947.802	949.091		... the= beginning,
+949.091	950.720		by the [time I reach the end],
+949.454	952.432	MANY:	[(LAUGHTER)]=[2=2]=[3=3]
+951.300	951.720	PERROT:	[2Uh2],
+952.057	952.432		[3then3],
+952.432	954.377		I will relay them to Miss Wood.
+954.377	956.654		... And,
+956.654	957.180		... uh,
+957.180	958.215		as far as I know,
+958.215	959.432		there are no restrictions,
+959.432	960.583		on any questions,
+960.583	961.634		that you [could ask].
+960.899	963.642	MANY:	[(LAUGHTER)]=
+963.642	966.295	PERROT:	... Who would like --
+966.295	967.182		... Yes=.
+967.182	968.909	AUD:	... Beatrice.
+968.909	971.037		... when did you first get,
+971.037	971.537		.. uh,
+971.537	975.003		... into a living relationship in Paris.
+975.003	976.755		With all those wonderful artists.
+976.755	977.575		At what age.
+977.575	982.020	PERROT:	...W- w- <F when did you get into a living relationship,
+982.020	984.312		with those p- ... artists in Paris,
+984.312	986.161		... at what .. age F>.
+986.161	988.075	WOOD:	... With artists in Par[is].
+987.631	988.158	PERROT:	[Yes].
+988.158	989.780	WOOD:	... (H) .. Um,
+989.780	992.572		I went to study .. art in Paris.
+992.572	993.823		(H) A little bit.
+993.823	998.161		.. (H) % But I .. really didn't .. meet ... any answers,
+998.161	1002.899		and to ... answer your question the way I think you would like it answered,
+1002.899	1010.640	MANY:	(LAUGHTER)[=]=[2=2]=[3=3]
+1003.212	1004.000	PERROT:	[@@@]
+1007.871	1008.536		[2@@2]
+1009.415	1011.367	WOOD:	[3I was twenty3]-three.
+1011.367	1012.772		.. In New York.
+1012.772	1013.272	AUD:	.. @
+1013.272	1014.296	WOOD:	... Mhm.
+1014.296	1018.593	MANY:	(LAUGHTER)[=]=[2=2]=[3=3]=
+1014.612	1015.640	PERROT:	[@@ .. @]
+1016.581	1017.408		[2@@@2]
+1017.840	1018.389	WOOD:	[3And3],
+1018.593	1020.695		it was my mother's no.
+1020.695	1020.967	PERROT:	[@]
+1020.695	1022.649	MANY:	[(LAUGHTER)]=[2=2]=
+1021.492	1021.918	WOOD:	[2That2],
+1022.649	1023.896		I was so,
+1023.896	1025.621		... % really,
+1025.621	1027.339		...%b- %b- .. bothered.
+1027.339	1029.596		... By her remarks.
+1029.596	1031.559		... That I just broke loose.
+1031.559	1032.436		And went,
+1032.436	1034.536		... in the direction I wanted.
+1034.536	1035.880		... She wanted,
+1035.880	1037.261		a different direction.
+1037.261	1038.964		... Social life.
+1038.964	1041.970		... Have me married to a ... stock bro[ker].
+1041.600	1041.970	AUD:	[<X Oh X>].
+1041.970	1043.995	MANY:	.. (LAUGHTER)
+1043.995	1045.169	WOOD:	I wouldn't be here,
+1045.169	1046.281		I would've murdered him.
+1046.281	1058.195	MANY:	[((LAUGHTER_AND_APPLAUSE))]=[2=2]=
+1046.281	1047.520	PERROT:	[@@@@@]
+1056.715	1057.516		[2@ ... @2]
+1058.195	1059.033	WOOD:	I say this,
+1059.033	1061.496		in spite of not believing in violence.
+1061.496	1065.835	MANY:	(LAUGHTER)
+1065.835	1068.260	WOOD:	My wh=ole life changed.
+1068.260	1070.898		(H) And I think I was very lucky.
+1070.898	1071.792		Because,
+1071.792	1074.958		... (H) ... % % three --
+1074.958	1076.713		% % oh four friends,
+1076.713	1077.747		did so much,
+1077.747	1080.841		(H) to= ... help my education.
+1080.841	1082.451		(H) Marcel Duchamp,
+1082.451	1083.184		Roche,
+1083.184	1084.255		(H) the collectors,
+1084.255	1085.856		the Walter Arensebergs,
+1085.856	1087.017		(H) and then,
+1087.017	1088.934		... my old schoolmate,
+1088.934	1091.012		Elizabeth Reynolds Hapgood.
+1091.012	1092.779		.. (H) Hapgood was co-,
+1092.779	1095.331		was uh .. editor of Collier's,
+1095.331	1098.537		(H) a ... close friend of President Wilson,
+1098.537	1100.387		.. and Elizabeth herself,
+1100.387	1101.884		(H) spoke Russian.
+1101.884	1103.178		(H) So she knew,
+1103.178	1104.902		this was years and years ago,
+1104.902	1107.703		before even any of your grandmothers were alive.
+1107.703	1109.367	MANY:	[(LAUGHTER)]
+1107.696	1108.682	WOOD:	[% (H) Uh=,
+1108.682	1109.332		% %=],
+1109.332	1110.378		it was uh,
+1110.378	1110.992		% uh,
+1110.992	1113.345		she knew a=ll the Russian ambassadors,
+1113.345	1114.426		(H) Pavlova,
+1114.426	1115.938		Nijinsky=,
+1115.938	1116.696		(H) uh,
+1116.696	1118.077		(H) Isadora Duncan,
+1118.077	1119.331		% all those people.
+1119.331	1121.757		(H) I met through my own schoolmate,
+1121.757	1123.823		(H) Elizabeth ... Hapgood.
+1123.823	1126.669		... So I have been .. very .. lucky.
+1126.669	1136.916	PERROT:	... Another question (Hx)?
+1136.916	1139.418	WOOD:	... You fear I'll tell the truth.
+1139.418	1143.903	MANY:	.. (LAUGHTER)[=][2=2][3=3][4=4]
+1140.895	1141.608	PERROT:	[Bravo].
+1141.619	1145.178	WOOD:	[2@@@@@@2][3.. (H) @3][4@@ @(H)4]@@
+1142.812	1143.718	PERROT:	[3Nothing but3].
+1145.178	1147.006	AUD:	How was your relationship with your mother,
+1147.006	1148.658		after you .. broke away from her.
+1148.658	1152.087	PERROT:	... <F How was your relationship with your mother,
+1152.087	1154.277		after you broke away= from her F>.
+1154.277	1157.321	WOOD:	... (H) U=m,
+1157.321	1160.415		... I broke away,
+1160.415	1162.091		I was acting then.
+1162.091	1163.641		In the French theatre.
+1163.641	1164.966		... (H) .. % --
+1164.966	1166.474		.. I wasn't really,
+1166.474	1167.504		.. too interested,
+1167.504	1168.829		in the stage.
+1168.829	1169.839		(H) .. % But,
+1169.839	1171.811		in those early years,
+1171.811	1175.172		... I thought it was the only way I could earn money.
+1175.172	1178.268		.. (H) And I threatened my mother to run away,
+1178.268	1179.658		.. (H) so she said,
+1179.658	1181.045		if you really mean that,
+1181.045	1182.637		I'll take you to Paris.
+1182.637	1185.440		(H) And you can study under the Comedie-,
+1185.440	1187.141		.. Comedie Francaise.
+1187.141	1188.709		(H) Because she thought,
+1188.709	1191.256		(H) that if I .. acted in French,
+1191.256	1193.002		(H) .. it was safer.
+1193.002	1194.202		Than if [I acted,
+1193.371	1201.772	MANY:	[(LAUGHTER)]=[2=2]=
+1194.202	1195.403	WOOD:	.. in America].
+1199.975	1200.873		[2So2],
+1201.772	1202.754		... I=,
+1202.754	1204.010		.. % ... %uh,
+1204.010	1207.088		(H) ... I was acting in the French theatre,
+1207.088	1207.936		... <X then I X> --
+1207.936	1209.368		I was the ingenue,
+1209.368	1211.344		(H) I spoke perfect French,
+1211.344	1212.607		had beautiful clothes,
+1212.607	1213.906		(H)= uh=,
+1213.906	1214.886		.. for two years,
+1214.886	1217.038		I think I did over sixty parts.
+1217.038	1220.299		(H) But I want to <MRC act in English MRC>.
+1220.299	1221.954		... (H) And my good friend,
+1221.954	1223.220		Elizabeth Hapgood.
+1223.220	1224.482		On account of Russian, 
+1224.482	1225.140		and knowing,
+1225.140	1227.820		(H) so many ... people in the theatre.
+1227.820	1231.147		... % I got many parts offered me,
+1231.147	1232.202		and my mother said,
+1232.202	1232.983		(H) <VOX No.
+1232.983	1234.857		... You get leading lady,
+1234.857	1235.584		or nothing VOX>.
+1235.584	1237.546	MANY:	(LAUGHTER)
+1237.546	1238.495	WOOD:	Now=,
+1238.495	1241.321		... part of me was really,
+1241.321	1243.099		(H) a good little girl.
+1243.099	1243.849		Part of me,
+1243.849	1246.656		(H) so I was very .. subdued.
+1246.656	1247.426		(H) And,
+1247.426	1249.511		my spirit was being broken.
+1249.511	1250.340		Because she'd say,
+1250.340	1250.924		no.
+1250.924	1251.384		.. No.
+1251.384	1252.560		(H) You can't do that,
+1252.560	1253.762		you can't do that.
+1253.762	1254.927		... (H) And then,
+1254.927	1256.964		... a woman came from Canada.
+1256.964	1258.406		.. (H) A=nd said,
+1258.406	1260.561		will you come up for three weeks.
+1260.561	1261.851		... To Canada,
+1261.851	1264.812		... a=nd act in the= theatre there.
+1264.812	1266.263		(H) .. On salary.
+1266.263	1267.819		... And I said yes.
+1267.819	1268.866		% And that's,
+1268.866	1270.391		(H) when I broke,
+1270.391	1271.841		 ... with my home.
+1271.841	1273.164		... And,
+1273.164	1274.182		my mother,
+1274.182	1277.395		... had a nervous breakdown for two days,
+1277.395	1278.927		and my father said,
+1278.927	1281.262		... <VOX you're killing your mother VOX>.
+1281.262	1282.904		... and I said,
+1282.904	1285.071		... <VOX she's killing me VOX>.
+1285.071	1287.107		... And I'm the younger,
+1287.107	1289.338		and I have a right to live.
+1289.338	1293.640	MANY:	... [((APPLAUSE))]=
+1289.887	1291.170	 WOOD:	[And I'll always],
+1293.640	1295.045		And I'll always,
+1295.045	1296.270		let you know,
+1296.270	1297.695		.. where I am.
+1297.695	1298.304		(H) Now,
+1298.304	1301.100		I should say something nice about my mother.
+1301.100	1304.977	MANY:	(LAUGHTER)[=]=
+1301.441	1303.318	PERROT:	[@@@@@@@]
+1304.977	1306.561	WOOD:	She was beautiful,
+1306.561	1308.180		.. and very generous,
+1308.180	1310.868		(H) but she was in a way of thinking,
+1310.868	1311.520		you know,
+1311.520	1313.120		(H) we didn't have radio,
+1313.120	1314.648		we didn't have television,
+1314.648	1318.369		life wasn't (H) as open as it is now.
+1318.369	1319.169		(H) And,
+1319.169	1320.146		any mother,
+1320.146	1321.246		.. would want,
+1321.246	1322.468		a protected,
+1322.468	1324.632		.. social life for their daughter.
+1324.632	1325.763		... Probably.
+1325.763	1326.934		... (H) [Now],
+1326.360	1328.063	MANY:	[(LAUGHTER)]=
+1328.063	1330.153	WOOD:	... when she died,
+1330.153	1331.988		in .. thirty-six.
+1331.988	1334.442		... I had left home then,
+1334.442	1334.667		oh,
+1334.667	1336.305		for quite a few years.
+1336.305	1340.309		... (TSK) (H) The last three months of her life we became friends.
+1340.309	1342.138		(H) And she let go.
+1342.138	1345.063		.. Of all that kind of ... thing.
+1345.063	1346.292		That didn't interest me,
+1346.292	1348.112		and she was v=ery wonderful uh,
+1348.112	1349.728		(H) a=nd open,
+1349.728	1351.536		(H) and the last day of her life,
+1351.536	1352.963		she was dying of cancer,
+1352.963	1353.599		she was,
+1353.599	1354.562		(H) conscious,
+1354.562	1356.545		she knew she was going that night,
+1356.545	1358.240		(H) we joked about it,
+1358.240	1359.120		(H) and,
+1359.120	1359.814		she said,
+1359.814	1360.414		now.
+1360.414	1361.264		Tomorrow,
+1361.264	1364.529		(H) I understand there's a wonderful exhibition,
+1364.529	1366.894		(H) don't tell any of the others,
+1366.894	1368.307		(H) but go see it.
+1368.307	1370.317		She knew she wouldn't be here then,
+1370.317	1371.958		(H) she was just wonderful.
+1371.958	1374.239		(H) So I'm very happy to be say --
+1374.239	1376.077		(H) To s- .. be able to say,
+1376.077	1377.906		(H) we became friends.
+1377.906	1379.177		.. At the end.
+1379.177	1380.682		... Mhm=.
+1380.682	1385.266	MANY:	((APPLAUSE))
+1385.266	1385.956	PERROT:	... Yes,
+1385.956	1386.575		in the back.
+1386.575	1387.748	AUD:	Can you expand,
+1387.748	1388.050		uh,
+1388.050	1388.703		just a bit,
+1388.703	1391.003		about your ... thoughts on uh,
+1391.003	1393.203		.. bringing art to the prisons.
+1393.203	1395.938	PERROT:	... <F Could you explain,
+1395.938	1396.751		a little bit,
+1396.751	1399.322		about bringing .. art to the prisons %.
+1399.322	1400.094		Your thoughts,
+1400.094	1401.417		about bringing art,
+1401.417	1402.542		.. to the prisons F>.
+1402.542	1409.323	WOOD:	... I think it'd be wonderful.
+1409.323	1413.167		... Uh,
+1413.167	1415.018		... I've always been,
+1415.018	1418.719		... concerned about people being (H) in prison,
+1418.719	1421.105		(H) ... but I really don't know,
+1421.105	1423.195		... very much,
+1423.195	1425.999		... I just think it's a terrible thing.
+1425.999	1429.037		... That we have so many,
+1429.037	1430.092		in prison.
+1430.092	1432.576		... And I'm sure,
+1432.576	1435.233		... we could s-,
+1435.233	1437.768		.. what is called s=ave the lives,
+1437.768	1439.182		.. of endless people,
+1439.182	1442.155		if they had a creative ... outlet.
+1442.155	1445.307		(H) But what is a ... young person to do.
+1445.307	1448.439		... (H) ... Brought up,
+1448.439	1452.077		... not knowing in any way right from wrong,
+1452.077	1453.461		no compassion,
+1453.461	1455.327		(H) seeing bing bing bing,
+1455.327	1457.520		(H) % guns used all the time,
+1457.520	1458.388		no money,
+1458.388	1459.539		(H) drugs,
+1459.539	1461.648		... why should they not steal.
+1461.648	1463.789		... (H) ... Now,
+1463.789	1467.478		... I don't know if this has any value,
+1467.478	1468.453		it's personal.
+1468.453	1472.283		.. % ... (TSK) (H) ... When I left home,
+1472.283	1474.374		I made a very unhappy marriage,
+1474.374	1475.719		.. in name only.
+1475.719	1476.748		(H) But the man,
+1476.748	1478.090		it was a disaster.
+1478.090	1478.691		And I was,
+1478.691	1479.918		for quite a few years,
+1479.918	1482.486		(H) <MRC without any money MRC>.
+1482.486	1483.656		... And I mean,
+1483.656	1485.851		(H) I sold w- my own books,
+1485.851	1487.491		(H) to get money to eat.
+1487.491	1488.992		I know what it is,
+1488.992	1489.892		(H) to be,
+1489.892	1490.897		at zero.
+1490.897	1493.055		... I was not trained for the world.
+1493.055	1494.255		(H) I didn't know,
+1494.255	1496.907		.. how .. to relate (H) .. to the world.
+1496.907	1497.601		(H) But uh,
+1497.601	1498.370		once a week,
+1498.370	1500.857		I always went back to see my parents.
+1500.857	1501.785		.. (H) and,
+1501.785	1503.385		they never said .. anything.
+1503.385	1504.486		They never blamed me.
+1504.486	1505.838		From that time on.
+1505.838	1507.676		(H) My mother s=aid,
+1507.676	1509.577		.. % she always had a very good,
+1509.577	1510.243		(H) uh,
+1510.243	1511.459		luncheon for me.
+1511.459	1512.762		(H) Suspecting,
+1512.762	1514.058		that I was hungry.
+1514.058	1515.112		.. And I was.
+1515.112	1516.374		(H) One day she said,
+1516.374	1518.624		(H) go up ... to my room,
+1518.624	1521.403		(H) and get some information out of my purse.
+1521.403	1522.632		(H) .. I went there,
+1522.632	1523.540		I opened her purse,
+1523.540	1525.562		it was f=ull .. of money.
+1525.562	1527.316	MANY:	(LAUGHTER)
+1527.316	1528.520	WOOD:	... And,
+1528.520	1531.204		... I had the impulse to take some.
+1531.204	1533.739		... I knew she wouldn't care,
+1533.739	1539.079		... % she probably sent me up almost to ... take some.
+1539.079	1540.981		... (H) And I stood.
+1540.981	1544.615		... And then something in me said,
+1544.615	1545.744		... n=o.
+1545.744	1549.920		... That is <MRC not .. the way ... to live MRC>.
+1549.920	1552.303		... And I didn't take it.
+1552.303	1553.584		... Now,
+1553.584	1556.167		this is just a very poor little example.
+1556.167	1558.534		... (H) ... But,
+1558.534	1561.486		... when you have ... no education,
+1561.486	1562.713		when you haven't read,
+1562.713	1564.435		(H) I'd read a gr=eat deal.
+1564.435	1565.940		Of very fine books,
+1565.940	1567.702		(H) also a lot of trash.
+1567.702	1570.288		(H) .. But [I'd enjoyed readings].
+1568.194	1571.909	MANY:	[(LAUGHTER)]=[2=2]=
+1570.757	1571.413	WOOD:	[2Now2],
+1571.909	1573.762		you have no guide,
+1573.762	1575.554		when you're a young person.
+1575.554	1577.042		(H) Why shouldn't you steal,
+1577.042	1578.542		why shouldn't you shoot.
+1578.542	1580.446		(H) Why shouldn't you go to prison.
+1580.446	1584.400		(H) But l=ook .. what we're paying .. for people in prison,
+1584.400	1586.404		(H) instead of putting this,
+1586.404	1588.008		.. into education.
+1588.008	1588.955		(H) You see,
+1588.955	1589.842		I feel,
+1589.842	1592.747		... our .. culture,
+1592.747	1596.347		... <MRC misses the first ... sell MRC>.
+1596.347	1598.374		... Which I come back I say,
+1598.374	1600.032		is right education.
+1600.032	1601.337		(H) And of course,
+1601.337	1603.152		... % from what I know,
+1603.152	1604.602		I've never had children,
+1604.602	1607.082		(H) so I say this with apology,
+1607.082	1609.096		(H) but I understand,
+1609.096	1611.302		... that it's vital.
+1611.302	1614.574		... <MRC For women to love their infants MRC>.
+1614.574	1616.363		To cuddle their infants.
+1616.363	1618.399		(H) And from what I've read,
+1618.399	1620.120		(H) all criminals,
+1620.120	1621.831		all abnormal people,
+1621.831	1624.294		(H) it's because they've never been loved as young-,
+1624.294	1625.965		.. (H) % youngsters.
+1625.965	1629.374	PERROT:	... Yes.
+1629.374	1631.878	AUD:	[((APPLAUSE))]
+1629.510	1630.411	AUD_2:	[I would like to=,
+1630.411	1631.484		.. hear something about,
+1631.484	1633.034		how she] came to be called,
+1633.034	1634.416		... the Mother of Dada.
+1634.416	1638.580	PERROT:	... <F How did you become the Mother of Dada F>.
+1638.580	1642.441		...

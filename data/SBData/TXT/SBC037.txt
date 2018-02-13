@@ -1,0 +1,978 @@
+0.000	0.455	DOLORES:	Mom,
+0.455	1.345		did you want me to,
+1.345	2.730		to .. cook the rest of the,
+2.730	3.270		of the,
+3.270	6.395		... the red uh .. tam- uh ... chilis?
+6.395	7.459	SHANE:	... (COUGH) (COUGH)
+7.459	9.385	JULIA:	... I don't know.
+9.385	9.985	DOLORES:	... Where are they.
+9.985	10.444	JULIA:	%I- %I- --
+10.444	12.472		... I put the chilis over there,
+12.472	13.830		or in- .. in here [already].
+13.443	13.702	DOLORES:	[Oh,
+13.702	14.497		do you] want some more?
+14.497	16.325	JULIA:	... What do you think.
+16.325	17.137	X:	... (SNIFF)
+17.137	18.162	JULIA:	It's pink enough?
+18.162	20.028	DOLORES:	(H) % ... Yeah,
+20.028	20.876		(H) % looks --
+20.876	21.417		... Yeah,
+21.417	22.288		it sure is.
+22.288	23.210		... <L2 Verdad L2>?
+23.210	23.628	JULIA:	... <L2 Sí.
+23.628	25.467		... No tienes de polvo nada L2>?
+25.467	25.891	DOLORES:	... <L2 Sí L2>.
+25.891	28.754	JULIA:	... <L2 En el .. queremos tantito del polvo a ver sí L2>.
+28.754	30.381	DOLORES:	You want paprika or chili.
+30.381	31.014	JULIA:	... Chili.
+31.014	48.829	DOLORES:	... (HUMMING)
+48.829	50.561	KATE:	.. Did you tell ~Sharon to be real careful,
+50.561	51.215	SHANE:	... Yeah.
+51.215	52.681		I='m sure they're doing fine.
+52.681	57.590	DOLORES:	... [<L2 XX] XX L2> ~Shane.
+56.493	56.745	KATE:	[<X Oh= X>].
+57.590	59.113	DOLORES:	They can't stay put anywhere.
+59.113	61.327	SHANE:	... (Hx) Why do you say that.
+61.327	63.613	DOLORES:	... <VOX Oh it has to be Santa Fe= VOX>.
+63.613	66.226		... [Coulda sa-] you- --
+65.712	66.060	SHANE:	[<X Mom they- X>] --
+66.060	67.706	DOLORES:	You could've saved a ton of money not --
+67.706	70.012		... you not .. having to fly=.
+70.012	71.331	SHANE:	... Well,
+71.331	72.621		that was our original plan.
+72.621	74.730	DOLORES:	... What.
+74.730	77.261	SHANE:	... We were planning .. for them to drive up,
+77.261	78.185		and I was gonna fly.
+78.185	79.352		That was the original plan.
+79.352	81.024	DOLORES:	... Oh it was?
+81.024	81.528	SHANE:	.. Yeah.
+81.528	84.293	>ENV:	... ((SHAKING_POWDER))
+84.293	85.062	DOLORES:	Say when.
+85.062	85.758	JULIA:	.. What's that.
+85.758	87.075	DOLORES:	... Chili powder.
+87.075	87.728		You told me.
+87.728	88.843	JULIA:	@(Hx) @@@@
+88.843	90.578	DOLORES:	... Didn't you want chili powder?
+90.578	91.032	JULIA:	@Yeah,
+91.032	93.135		but I don't see any chili powder in here.
+93.135	93.397	DOLORES:	Well,
+93.397	94.058		what do you think I'm --
+94.058	94.428		Look,
+94.428	96.098		fancy [light chili powder].
+94.995	96.089	JULIA:	[@@@ @ @@]
+96.089	96.361		Yeah,
+96.361	97.342		the chili's there,
+97.342	98.365		but where is here.
+98.365	100.815		... Did you says chili powder here?
+100.815	101.954	DOLORES:	... Look.
+101.954	103.039		Put on the glasses.
+103.039	103.648		.. Look.
+103.648	109.064	SHANE:	... [Not] too mu=ch.
+108.085	108.386	DOLORES:	[It] --
+109.287	109.902		You don't see [2it2]?
+109.763	110.889	JULIA:	[2<X Says X>2] right ... here.
+110.809	112.087	DOLORES:	... Do you see it now?
+112.087	113.521		... You're blind.
+113.521	114.519	JULIA:	.. It's black.
+114.519	116.785	DOLORES:	... It says fancy.
+116.785	117.985		.. (H) It's real big.
+117.985	118.882		<L2 Es grandotote,
+118.882	119.262		ves?
+119.262	120.629		... No es polvo L2>.
+120.629	123.729	JULIA:	... @@@ @ ... @=@
+123.729	126.039	DOLORES:	... Contains comino oregano and garlic.
+126.039	127.273	JULIA:	~Shane is gonna have a --
+127.273	127.848	DOLORES:	... <L2 Mira,
+127.848	128.325		huel[elo] L2>?
+128.125	130.321	JULIA:	[good] ... time with u[2=s2].
+130.071	130.860	DOLORES:	[2<L2 Huele2] bonito L2>?
+130.860	131.923	JULIA:	... Yeah.
+131.923	132.318	DOLORES:	<L2 Ve L2>?
+132.318	132.962	JULIA:	It [smells] --
+132.592	134.082	SHANE:	[When are we] gonna [2start rolling em2].
+133.211	134.082	DOLORES:	[2You want some more2]?
+134.070	134.740	JULIA:	... No.
+134.740	135.306		... Hm?
+135.306	136.518	SHANE:	When are we gonna start rolling em.
+136.518	137.264	JULIA:	... Now.
+137.264	138.593		.. It's not rolling it's --
+138.593	142.163		.. We- .. you have to put the masa in the s=- ... shucks.
+142.163	143.451	DOLORES:	Well that's what he's saying.
+143.451	144.757		.. % Calls it [rolling].
+144.278	144.982	JULIA:	[But] XX.
+144.982	146.903	DOLORES:	... Instead of .. spreading.
+146.903	148.217	SHANE:	... Well let's spread em.
+148.217	149.101	DOLORES:	... Wh- % wh- % --
+149.101	150.493		... How much more do you want.
+150.493	150.696		%Uh --
+150.696	151.349		[You di-] --
+150.696	151.349	JULIA:	[It's enough].
+151.349	156.286		... Can we take these to the table?
+156.286	157.122	DOLORES:	... Yeah?
+157.122	158.248		Take everything to the table.
+158.248	158.480		~Shane,
+158.480	159.601		take off the tablecloth.
+159.601	162.132	SHANE:	... You want me to get newspapers?
+162.132	162.997	DOLORES:	... %(Hx)
+162.997	163.878	JULIA:	Y=es.
+163.878	164.650		... Please.
+164.650	165.818	SHANE:	... Okay.
+165.818	167.855		... (THROAT)
+167.855	171.450	JULIA:	... How's the shucks.
+171.450	173.004		... They're ... [soft enough]?
+172.333	173.625	DOLORES:	[Oh my] Go=d,
+173.620	174.647		<L2 caliente X L2>?
+174.647	177.213		... <L2 No le echaste sal L2>?
+177.213	177.991	JULIA:	... No.
+177.991	179.440	DOLORES:	... <L2 A la masa L2>?
+179.440	179.866	JULIA:	.. No.
+179.866	180.870		... Mm.
+180.870	181.671	DOLORES:	<L2 Le vas a echar L2>?
+181.671	182.699	JULIA:	... Extra <X of [it X>]?
+182.588	183.908	SHANE:	[%] You got enough in there already.
+183.903	184.813		You don't need anything more.
+184.813	187.250	DOLORES:	... Why.
+187.250	187.854	JULIA:	... (BURP)
+187.854	188.155	SHANE:	Cau=se,
+188.155	191.447		you put all that ... garlic .. peppers .. chili stuff in there,
+191.447	193.201		... plenty of salty stuff in there.
+193.201	195.605	JULIA:	... [Taste it .. ~Shane]?
+194.243	196.140	SHANE:	[X XX XX][2X X2]
+195.530	196.140	DOLORES:	[2Taste it2],
+196.140	197.247		and see if it has enough salt.
+197.247	205.491	>ENV:	((TELEVISION))
+205.491	206.429	JULIA:	It still needs some X.
+206.429	207.828	DOLORES:	... It needs some sa=lt.
+207.828	208.688	SHANE:	... Yeah you're right.
+208.688	210.505		... @@@
+210.505	211.159	JULIA:	@@@
+211.159	211.991	DOLORES:	.. <L2 Chingao L2>.
+211.991	213.111	SHANE:	... <X I gao.
+213.111	213.759		.. I [gao X>.
+213.558	214.661	DOLORES:	[It needs a little garli-] --
+213.759	214.667	SHANE:	.. I stand] --
+214.667	215.987	DOLORES:	It needs a little garlic too,
+215.987	216.545		doesn't it?
+216.545	217.761	SHANE:	... I stand corrected,
+217.761	218.092	JULIA:	<WH Yeah WH>.
+218.092	218.781	DOLORES:	... Hunh?
+218.781	219.938	JULIA:	... Yeah,
+219.938	221.881	DOLORES:	... What are you doing with those,
+221.881	222.395		right there.
+222.395	223.531	JULIA:	(H) Take it over there,
+223.531	225.383		so I can ... [mash it] up?
+224.773	225.104	SHANE:	[Here].
+225.402	226.323	DOLORES:	... N- no Mom,
+226.323	227.960		d- don't go all the way ov- o- --
+227.960	228.175	SHANE:	[Here I'll] --
+227.989	229.092	DOLORES:	[Just] take the whole thi=ng,
+229.092	229.464		[2and don't2] --
+229.115	230.300	SHANE:	[2Let me dump2] out the water.
+230.300	235.792	DOLORES:	(H) ... Le- leave a little water in there ~Shane,
+235.792	237.132	JULIA:	... Just a little wa-.
+237.132	237.933	SHANE:	... Like that?
+237.933	238.653	JULIA:	... Yeah,
+238.653	238.932		they hav- --
+238.932	239.392	DOLORES:	[<L2 Y cómo L2> --
+239.081	239.936	JULIA:	[They have to be wet].
+239.392	240.856	DOLORES:	<L2 .. Cómo voy a] suavizar esto.
+240.856	241.662		Qué más le echo.
+241.662	242.866		... Más chiles L2>?
+242.866	244.462	JULIA:	... <L2 Echale tantita agua L2>?
+244.462	245.749	DOLORES:	... Where are the other chilis.
+245.749	248.122		... Where's the other chili ba[g].
+247.964	248.574	JULIA:	[I] don't know.
+248.574	250.091	SHANE:	... They're [2gone=2].
+249.694	250.066	JULIA:	[2Right here2].
+250.091	251.741	SHANE:	Granny m- .. gra- .. crunched em all up.
+251.741	252.208		[<P Mm= P>].
+251.813	252.428	DOLORES:	[No]=,
+252.428	254.347		... she just --
+254.347	255.412		.. Oh you did Mom?
+255.412	256.747	JULIA:	... [No]=,
+255.992	256.341	SHANE:	[X] --
+256.747	258.094	DOLORES:	... Where's the bag.
+258.094	260.241	JULIA:	... I don' know.
+260.241	263.080	DOLORES:	... No,
+263.080	263.690		here it is.
+263.690	264.967	SHANE:	... You watch this crap?
+264.967	267.530	JULIA:	... ~Shane.
+267.530	268.403	KATE:	... <VOX XXX VOX>
+268.403	270.628	JULIA:	... ~Sha=ne?
+270.628	271.942	DOLORES:	<L2 Qué tantos más chiles le echo L2>.
+271.942	272.734	SHANE:	... What.
+272.734	273.233		What what what,
+273.233	274.046	DOLORES:	<L2 Unos dos más L2>?
+274.046	274.318	JULIA:	<L2 Sí L2>.
+274.318	274.714	DOLORES:	<L2 Aquí L2>?
+274.714	277.029	JULIA:	<L2 Están más arrugados que quien sa qué.
+277.029	280.112		... Ya se arruga[ron de aqui L2>].
+279.479	280.074	SHANE:	[<X Turn off the TV X>],
+280.074	281.372		and help us roll some [2tamales2],
+281.046	281.435	DOLORES:	[2XX2]
+281.046	281.435	JULIA:	[2~Shane2],
+281.435	283.516		... ~Sha=ne.
+283.516	286.002	DOLORES:	... ~Shane?
+286.002	287.252		... Don't move it Mom.
+287.252	287.964	SHANE:	... What.
+287.964	289.175	DOLORES:	... Move this thing for her.
+289.175	292.192	JULIA:	... Take this to the table [please].
+291.747	292.192	SHANE:	[Okay I will],
+292.192	292.400		just --
+292.400	293.979		... Wait a minute,
+293.979	295.708	JULIA:	... You want me to start,
+295.708	296.254		don't [you].
+295.906	296.277	SHANE:	[Wah],
+296.277	297.523		<HI I gotta put <X d- down some X>,
+297.523	298.487		... gotta put some HI> --
+298.487	301.199		... Do you wanna put some uh,
+301.199	306.003		... <VOX<X Rio state man X>.
+306.003	307.515		.. Corpus Christi= VOX>.
+307.515	310.939	JULIA:	... <L2 Curros Christi L2>.
+310.939	312.620	SHANE:	... Yeah.
+312.620	313.886		I'll just spread out on [this] --
+313.541	315.171	JULIA:	[<L2 Cros]pero Christe L2>.
+315.171	318.800	DOLORES:	... Why did you put my tablecloth,
+318.800	321.438		my .. my one-hundred-dollar tablecloth on the [floor]?
+321.161	322.278	SHANE:	[<VOX Oh]=,
+322.317	322.839		.. Go=d,
+322.839	323.665		I didn't know that VOX>.
+323.665	327.845		... I thought it was something we bought over at,
+327.845	331.961		... Tuesday morning or something like that.
+331.961	337.153		... I'm just <L2 chiflado L2> that's [all].
+337.053	337.832	JULIA:	[Y]eah=.
+337.832	339.850		... Because ~Sharon is not here.
+339.850	344.267		... <VOX Because ~Sharon,
+344.267	345.440		is not he=re VOX>.
+345.440	346.183	SHANE:	Why [is that].
+345.672	346.949	JULIA:	[Oo]= wow=.
+346.949	349.424	>ENV:	((TELEVISION))
+349.424	349.938	SHANE:	X[X]
+349.764	349.938	JULIA:	[X]
+349.938	351.937		You want to give us hard time?
+351.937	356.501	>ENV:	((TELEVISION))
+356.501	357.852	JULIA:	Wait till she [comes and,
+357.279	358.184	SHANE:	[(COUGH) (COUGH) (COUGH)]
+357.852	359.624	JULIA:	XX] <X the hard time she's gonna get X>.
+359.624	360.557	SHANE:	... Crap,
+360.557	361.203		... crap,
+361.203	362.167		your mind is crap.
+362.167	363.060		You watch crap.
+363.060	366.194	>ENV:	((TELEVISION))
+366.194	367.432	JULIA:	Put the masa,
+367.432	369.107		... and put the ac- --
+369.107	370.297		.. <L2 ho=jas L2>,
+370.297	374.105		... on the other side of the ta- --
+374.105	374.852		[<L2 Ho]jas L2>.
+374.105	374.443	SHANE:	[X]
+374.852	375.809		... Right.
+375.809	376.435		This right here?
+376.435	376.702	JULIA:	Yeah.
+376.702	383.920	>ENV:	((TELEVISION))
+383.920	386.091	DOLORES:	Why is there water on the bathroom floor?
+386.091	389.868	SHANE:	... [I guess I] missed the toilet.
+388.556	388.839	JULIA:	[Maybe] --
+389.839	390.861	DOLORES:	... You did?
+390.861	392.629	JULIA:	... Maybe I did.
+392.629	395.940	DOLORES:	... Pick that towel off of my,
+395.940	396.903		.. my uh,
+396.903	397.198		.. my --
+397.198	398.073	JULIA:	... It's- --
+398.073	399.420		.. It's warm enough,
+399.420	401.954		to keep the the .. pan .. warm.
+401.954	405.273	DOLORES:	... [But that's] not warm.
+403.984	404.460	JULIA:	[XX]
+405.273	407.022		... I checked.
+407.022	408.427	DOLORES:	... No=.
+408.427	409.506		... it's just --
+409.506	410.772		... Oh [it's just] --
+410.400	411.921	JULIA:	[Need] my coffee.
+411.921	413.274	DOLORES:	... It's just the,
+413.274	416.864		... getting the ... towel all dirty.
+416.864	418.215	JULIA:	... No=.
+418.215	421.892		... Just put it on the washing machine ... yourself.
+421.892	424.978	DOLORES:	... <L2 XXX,
+424.978	426.906		... el periódico para que tires X L2>,
+426.906	430.769	JULIA:	... <X Just X> pick it up.
+430.769	431.973		.. Don't fuss about it.
+431.973	433.062		.. Just pick it up.
+433.062	436.522	SHANE:	... Do I need a spoon?
+436.522	437.602	JULIA:	... I got one.
+437.602	438.572		... [Here].
+438.247	439.104	SHANE:	[Well I] need one too,
+439.104	439.429		[2right2]?
+439.104	439.997	JULIA:	[2O2]kay yeah.
+439.997	450.464	SHANE:	... [3Okay Mom3].
+449.864	450.539	JULIA:	[3<X Take off the X>3] --
+450.539	451.358		take off the --
+451.358	452.297	SHANE:	... The towel?
+452.297	455.234	JULIA:	... X.
+455.234	458.080	SHANE:	... Mm.
+458.080	458.905	JULIA:	... <L2 Listo L2>.
+458.905	462.250	SHANE:	... Here you go.
+462.250	465.271	DOLORES:	... What.
+465.271	473.514	SHANE:	... Okay what do we do.
+473.514	475.549	JULIA:	... Let me show you.
+475.549	497.727	SHANE:	... Did you put salt in here?
+497.727	498.824	JULIA:	... No.
+498.824	499.911	SHANE:	... You need more?
+499.911	501.329	DOLORES:	... No.
+501.329	501.749	JULIA:	Yeah.
+501.749	502.220	DOLORES:	... She- --
+502.220	503.241		Nobody put salt in it.
+503.241	504.251	SHANE:	.. You want me to put <X some X>?
+504.251	504.961	JULIA:	... Yeah,
+504.961	507.394		... we need some.
+507.394	511.629		... Or maybe we'll put it when they're ... cooking.
+511.629	515.140		... X.
+515.140	517.014		... See?
+517.014	517.560	DOLORES:	How are you gonna s- --
+517.560	519.397		.. How are you gonna .. put .. the salt,
+519.397	522.645	JULIA:	... When we ... put it on the ... cooker?
+522.645	524.520	DOLORES:	... Are you gonna put salt on the,
+524.520	525.430	JULIA:	On the cooker?
+525.430	526.279	DOLORES:	.. On the masa?
+526.279	526.977	SHANE:	... Go ahead.
+526.977	527.948		Put salt in the masa.
+527.948	529.369	DOLORES:	Are you gonna put salt in the masa?
+529.369	529.758	SHANE:	.. X
+529.758	530.565	JULIA:	.. I guess so?
+530.565	531.094	SHANE:	... Go ahead,
+531.094	532.032		put salt in the masa.
+532.032	532.609	DOLORES:	... Well y- --
+532.609	534.093		You're gonna have to s=t- uh- --
+534.093	535.050		... muss it up,
+535.050	535.392		%% --
+535.392	536.200	SHANE:	... Work it in?
+536.200	537.133	DOLORES:	... Knead it in,
+537.133	537.480	JULIA:	.. Yeah,
+537.480	538.051		<P ~Shane will P>.
+538.051	538.862	DOLORES:	... Here.
+538.862	540.963	JULIA:	... How am I [gonna].
+540.859	541.686	DOLORES:	[How] much should I put?
+541.686	544.036		... Hunh?
+544.036	546.788		... [Oh okay].
+546.242	546.746	SHANE:	[Cover it].
+546.746	549.389	DOLORES:	... Cover it?
+549.389	551.424		... S- they're gonna come out salty.
+551.424	552.629		... Here,
+552.629	553.187		that's enough.
+553.187	554.034	JULIA:	... Okay.
+554.034	555.091	DOLORES:	... Go ahead and s- and --
+555.091	556.443		... mix it.
+556.443	557.283	SHANE:	Are those too thick?
+557.283	558.869	JULIA:	... No.
+558.869	559.212	DOLORES:	Oh=,
+559.212	560.085		look who's talking,
+560.085	561.040		Michael Jackson.
+561.040	562.170		He pulled his hair back.
+562.170	571.742	JULIA:	... They show like,
+571.742	573.431		.. they .. they X show a lot,
+573.431	574.902		XX X then they don't show nothing.
+574.902	577.363	DOLORES:	... How much masa can I put in the meat.
+577.363	578.335		.. About that much?
+578.335	579.075	JULIA:	A spoonful.
+579.075	579.867	DOLORES:	... (SNIFF)
+579.867	583.537		... Do I have to s- dissolve it in some water?
+583.537	585.872	SHANE:	... (TSK) Here I thought you knew how to do this.
+585.872	586.792	DOLORES:	... [Mom].
+586.293	586.717	JULIA:	[Oh].
+586.717	587.804		You mean for the,
+587.804	588.462		for the meat?
+588.462	589.061	DOLORES:	.. Unhunh.
+589.061	591.537	JULIA:	... Get some more.
+591.537	592.744		@ @ [It] (Hx) --
+592.178	592.585	DOLORES:	[Wi-] --
+592.744	594.466		<L2 M'ijites que L2> a spoon[2fu=l2]?
+594.221	594.653	JULIA:	[2Oh2]=,
+594.653	595.859		I thought you were gonna [3s=-3] --
+595.534	597.322	DOLORES:	[3I'm wa-3] making the gravy and the mea[4=t4].
+597.252	598.088	JULIA:	[4I4] .. think --
+598.133	599.991		I thought you were s- [5gonna spread5],
+599.254	600.885	DOLORES:	[5How much do you5] want me to put in it,
+600.881	601.589		this [6much6]?
+601.206	602.402	JULIA:	[6More6] more more.
+602.402	603.227	DOLORES:	... How much.
+603.227	603.740		.. That,
+603.740	604.216	JULIA:	That's enough.
+604.216	604.772	DOLORES:	.. And and --
+604.772	605.933		Do I dissolve this?
+605.933	606.532	JULIA:	Yes.
+606.532	608.578		... @ @
+608.578	610.846	DOLORES:	... With hot water or cold water.
+610.846	612.742	JULIA:	... Doesn't matter.
+612.742	614.298		... The one you,
+614.298	616.198		.. you think it ... spread better.
+616.198	627.030		... You know,
+627.030	628.946		<L2 qué L2> Tina always makes some tamales?
+628.946	632.545		... And when Wi=lly was ... a little boy,
+632.545	634.800		... he saw that,
+634.800	637.079		... she had a lot of .. tamales already.
+637.079	638.635		... Uh,
+638.635	639.755		.. in the .. shop,
+639.755	641.531		a=nd .. and in the <X meat X> and everything?
+641.531	643.984		... And he got some and,
+643.984	646.454		.. went out ... the house?
+646.454	648.927		... @ @And they were not cook.
+648.927	649.242		.. @
+649.242	650.874	SHANE:	... [@@ @]
+650.285	650.981	JULIA:	[@ .. @]
+650.981	651.957		@@ @[2@2]
+651.875	652.630	SHANE:	[2He2] ate em raw?
+652.630	653.954	JULIA:	(H) @@ @@
+653.954	655.584		<@ He thought they were cook already @>.
+655.584	658.685		<VOX XXXX X aye[=]= VOX>.
+657.820	658.215	SHANE:	[How's that].
+658.685	660.804	JULIA:	@The .. tamales are not cooked [2XX2].
+660.444	660.854	SHANE:	[2How's that2].
+660.854	662.092	JULIA:	... Yeah.
+662.092	662.975		... That's good.
+662.975	665.230	SHANE:	... XX.
+665.230	673.261	JULIA:	... She's so= quick XX.
+673.261	676.431		... To make some tamales.
+676.431	677.290		... Right.
+677.290	678.358		... Right a[way].
+678.253	678.540	DOLORES:	[Mom].
+678.565	679.199		.. <L2 Mira L2>,
+679.199	681.013	JULIA:	... <L2 Está bueno.
+681.013	681.678		... Está bueno L2>.
+681.678	682.681	DOLORES:	I'll just put it in the meat?
+682.681	683.566	JULIA:	... Mhm.
+683.566	684.979	DOLORES:	.. What else do you want me to put on the meat.
+684.979	687.947	JULIA:	... % I- I- I think that's all,
+687.947	689.979		you .. you put the pepper already didn't you?
+689.979	691.330		The ... black pepper?
+691.330	692.223		I mean the red pep-,
+692.223	695.730	DOLORES:	... I want to put some more in it.
+695.730	698.048	JULIA:	... You put some uh,
+698.048	700.227		... you put some uh=,
+700.227	702.206		... salt?
+702.206	703.375	DOLORES:	... Eh?
+703.375	704.991	JULIA:	... You don't put <X any X> salt?
+704.991	705.517		On the meat?
+705.517	707.023	DOLORES:	... No.
+707.023	708.779		... Can I put some of this broth?
+708.779	710.413		... No?
+710.413	711.904	JULIA:	... What do you think ~Shane.
+711.904	713.986	SHANE:	... Nah=.
+713.986	716.666		... See?
+716.666	718.331		... Does [it matter what I say]?
+717.258	718.331	JULIA:	[@(Hx) .. @ .. @]
+718.331	720.380	SHANE:	... Does it matter what I say?
+720.380	721.013	JULIA:	N[o=].
+720.699	721.199	SHANE:	[No]=.
+721.500	722.789	DOLORES:	@ [2@@@@@2]
+721.837	722.864	JULIA:	[2@@@2]
+722.864	724.169		... (H) @ @ @
+724.169	725.310	DOLORES:	@@@@@
+725.310	727.526	SHANE:	... She [goes an=d dumps it in there],
+726.479	727.526	JULIA:	[@@@@]
+728.153	728.977		@@[2@2]
+728.861	731.353	SHANE:	[2we can2] have beef bouillo=n tamales.
+731.353	732.437	JULIA:	@@@@
+732.437	733.609	DOLORES:	... Well,
+733.609	733.906		do you --
+733.906	736.285		Do you want uh uh uh .. lard?
+736.285	741.130		... I don't know what to do with this ... lard business,
+741.130	742.682	SHANE:	... <L2 Yo .. pre[fiero L2>].
+742.120	742.956	JULIA:	[Me nei]ther.
+743.014	745.372		... (H) ... In @there.
+745.372	745.790		@(Hx) @
+745.790	747.856		.. (H) (COUGH) (COUGH) (COUGH)
+747.856	750.602		%% ... How was uh,
+750.602	751.870		... uh,
+751.870	754.369		.. Isabelle's ... b- .. tamales.
+754.369	755.564	DOLORES:	... They ate em.
+755.564	757.324	JULIA:	... They were greasy?
+757.324	758.228	DOLORES:	... Yeah.
+758.228	761.088		... Outsi- outside the tamale you know?
+761.088	762.346		<L2 Están los cuaja[rones] L2>,
+761.927	762.900	JULIA:	[(COUGH)] (COUGH)
+762.900	764.099		... The what?
+764.099	764.312		(COUGH)
+764.312	765.642	DOLORES:	... <L2 Los cuajarones L2>?
+765.642	766.788	JULIA:	... <L2 De qué a L2>,
+766.788	769.008	DOLORES:	<L2 De= ... de grasa?
+769.008	769.776		E[ste L2>] --
+769.556	770.322	SHANE:	[@@]@ [2@2]
+770.171	770.717	JULIA:	[2<L2 cua2]jada L2>?
+770.717	771.367	DOLORES:	... <L2 Sí,
+771.367	772.601		afuera del tamal L2>?
+772.601	773.404	JULIA:	(COUGH) (COUGH)
+773.404	776.034	DOLORES:	.. <L2 Eso quiere decir que se sale verdad del [tamal L2>]?
+775.268	776.072	JULIA:	[Oh= yeah].
+776.072	779.416		... Doesn't matter how much ... you put on the masa,
+779.416	781.008		... o=r in the meat,
+781.008	782.142		... it goes out.
+782.142	783.604		... <X In steam X>.
+783.604	786.435		(COUGH) (H) (COUGH) (COUGH) (COUGH) (H)
+786.435	786.878	DOLORES:	Mom,
+786.878	787.655		<L2 voy[= a L2>] --
+787.296	787.888	JULIA:	[(COUGH)]=
+787.888	788.689	DOLORES:	<L2 voy a moler la L2>,
+788.689	788.979	JULIA:	[(COUGH)]
+788.747	790.279		[<L2 la] carne está un poquito [2más L2>2].
+789.954	790.709	SHANE:	[2(THROAT)2]=
+790.709	791.327	DOLORES:	What do you think.
+791.327	792.866	JULIA:	... <L2 Con qué L2>.
+792.866	793.541	DOLORES:	... Eh=?
+793.541	796.032	JULIA:	<L2 Con el batidor de los L2> [... cake]s?
+795.039	795.807	DOLORES:	[<L2 Este mira L2>],
+796.032	798.037		... remember we did it last year with this?
+798.037	798.890	JULIA:	... Oh=.
+798.890	802.729	>ENV:	... ((BLENDER))
+802.729	804.654	DOLORES:	... See?
+804.654	806.833	JULIA:	... [(COUGH) (COUGH)]
+805.697	806.127	DOLORES:	[<L2 Mira --
+806.127	806.754		.. Mira]?
+806.833	807.523		... Mira L2>?
+807.523	810.759		... Does it look good?
+810.759	811.285	JULIA:	Mhm.
+811.285	813.847	SHANE:	... Are you gonna mix the,
+813.847	816.251		... that tablespoon of masa?
+816.251	817.295	DOLORES:	... Yeah.
+817.295	818.294	SHANE:	... With water?
+818.294	820.842	DOLORES:	... Yeah I already did.
+820.842	821.870		... See?
+821.870	823.425	SHANE:	... You're gonna pour it in the meat?
+823.425	824.598	JULIA:	... (COUGH) (COUGH)
+824.598	825.109		.. Y=eah.
+825.109	826.038	SHANE:	... What for.
+826.038	828.124	JULIA:	... So it won't be so,
+828.124	829.196		s=o dry,
+829.196	829.974		and so,
+829.974	831.402		... uh=,
+831.402	833.123	SHANE:	... So it'll hold it together.
+833.123	833.665	JULIA:	Yeah?
+833.665	834.200		.. Unhunh?
+834.200	834.861		That's true.
+834.861	841.595	SHANE:	... (HUMMING)
+841.595	844.252		... How do you get em so that they unroll.
+844.252	844.959		Nice and neat.
+844.959	846.239		... Like that?
+846.239	848.422	JULIA:	(H) (COUGH) ... (COUGH)
+848.422	853.059		... Barbara- uh= I mean,
+853.059	855.473		.. ~Sharon doesn't know ma- ... how to make tamales?
+855.473	856.889	SHANE:	... Nope.
+856.889	859.262	DOLORES:	... Go=d,
+859.262	860.291		that was really,
+860.291	861.888		... that .. makes the sauce=.
+861.888	863.441		... Look at it.
+863.441	864.583	JULIA:	... (SNIFF)
+864.583	867.268		... With the masa?
+867.268	867.860	DOLORES:	.. <L2 Sí L2>.
+867.860	869.297	JULIA:	... You know what your,
+869.297	870.132		your grandma,
+870.132	870.579	SHANE:	That okay?
+870.579	871.665	JULIA:	... Unhunh.
+871.665	873.546		... Galvan used to do?
+873.546	873.975	DOLORES:	Yeah.
+873.975	876.594	JULIA:	... She roll some masa?
+876.594	877.400	DOLORES:	... Yeah?
+877.400	879.873	JULIA:	Like a little ... (COUGH) bolt?
+879.873	880.299	DOLORES:	Yeah,
+880.299	882.196	JULIA:	... And put it on the beans.
+882.196	883.967		... And the beef-,
+883.967	886.041		the beans were .. already to eat.
+886.041	888.623	DOLORES:	... There's no way to spread this thing,
+888.623	889.787		they left it too big.
+889.787	892.663		... So % .. I'm just ... chopping it up,
+892.663	894.329		and it .. comes % out pretty good.
+894.329	896.866	SHANE:	... <L2 La boli[ta L2>].
+896.657	898.213	>ENV:	[((BLENDER))]=
+898.213	899.997	JULIA:	... <L2 @La @bo[li- L2>] --
+899.490	900.651	SHANE:	[<L2 B=oli]tas L2>,
+901.046	902.342	JULIA:	<L2 Bolita de Avelín L2>.
+902.342	902.961	KATE:	Brother.
+902.961	905.597	>ENV:	((BLENDER))
+905.597	907.338	JULIA:	<L2 Las bolitas de [Avelín L2>].
+906.572	907.292	DOLORES:	[What ~Shane].
+907.385	907.914		~Kate?
+907.914	911.010	KATE:	... Do you think he went and had surgery on his peepee?
+911.010	912.671	DOLORES:	... % Who.
+912.671	913.700	KATE:	... Michael Jackson.
+913.700	914.606	SHANE:	... [Who cares].
+914.043	914.675	DOLORES:	[Surgery],
+914.675	915.836		... on his what?
+915.836	916.231	KATE:	Yeah,
+916.231	918.749		cause a kid said he had discoloration on his penis.
+918.749	920.817	DOLORES:	... Is that what he talked about?
+920.817	921.966	KATE:	.. The kid said that.
+921.966	923.731		And then he disappeared for a while and,
+923.731	925.653		.. they % just had to take pictures of him.
+925.653	929.005		... They said he's been really ... humiliated and,
+929.005	931.823		... disgusted with all the media ... coverage and,
+931.823	934.636	JULIA:	... Do=n't talk about that .. ~Katrina.
+934.636	935.492	KATE:	... @@
+935.492	936.351	SHANE:	... Yeah ~Kate,
+936.351	936.885		what's your f- --
+936.885	939.207		What's your fascination with Michael Jackson's peepee.
+939.207	939.648	DOLORES:	~Kate,
+939.648	940.531	KATE:	@@@ Sh-,
+940.531	941.483	DOLORES:	come help me with this,
+941.483	942.876		and quit talking about his peepee.
+942.876	943.398	JULIA:	... @
+943.398	944.571	KATE:	(Hx) @@[@@]
+944.188	944.757	JULIA:	[XX]X.
+944.791	945.558		[2<L2 Qué XXX L2>2].
+944.803	946.463	SHANE:	[2She's got pee2]pee on the [3brain3].
+945.952	947.439	JULIA:	[3<X Could be X>3] [4XXXX4],
+946.211	947.543	KATE:	[3(H)3] [4.. @@@4]
+946.475	947.543	DOLORES:	[4Can you belie=ve4],
+947.543	947.999	JULIA:	[5@@5]
+947.543	949.377	DOLORES:	[5that's what5] the news conference is about?
+949.377	952.233		It's dere- .. -teriorating from wor- bad to wor=se.
+952.175	953.766		... ~Kate,
+953.766	954.289		help me,
+954.289	954.927		... come here,
+954.927	955.693	KATE:	.. With what.
+955.693	957.934	DOLORES:	... so my fingers won't get [so=],
+957.446	958.967	JULIA:	[Good thing] he got peepee.
+958.967	959.435	KATE:	What.
+959.435	962.022	JULIA:	... Or else they would .. be talking a- --
+962.022	964.551	>ENV:	((BLENDER))
+964.551	967.930	JULIA:	... People are so= [mean].
+967.500	969.799	>ENV:	[((BLENDER))]=
+969.799	975.267	DOLORES:	... Here do the rest of it.
+975.267	978.843	JULIA:	... Pretty soon they gonna talk about the women that,
+978.843	984.003		... they have ... b=alls in [their] ... teetees.
+982.517	982.935	DOLORES:	[Here].
+984.003	984.610		... Here.
+984.610	985.245	SHANE:	... @
+985.245	986.045	KATE:	... Wha=t.
+986.045	986.620	JULIA:	@@
+986.620	989.284	SHANE:	... What you just said [makes absolutely no s]ense.
+988.083	988.959	KATE:	[<X Take this it's good X>].
+989.284	990.793	SHANE:	... (COUGH) (COUGH) (COUGH)
+990.793	992.599	>ENV:	((TELEVISION))
+992.599	994.270	JULIA:	.. <X That new advertise X>.
+994.270	997.681	SHANE:	... This one's a big one.
+997.681	998.825		.. <WH Okay= WH>.
+998.825	1002.941		... I'm just making em short and stubby.
+1002.941	1008.164		... (SNIFF) ... (SNIFF)
+1008.164	1008.925	DOLORES:	... ~Shane.
+1008.925	1010.960		Did you wanna make some of these .. with beans,
+1010.960	1012.009		for .. for ~Sharon?
+1012.009	1014.228	SHANE:	... We have any beans?
+1014.228	1015.019	DOLORES:	... Yeah.
+1015.019	1016.424		I have some ca=nned bea=ns.
+1016.424	1017.666	SHANE:	... Mmm=,
+1017.666	1023.745	>ENV:	.. ((BLENDER))
+1023.745	1024.268	DOLORES:	Or you can-,
+1024.268	1025.965		you can just make some with masa and,
+1025.965	1027.010		and more chili.
+1027.010	1029.155	SHANE:	... Yeah but we don't have any .. good chili though.
+1029.155	1033.305	>ENV:	... ((BLENDER_RATTLING))[=]
+1031.274	1033.305	DOLORES:	[<FF<HI Ah-ah-ah-ah= HI>FF>].
+1033.305	1033.994	KATE:	<F Wha=t= F>.
+1033.994	1034.428	DOLORES:	... <L2 Qué L2>,
+1034.428	1036.402		you had it on wro=ng or something.
+1036.402	1037.687	KATE:	.. I didn't at first.
+1037.687	1038.093	DOLORES:	Just you --
+1038.093	1039.358		It wasn't insi=de.
+1039.358	1041.504		... Oh Go=d.
+1041.504	1041.829		[You] --
+1041.666	1041.910	JULIA:	[No],
+1041.910	1042.758	DOLORES:	.. That's enou=gh,
+1042.758	1043.484		.. [go away].
+1043.025	1044.302	JULIA:	[don't hol]ler like that.
+1044.302	1046.007		I'm go[2nna throw the masa on the floor2].
+1044.568	1044.835	KATE:	[2Mom,
+1044.835	1046.042		it just came loose2].
+1046.042	1046.669		That's a=ll?
+1046.669	1048.066	DOLORES:	You [could break my th]i=ng.
+1046.808	1047.616	SHANE:	[@@@@]
+1048.066	1048.887		[2@@@2]
+1048.144	1048.829	DOLORES:	[2~Ka=te2]?
+1048.782	1049.165	KATE:	Shut [3up3].
+1048.908	1049.504	SHANE:	[3@3] [4@4]
+1049.000	1049.669	DOLORES:	[3You3] [4heard4] it,
+1049.669	1049.919	SHANE:	@@
+1049.919	1050.219	DOLORES:	ra- % --
+1050.219	1051.244		Making that [horrible] sound,
+1050.736	1050.960	SHANE:	[@]
+1051.244	1052.306	DOLORES:	and you didn't stop it.
+1052.306	1054.614		... Look at that.
+1054.614	1055.898		Y- you did it too mu=ch.
+1055.898	1056.145	SHANE:	@(Hx)
+1056.145	1057.451	X:	... (SNIFF)
+1057.451	1058.328	SHANE:	.. @@@
+1058.328	1059.582	DOLORES:	... (SIGH)
+1059.582	1060.766	SHANE:	... Puree=.
+1060.766	1062.152	KATE:	.. [I .. have no idea what you] need.
+1060.909	1061.850	SHANE:	[Puree pork].
+1062.152	1063.955		... Puree po[2rk2].
+1063.659	1065.103	DOLORES:	[2Oh=2] nothing hurts my hands,
+1065.103	1066.176		just they're falling off,
+1066.176	1067.624		and deteriorating on X-ray,
+1067.624	1068.449		but you don't believe it.
+1068.449	1069.538		You're just like your daddy.
+1069.538	1070.852	JULIA:	... %Ya- --
+1070.852	1071.363		Oh-[oh=],
+1071.189	1073.546	DOLORES:	[That's] why no[2body fixed2] up the damn lights outside,
+1071.640	1072.114	JULIA:	[2~Dolly2],
+1073.546	1075.160	DOLORES:	every Christmas it's the same story.
+1075.206	1075.684	JULIA:	~Dolly,
+1075.684	1077.741	DOLORES:	... Two weeks at it.
+1077.741	1079.051		And yet [she wants] fo- uh --
+1078.099	1078.433	JULIA:	[X] --
+1079.063	1080.491	DOLORES:	two hundred dollars [2worth of2],
+1079.933	1080.817	KATE:	[2Put the rest2] in there.
+1080.817	1081.593	DOLORES:	Just a minute.
+1081.593	1083.427		.. Two hundred [dollars worth of <X bedspreads X>],
+1082.243	1083.416	KATE:	[Would you just shut up and] --
+1083.416	1084.008		<VOX Go=d VOX>.
+1084.008	1087.547	DOLORES:	... Don't do it yet,
+1087.547	1088.447		I- I need to [get some],
+1088.057	1088.447	SHANE:	[@(Hx)]
+1088.447	1089.057	DOLORES:	.. some uh,
+1089.057	1091.694		... chili .. out of the ... the .. microwave.
+1091.694	1097.112	SHANE:	... <VOX Ma=n VOX>.
+1097.112	1101.389	JULIA:	... <X Did it happen like that uh X>,
+1101.389	1102.014		... eh=,
+1102.014	1102.943		um= .. [~Shane,
+1102.533	1104.482	DOLORES:	[XXXXXXXXXXX]
+1102.943	1105.559	JULIA:	.. Did he ever put attention to the] family's sickness?
+1105.559	1106.199	SHANE:	... [2Who2].
+1105.921	1106.385	JULIA:	[2Did2] you- --
+1106.385	1107.099		.. Your daddy?
+1107.099	1108.363	SHANE:	... XX [family].
+1107.880	1108.832	JULIA:	[You no]tice it?
+1109.700	1110.954		.. When the family's sick?
+1110.954	1112.784		That he he don't put much attention.
+1112.784	1114.719	SHANE:	... Oh=[= he does],
+1114.009	1114.789	JULIA:	[He wasn't l-] --
+1114.719	1116.660		(H) He wasn't like that when --
+1116.660	1117.210		... Well,
+1117.210	1119.562		now that you are % .. not here in the house,
+1119.562	1119.837		when,
+1119.837	1122.955		(H) he .. he= .. hear that you all sick,
+1122.955	1124.139		and Marie's sick,
+1124.139	1125.478		... but uh=,
+1125.478	1126.593	SHANE:	... He got worried.
+1126.593	1129.053	JULIA:	... but uh=,
+1129.053	1130.585		... he was not like that.
+1130.585	1132.803		Before .. going to Nicaragua.
+1132.803	1133.848		... Oh,
+1133.848	1135.502		he put attention to everything.
+1135.502	1137.814		... And the=n,
+1137.814	1139.040		when he come back,
+1139.040	1140.148		it was a different --
+1140.148	1142.784	>ENV:	((BLENDER))
+1142.784	1144.903	JULIA:	... Cause,
+1144.903	1149.860		... I never ... I never ... na=g about .. (H) sickness to him at all.
+1149.860	1151.033	SHANE:	... Naw=,
+1151.033	1151.520		you don't.
+1151.520	1152.508	JULIA:	... @@
+1152.508	1153.394	DOLORES:	He doesn't care.
+1153.394	1154.158		... [Since his] --
+1153.810	1155.101	JULIA:	[Be]cause I do=[2=n't2] --
+1154.661	1156.914	DOLORES:	[2Since his2] mother and brother and sister weren't here,
+1156.898	1158.274		he never cared for us really.
+1158.274	1158.512		He --
+1158.512	1159.807		It's it's a fake thing,
+1159.807	1160.407		that's why he,
+1160.407	1162.492		(H) he gets depressed and everything.
+1162.492	1163.852	JULIA:	... He'll --
+1163.852	1164.862		He'll % uh --
+1164.862	1166.739		get up early in the morning on Sunday,
+1166.739	1167.428		<P and I say to him P>,
+1167.428	1168.773		... <VOX you ready to go to church VOX>?
+1168.773	1170.880		... <P He'll say P> X X=,
+1170.880	1173.771		... I haven't <X shaved yet X>.
+1173.771	1177.067		... And still I,
+1177.067	1177.566		I go.
+1177.566	1180.562		... Cause nobody w- want to go with <X you X>.
+1180.562	1188.949		... That'[s the way he cha=nge],
+1187.626	1188.949	SHANE:	[(SIGH)]
+1188.949	1191.681	JULIA:	... <X and the police X>,
+1191.681	1198.273	DOLORES:	... ~Tony .. sent a [card,
+1197.728	1205.926	SHANE:	[(WHISTLING)=][2=2]
+1198.273	1199.745	DOLORES:	.. talking about family,
+1199.745	1202.717		... he don't know what family means].
+1202.717	1204.876	JULIA:	[2... That's what you think,
+1204.876	1205.976		he X families2].
+1205.976	1206.994	DOLORES:	... Just for money.
+1206.994	1207.830	JULIA:	Knew his wife,
+1207.830	1209.147		... and .. girl?
+1209.147	1216.503	DOLORES:	... Well and before we got married he says,
+1216.503	1218.867		I don't have any money for % .. a present for y'all.
+1218.867	1224.260		... That's family.
+1224.260	1227.752	>ENV:	... ((TELEVISION))
+1227.752	1228.796	DOLORES:	... But,
+1228.796	1235.575	>ENV:	((TELEVISION))
+1235.575	1235.945	JULIA:	X
+1235.945	1241.987		... Poor thing.
+1241.987	1243.769	SHANE:	... Poor thing what.
+1243.769	1244.722	JULIA:	... <P He don't know what P> --
+1244.722	1246.183	SHANE:	@ ... @ @
+1246.183	1249.000		... <P Mm P>.
+1249.000	1257.372		... (THROAT)
+1257.372	1260.675		... (COUGH) (COUGH)
+1260.675	1262.328	JULIA:	.. Time you go to bed .. last night.
+1262.328	1264.119	SHANE:	... Eleven thirty.
+1264.119	1268.105	JULIA:	... <X Twelve ninety X>.
+1268.105	1278.563	SHANE:	... It's too --
+1278.563	1280.281	>ENV:	((BLENDER))
+1280.281	1280.571	JULIA:	Hm?
+1280.571	1282.262	SHANE:	... M- it's too short.
+1282.262	1286.779	>ENV:	... ((BLENDER))
+1286.779	1297.013	DOLORES:	... Your daddy,
+1297.013	1297.918		remember when he was,
+1297.918	1298.951		... (H) % --
+1298.951	1302.191		... suspended from practice and all that,
+1302.191	1303.232		~Tony never called,
+1303.232	1303.991		.. @never.
+1303.991	1305.415	SHANE:	... Oh really?
+1305.415	1306.112		I didn't know [that].
+1305.833	1306.448	DOLORES:	[Nev]er.
+1306.448	1308.900		... (H) When your daddy was real sick,
+1308.900	1310.411		and getting accused of everything,
+1310.411	1311.262		he never called.
+1311.262	1311.807		.. Never.
+1311.807	1314.477		... Had to close the office and,
+1314.477	1317.558		... and ask ~McClaren to help me with a patient,
+1317.558	1318.357	SHANE:	... [Yeah],
+1318.060	1319.334	DOLORES:	[He ne]ver offered to [2help <X us X>2].
+1319.082	1319.732	SHANE:	[2That's2] family.
+1319.732	1321.497	JULIA:	... @@ @@@
+1321.497	1324.155		... That's family ~Shane.
+1324.155	1325.119		Right the[re].
+1325.026	1326.837	SHANE:	[@]@@ @@@@@@
+1326.840	1327.037	DOLORES:	When --
+1327.037	1328.384		When we [came] from Houston,
+1327.386	1327.606	SHANE:	[X]
+1328.384	1331.542	DOLORES:	... he --
+1331.542	1334.247		.. He called on his way to a vaca=tion.
+1334.247	1335.397		... He called,
+1335.397	1336.855		.. on his way to Denver.
+1336.855	1339.144		... Locating your dad at the hospital.
+1339.144	1341.883		... Somebody finally told him where he was and,
+1341.883	1344.679		... he talked to him .. very nicely and brotherly,
+1344.679	1346.208		... and your daddy in the hospital,
+1346.208	1347.583		committed for twenty-one days,
+1347.583	1348.769		accused of doing drugs,
+1348.769	1351.968		... (H) while he's .. going on vacation.
+1351.968	1353.332		... That's family.
+1353.332	1355.861	JULIA:	... Oh= [~Dolly].
+1355.461	1356.481	DOLORES:	[Then I] get ba=ck,
+1356.481	1358.628		and your daddy can't practice for six mo=nths,
+1358.628	1361.722		... no surgery,
+1361.722	1362.903		... no money,
+1362.903	1364.208		... that's family.
+1364.208	1366.136	SHANE:	... [XX].
+1365.881	1366.136	JULIA:	[XX].
+1365.881	1366.194	DOLORES:	[But I] --
+1366.194	1366.730		I told him,
+1366.730	1367.042		I said,
+1367.042	1367.286		look,
+1367.286	1368.209		I didn't need you,
+1368.209	1369.276		.. in this crisis,
+1369.276	1370.761		... you never called,
+1370.761	1372.618		... and I said uh,
+1372.618	1374.601		... I don't want to ever talk to you,
+1374.601	1376.861		... do- and and he's your brother,
+1376.861	1378.620		you can talk to him any time you want to,
+1378.620	1379.476		just leave me out of it.
+1379.476	1381.554		And then he sends a Christmas card .. here to the house.
+1381.554	1382.959		... When they lived here.
+1382.959	1385.501		(H) He never dialed this number at this house,
+1385.501	1386.624		... never.
+1386.624	1387.676		... Not once.
+1387.676	1389.898		... He was so jealous of the house,
+1389.898	1391.248		it was uh ... pathetic.
+1391.248	1393.313	SHANE:	... You scared the bejesus out of him.
+1393.313	1395.314	JULIA:	... They'd uh=,
+1395.314	1397.810		... they b=ought a [house too].
+1397.183	1398.773	DOLORES:	[When I invi]ted them to this house,
+1398.773	1399.830		when it was brand new?
+1399.830	1400.915		(H) They were mad,
+1400.915	1401.465		because I --
+1401.465	1402.177		% He told me,
+1402.177	1403.653		you got my brother into debt.
+1403.653	1405.476		... <F He told me that F>.
+1405.476	1406.699		... After fee- --
+1406.699	1409.095		%i- fi- feeding his face .. here in this kitchen.
+1409.095	1410.893		... I fed him every night,
+1410.893	1412.009		and finally I told your daddy,
+1412.009	1414.039		I'[m I'm] .. I'm nursing ~Katrina,
+1412.180	1412.598	SHANE:	[((SNEEZE))]
+1414.039	1415.798	DOLORES:	and and I can't have him over anymore.
+1415.798	1419.397	SHANE:	(COUGH) ... (COUGH) ... (SNIFF) ... (NOSE_BLOW)
+1419.397	1420.575	DOLORES:	... Nobody helps me,
+1420.575	1422.040		... just stand around,
+1422.040	1424.261		and act like ... a guest,
+1424.261	1426.150		... [your daddy always acts like a] guest,
+1424.685	1425.778	JULIA:	[XXXXX],
+1426.150	1428.025		... <X thinks and drinks his X> --
+1428.025	1430.900	SHANE:	... (SNIFF) .. (NOSE_BLOW)
+1430.900	1435.123	JULIA:	... I [XXX] that,
+1434.248	1434.735	>ENV:	[((DISHES))]
+1435.115	1439.924	SHANE:	[2(WHISTLING)2][3=3][4=4][5=5]
+1435.115	1437.031	JULIA:	[2... Diana .. princess,
+1437.031	1438.354		..2] [3<X do that .. and more X>3].
+1437.081	1437.390	DOLORES:	[3~Kate,
+1437.716	1439.190		<X leave X> this kit3][4chen with your4],
+1439.190	1439.924	KATE:	[5... N=o5].
+1439.924	1441.538	JULIA:	.. She's gonna [6work her own6] [7self7],
+1440.468	1441.107	DOLORES:	[6Please6],
+1441.225	1441.687	KATE:	[7No7].
+1441.687	1443.716		... <X I'm changing my X> --
+1443.716	1444.415		... <X Come on X>.
+1444.415	1447.535		... XXXXX
+1447.535	1450.891	JULIA:	... [Have you seen Jacqueline] Kennedy.
+1448.960	1450.291	SHANE:	[(WHISTLING)]
+1450.891	1452.144	JULIA:	... (GASP)=
+1452.144	1453.770		... She's so .. u=gly,
+1453.770	1455.465	SHANE:	... @@ [@]
+1455.204	1457.154	JULIA:	[they sh]=ow it .. on the TV,
+1457.154	1458.670		she's so u=gly,
+1458.670	1460.153	DOLORES:	... What.
+1460.153	1463.032	JULIA:	... Jacqueline Kennedy,
+1463.032	1469.094	DOLORES:	... <L2 Le echo un poquito más de chile colorado no,
+1469.094	1470.653		porque <X no le había echado X> la carne.
+1470.653	1471.315		.. Picado L2>.
+1471.315	1473.370	JULIA:	... <WH Okay WH>.
+1473.370	1479.095		... <L2 Como que trae los chocos de manteca L2>.
+1479.095	1479.790		.. @@
+1479.790	1480.840	DOLORES:	... <L2 Qué,
+1480.840	1481.918		.. sigue afuera L2>?
+1481.918	1484.542		... So you know that she used a lotta lard.
+1484.542	1486.002		... Right?
+1486.002	1486.616	JULIA:	Mm=-m,
+1486.616	1487.871	SHANE:	... Who did.
+1487.871	1489.951	JULIA:	... [I=sabelle].
+1488.943	1490.346	DOLORES:	[Cause they were in the refrig]erator,
+1490.346	1492.145		and it was just white ... uh,
+1492.145	1498.062		... white uh .. stuff all over the place.
+1498.062	1499.790	JULIA:	... <L2 XXXXXXX L2> --
+1499.790	1501.978	>ENV:	((PANS))
+1501.978	1505.339	SHANE:	We went XXX at this restaurant in San Antonio and,
+1505.339	1506.539		... you know it was like,
+1506.539	1509.272		.. healthy .. vegetarian .. Mexican [food],
+1508.853	1509.272	X:	[<HI Hm HI>].
+1509.272	1510.438	SHANE:	... Ma=n,
+1510.438	1512.151		it tasted so= bland=,
+1512.151	1515.954		... It was aw=ful.
+1515.954	1517.830		I mean you can't call this Mexican food,
+1517.830	1519.258		it doesn't taste like anything.
+1519.258	1529.406		... You think these are gonna come out okay Granny?
+1529.406	1530.718	JULIA:	... [Yes].
+1530.311	1530.706	SHANE:	[(SNIFF)]
+1530.706	1531.345	JULIA:	... Sure.
+1531.345	1532.485	DOLORES:	(THROAT)=
+1532.485	1537.480	JULIA:	... Anything you do with the masa XXX X.
+1537.480	1539.460		... It's very nice.
+1539.460	1543.110		... Your grandpa .. always helped me,
+1543.110	1544.085		but just to,
+1544.085	1544.955		to wrap the.
+1544.955	1546.195		... Put the meat on it,
+1546.195	1548.102		... he never --
+1548.102	1549.319		He never tried to --
+1549.319	1550.476		.. to put the masa.
+1550.476	1554.463		... And that's the one that takes a lot of time.
+1554.463	1563.083	SHANE:	... Oops.
+1563.083	1570.310		... <WH (WHISTLING) WH>
+1570.310	1587.310	JULIA:	... %So %uh,
+1587.310	1589.183		~Sharon didn't get to see her mother?
+1589.183	1589.883		...

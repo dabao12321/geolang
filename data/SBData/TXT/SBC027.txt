@@ -1,0 +1,739 @@
+1.860	2.860	PHIL:	... Coo=l.
+2.860	4.640		.. (H) Alright folks (Hx).
+4.640	6.020		... Well alreet (hx),
+6.020	6.850		well alroot (hx),
+6.850	7.590		well alright.
+7.590	10.790		(H) By now I'm sure you're wondering about the different things that I have on the table here,
+10.790	11.400		but first,
+11.720	14.250		(H) ... I would like to .. talk to you about these three items.
+14.250	14.970		I have here,
+15.110	16.310		(H) some ice in a pan,
+16.310	17.490		(H) water in this glass,
+17.490	19.100		.. and steam rising from this pot.
+19.100	20.200		(H) .. Now=.
+20.410	21.580		... I would like to ask you,
+21.580	22.870		how these three things.
+22.870	23.740		.. Tell me please.
+23.740	24.850		(H) How are they all alike.
+26.150	26.920		... (H) These three things.
+26.920	28.100		This ice here in this pan.
+28.100	29.190		(H) This water in this glass,
+29.190	30.240		and the steam rising from this pot,
+30.240	30.910		just yell it out,
+30.910	32.020		w=e are informal here,
+32.020	32.450		yes.
+32.450	33.540		(H) .. Correct.
+33.540	35.170		... They are all forms of water.
+35.170	36.600		This ice here of course is water,
+36.600	38.550		(H) I told you there was water in this glass,
+38.550	40.260		.. and you have all seen water boil at home,
+40.260	41.650		so you are familiar with steam.
+41.650	43.710		(H) But now let's try to figure out how they're different,
+43.710	44.730		we'll look at temperature,
+44.730	45.370		(H) first.
+45.370	46.990		And the temperature o=f this water here,
+46.990	47.610		the ice,
+47.610	48.440		.. i=s,
+49.350	50.450		(H) ... about uh twenty-four- --
+50.450	50.810		n_woo.
+50.810	51.580		Nineteen degrees.
+51.580	52.090		Very cold.
+52.090	54.530		(H) The temperature o=f this %w- water here,
+54.530	55.530		is sixty-four degrees,
+55.540	56.940		(H) the temperature of this steam,
+56.940	58.200		i=s,
+59.070	60.110		... <PAR I know it's hotter than that PAR>.
+61.290	61.630		... Yeah,
+61.630	63.580		it's about a hundred a=nd eleven degrees.
+63.640	64.140		... Okay.
+64.120	66.060		(H) (Hx)= Fahrenheit.
+66.360	66.820		... Okay.
+66.820	67.100		(H) Oh,
+67.100	67.790		and by the way guys,
+67.790	68.870		what do we call something that's hard,
+68.870	69.830		like this ice here,
+69.830	70.330		or a table,
+70.330	70.870		or a rock.
+70.870	71.970		(H) We call it a?
+72.120	73.520	MANY:	... Solid.
+73.530	74.020	PHIL:	(H) Very good.
+74.020	74.290		You should g- --
+74.290	75.360		you should be a choir.
+75.360	76.550		.. You should go out on the road there,
+76.550	76.870		like,
+76.800	77.300		... yeah.
+77.200	77.540 :	(H)
+77.540	78.120	AUD:	.. [We are].
+77.540	78.120	PHIL:	   [(H)] Y- --
+78.210	78.880		... Oh well,
+78.880	79.960		.. I'm glad to meet you.
+79.960	80.870		@@ (H)
+80.870	82.740		Plea=se give me your itinerary after the show.
+82.740	83.260		Yes.
+83.200	83.890		(H) Yes.
+83.910	85.270		... Of course we call it a sholids.
+85.270	85.830		A solid.
+85.830	87.080		And a solid has one shape.
+87.080	88.710		(H) The shape that it starts out with.
+88.830	90.260		(H)= And what do we call something that you- --
+90.260	91.390		.. that you can splish splash.
+91.390	92.110		Take a bath in.
+92.080	93.560		[Anything wet] like soda or milk.
+92.880	93.550	MANY:	[Liquid].
+93.550	94.320	PHIL:	You're not gonna let me finish,
+94.320	94.660		are you.
+94.660	95.190		(H) Yes,
+95.190	96.040		we call it a,
+96.220	97.240	AUD:	... Liquid.
+97.230	97.960	PHIL:	Very good.
+97.960	99.590		And a liquid .. can change its shape,
+99.590	103.180		(H) .. to f- completely fill the bottom of whatever container you put it in.
+103.230	104.340		(H) And finally,
+104.340	105.700		what do we call something that's loose,
+105.710	107.470		and floating around like this steam here.
+107.470	108.580		(H) O=r a cloud,	
+108.580	109.380		or the air we breathe,
+109.380	110.350		we call it a,
+110.350	111.210	MANY:	Gas.
+110.960	111.780	PHIL:	(H) Correct.
+111.780	112.490		a gas.
+112.490	115.730		And a ga=s completely fi=lls whatever shape container (H) you put it in.
+115.820	116.550		(H) And so,
+116.550	117.890		how do you get water to change,
+117.890	118.870		(H) from a solid,
+118.870	119.690		(H) to a liquid,
+119.690	120.470		.. to a gas,
+120.470	121.450		... and back and forth.
+121.450	122.730	AUD:	Add energy.
+122.280	123.210	PHIL:	(H) Woo=.
+123.210	124.380		I like the way he expressed that.
+124.380	125.610		Never before have I heard it,
+125.610	127.420		(H) a=dd .. or subtract energy,
+127.420	127.900		o=r,
+128.070	128.680		(H) heat,
+128.680	130.190		.. (H) change the temperature,
+130.190	130.770		basically.
+130.770	131.240		Correct?
+131.470	132.140		... Alright.
+132.140	132.700		Well folks,
+132.700	134.460		now I'm going to show you something else that happens.
+134.460	135.630		(H) When you change the temperature,
+135.630	138.130		and that's where these (H) <VOX balloo=ns VOX> come in.
+138.130	139.490		(H) I have here,
+139.490	140.610		(H) a number of balloons,
+140.610	140.800		but,
+140.800	142.160		l- let's see how many of these balloons,
+142.160	142.690		I can fit,
+142.870	144.790 :	(H) <VOX into this little itty-bitty container here VOX>.
+144.790	145.250		Well,
+145.250	146.500		... (H) everybody count together.
+146.500	147.300		This [would be=],
+146.820	148.070	AUD:	     [There's a] XX in there.
+148.040	148.410	PHIL:	(H) you think,
+148.410	148.810		.. well,
+148.850	149.360		... okay,
+149.360	150.370		%w= th- th-,
+150.370	152.880		(H) I'm glad I never saw d- Citizen Cane with you,
+153.090	154.560		... <VOX Rosebud is a sled VOX>.
+154.570	155.180		(H) Okay.
+155.180	155.470		Well,
+155.470	155.970		@@
+155.970	157.050		(H) let's all count together folks,
+157.050	157.910		that wa=s,
+158.060	159.080	AUD1:	... One.
+158.910	159.510	AUD2:	[One].
+158.910	159.830	PHIL:	[(H) very] good.
+159.830	162.330		One balloon going into the (H) little container here.
+162.330	163.180		And this would be,
+163.180	164.280	MANY:	Two.
+164.140	164.680	PHIL:	(H) two.
+164.680	165.780		Ve=ry good counting there.
+165.780	166.080		Two.
+166.080	166.550		Excellent.
+166.550	169.500		Two balloons going into the= (H) little container here.
+169.500	170.170		@@@
+170.180	170.750		(H) <VOX Ah= VOX>,
+170.750	172.240		they're not fitting in so easily.
+172.200	173.690		(H) <VOX @Oh= no= VOX>.
+173.690	177.250		(H) So hopefully I can fit all balloons into this little container he=re.
+177.210	178.180	AUD:	...X [XX XXXXXX]
+178.180	179.720	PHIL:	     [(H) Oh stop guessing at what this is.
+179.720	181.170		(H)] ... Let's have some suspense here.
+181.180	181.860		Come o=n.
+181.760	182.900		@@ (H) Alright.
+182.900	183.690		And this would be?
+183.690	184.780	MANY:	... Three.
+184.590	185.290	PHIL:	(H) Three.
+185.290	185.790		Very good.
+185.790	188.950		Three balloons going onto the the ... little= container there.
+188.960	190.050		Three balloons.
+190.050	190.590		.. Three,
+190.590	190.920		yes,
+190.920	192.070		the balloon trinity.
+192.070	193.160		(H) And now,
+193.160	194.020		... this would be?
+194.020	194.690	AUD1:	Eight.
+194.690	196.520	AUD2:	... [@@@@@]
+194.690	196.520	AUD3:	    [Four].
+196.520	197.090	PHIL:	Four.
+197.090	197.450		Very good.
+197.450	198.330		At first he was confused,
+198.330	199.310		but then he figured it out.
+199.310	200.860		(H) Everybody= tell him what this is,
+200.860	201.440		it's,
+201.600	202.710	AUD:	... Seven.
+202.710	203.450	PHIL:	(H) <VOX it's four VOX>.
+203.530	204.490		.. @@
+204.490	207.620		.. (H) Boy you people .. didn't watch enough Sesame Street as a child.
+207.620	208.600		(H) This would be,
+208.950	210.000	MANY:	... Five.
+209.890	210.900	PHIL:	(H) Thank you very much,
+210.900	211.200		yes.
+211.200	214.260		<SING Fi=ve swollen balloo=ns SING>.
+214.260	214.590		In.
+214.590	215.170		(H) In.
+215.170	216.070		(H) Dow=n.
+216.080	216.600		... Down.
+216.600	217.180		<VOX Ah,
+217.500	218.850		... ah= VOX>.
+218.850	219.660		(H) Okay.
+219.660	221.460		(H) And this .. would be=?
+221.630	222.990	MANY:	... Six.
+222.600	223.310	PHIL:	(H) Six,
+223.310	223.580		good.
+223.580	224.480		And let's do this uh=,
+224.480	225.930		let's add some complexities to this here,
+225.930	227.010		let's do it in another language.
+227.010	228.580		(H) In Spanish it would be?
+228.580	229.950	AUD1:	.. <L2 O[cho L2>].
+228.580	229.950	AUD2:	        [<L2 Seis L2>].
+229.950	231.080	PHIL:	        [(H)] ... <L2 S- seis.
+231.080	231.690		N- Ocho L2>.
+231.690	232.700		Oh my gosh.
+232.700	233.270		@@@
+233.560	235.290		(H) I'm afraid for our nation.
+235.290	235.970		(H) Okay,
+235.970	236.560		well,
+236.560	237.600		... and this would be,
+237.710	239.360	AUD:	... <L2 Siete L2>.
+239.360	240.480	PHIL:	(H) thank you=.
+240.810	242.180		... (H) Seve=n.
+242.180	242.500		Right?
+242.500	242.800		Seven.
+242.800	243.290		Okay.
+243.290	243.990		(H) And finally,
+243.990	244.750		this would be,
+244.750	246.040	AUD1:	... [Eigh=t].
+244.750	246.040	AUD2:	    [<L2 Ocho L2>].
+246.040	246.340	PHIL:	eight,
+246.340	247.790		or <L2 ocho L2> in Spanish,
+248.160	249.660		... and uh <L2 huit L2> in French,
+249.660	250.630		thank you very much.
+250.680	252.400		(H) @I @thought you were telling me your breakfast.
+252.400	252.850		What you had for b- --
+252.850	253.440		But no,
+253.440	254.230		(H) <L2 Huit L2>.
+254.230	254.970		.. Very good.
+254.970	255.910		.. Oh my gosh,
+256.100	258.690		(H) ... eight balloons into this little container here,
+258.690	260.350		.. I bet you're wondering r- how that [happened],
+259.690	261.170	AUD1:	                                      [<X You popped] two X>.
+260.430	261.540	AUD2:	... There's a hole [2<X in it X>2].
+261.530	261.940	PHIL:	                   [2(H)2] well,
+261.940	262.530		... there's a hole,
+262.530	262.890		no,
+262.890	263.810		if you're thinking there's a hole,
+263.810	264.350		think again.
+264.350	264.900		Because,
+264.900	266.780		(H) there's no hole in the counter at all.
+266.790	267.470		[(H)]
+266.790	267.230	AUD1:	[Pull em out].
+267.230	268.710	AUD2:	You slowed down the molecules,
+268.720	270.170	PHIL:	Well- la- duh- dah- dih- duh- duh-,
+270.170	271.480		.. you're getting a little ahead of me son.
+271.480	272.340		.. @@ (H)
+272.600	274.210		... Let's all figure it out together.
+274.170	274.760	AUD:	[<X You popped them X>].
+274.210	276.300	PHIL:	[(H) And we can get] a better idea of what's happening to the balloons,
+276.300	277.810		if we go back and look at the water again.
+277.810	279.300		<VOX No I did not pop them VOX>.
+279.300	279.670		(H) You're --
+279.670	280.360		What- y- what --
+280.360	280.690		.. Y- --
+280.750	282.510		Do you heckle every scientific person.
+282.510	283.290		.. This is really terrible.
+283.290	285.400		(H) I'm gonna take some of this hot (H) water here,
+285.400	287.470		and pour it into this (H) flask here.
+288.230	290.730		... (SWALLOW) And put a balloon over the top .. of the flask.
+290.920	292.590		(H) ... <VOX Ah= VOX>.
+292.610	293.290		... (H) Alright?
+293.290	293.710		And now,
+293.710	294.710		I will heat up this water.
+294.710	295.330		Using,
+295.360	297.610		... (H) <VOX my Bunsen (H) burner VOX>.
+299.090	302.690		... (Hx)= ... (H) Does it use real Bunsen?
+302.690	303.420		Is that what you're asking me?
+303.430	304.750		(H) Alright here we go=.
+304.760	306.120		... The=re we go=.
+306.320	307.140		(H) ... Alright,
+307.140	308.940		I'm using the fire now to heat up the water,
+308.940	311.430		but let's (H) behave like scientists now,
+311.450	312.470		.. and .. watch,
+312.470	313.030		and observe,
+313.030	314.290		and take note of what we see.
+314.370	315.330		(H) Okay?
+315.330	316.060		(TSK) (H) Now.
+316.200	316.900		... Folks.
+316.890	317.610		... What do we see.
+317.610	318.900		Well if we look very closely,
+318.900	319.710		(H) we can see,
+319.710	321.410		.. (H) condensation here.
+321.410	323.330		(H) ... On the sides of this flask,
+323.330	324.270		and steam.
+324.390	325.440		... Rising up from the water.
+325.440	326.530		Going up into the balloon,
+326.530	328.990		(H) making .. the balloon .. blow up.
+332.720	333.190		... Woo,
+333.190	334.060		don't want too much heat there.
+334.060	336.670		(H) Oh we can also start to see (H) bubbles in the water.
+336.760	339.240		(H) The water that was sitting at the bottom of this flask,
+339.270	340.710		(H) turned into a g=as.
+340.770	341.980		(H) That had enough force,
+341.980	343.900		(H) to fill up (H) this balloon.
+344.430	346.320		... (H) That's what we call boiling folks,
+346.320	347.170		and I'm sure you do too.
+347.170	350.450		Turning from a liquid (H) into .. (H) a gas.
+351.090	352.780		... (H) Now if I took the t- balloon,
+352.780	354.760		.. if I took the balloon off the top of this flask here,
+354.760	356.200		and put the water into the freezer,
+356.200	357.920		(H) .. what do you think would happen to the water.
+359.160	361.070		... (H) It would freeze and turn into a?
+361.080	361.950	AUD:	... Solid.
+362.020	362.550	PHIL:	(H) Solid,
+362.550	363.160		correct.
+363.160	364.260		.. But it would still be water.
+364.260	364.860		Yes you're right.
+364.860	366.080		(H) ... Whether it's a solid,
+366.080	366.560		a liquid,
+366.560	367.240		or a gas.
+367.240	369.380		So let's think about what water is made up of.
+369.380	371.820		Well water is made up of .. atoms.
+371.820	372.890		.. (H) <VOX Yeah VOX>.
+372.890	374.380		Everything is made up of atoms.
+374.380	375.110		(H) Solids,
+375.110	375.660		(H) liquids,
+375.760	376.230		.. gasses.
+376.230	376.890		Now in water,
+376.890	380.010		(H) two atoms of what ato- uh .. element?
+380.010	380.410		Yes?
+380.330	381.140	AUD:	.. Hydrogen.
+380.790	381.630	PHIL:	(H) Very good,
+381.630	382.300		hydrogen,
+382.300	383.050		(H) and,
+383.050	384.250		... one atom of what?
+384.470	385.380	AUD:	.. Oxygen.
+385.300	385.850	PHIL:	.. Oxygen.
+385.850	386.830		.. I know you wanted to say it,
+386.830	387.840		but .. he's my pet.
+387.840	388.620		(H) Okay?
+388.550	389.350	AUD:	.. [<VOX X= VOX>],
+388.760	389.590	PHIL:	   [(H)] (TSK) 
+389.590	393.780		%A- all these atoms .. combine to form .. a molecule of water.
+393.780	395.140		(H) And that's what a molecule is folk.
+395.140	396.430		A group of atoms,
+396.430	397.080		(H) hanging out.
+397.080	398.320		.. Having a good time together.
+398.510	400.620		(H) And they call the water molecule .. aich two o.
+400.640	401.010		.. Alright.
+401.010	401.590		So.
+402.770	403.430		... (TSK) Folks.
+403.680	405.850		.. (TSK) (H) How do you suppose the molecules in this water,
+405.850	406.620		<PAR goodbye guys,
+406.620	406.890		I --
+406.890	407.720		(H) I'll miss you PAR>.
+407.730	408.850		.. [@@ (H)]
+407.640	408.790	AUD:	   [@@@@]
+408.850	411.020	PHIL:	How do you suppose the molecules in this water when it's ice,
+411.030	413.880		are different from the molecules in the water (H) when it's a liquid,
+413.880	415.200		and different still from the water --
+415.200	417.240		(H) .. from the molecules in the water [when it's] steam.
+416.500	416.830	AUD:	                                       [<X Fast X>].
+417.870	418.460	PHIL:	... Do you know?
+419.430	420.500		... (H) .. Yes?
+420.300	421.960	AUD:	They're not moving X[XX].
+421.480	422.430	PHIL:	                  [(H)] That's right,
+422.430	422.710		it's th- --
+422.710	424.240		it's movement my friends.
+424.240	424.560		You see,
+424.560	425.680		a=ll molecules move.
+425.680	426.400		Not just in water,
+426.400	427.890		(H) but in everything in the universe.
+427.890	428.760		(H) <VOX Even you.
+428.760	429.820		The molecules are moving VOX>.
+429.820	432.900		(H) But to get a better understanding of how those m=olecules interact,
+432.900	436.870		(H) let's= pretend these ping-pong balls here= (H) are molecules.
+436.870	437.980		(H) Well folks.
+437.980	438.890		(H) In a solid,
+438.890	440.210		(H) like this ice here.
+440.210	441.040		Or a table.
+441.050	444.050		(H) The molecules are moving [(H)] ve=ry slowly.
+444.480	445.260	>ENV:	                             [<<MACHINE_STARTS]
+444.050	444.600	PHIL:	Alright?
+445.130	446.390		... And they're very close together,
+446.390	449.520		.. in fact .. they're in a v- .. <MRC joined uniform state MRC>.
+449.520	450.300		.. (H) Okay,
+450.300	451.510		they move very coolly,
+452.130	453.230		.. slowly,
+451.510	452.130 :	and that's what it's like,
+453.410	454.550		(H) in a solid.
+454.550	455.090		Like the ice.
+455.090	456.040		But in a liquid,
+455.910	456.470	>ENV:	((MACHINE_LOUDER))
+456.430	458.380	PHIL:	.. (H) the molecules are moving a little more quickly.
+458.710	459.220		... Okay?
+459.220	462.550		So you have some .. fluidity of movement within a fixed volume.
+462.520	463.310		(H) Okay,
+463.310	465.520		they're a= little mo=re .. further apart there,
+465.610	467.080		.. (H) but in a gas,
+467.060	467.670	>ENV:	((MACHINE_LOUDER))
+467.470	468.510	PHIL:	... <VOX look at that.
+468.510	470.390		(H) They're moving ve=ry quickly indeed.
+470.390	470.920		Alright VOX>?
+471.060	473.770		(H) They're moving so fast they completely fill the shape container,
+473.780	476.150		... % ...
+474.130	476.257	>ENV:	MACHINE_STOPS>>
+476.210	477.890	PHIL:	.. That's what it's like in a gas.
+478.370	482.850		... <VOX And temperature is a measurement of how fast .. or slow  (H) molecules are moving VOX>.
+482.850	485.820		So if you have (H) <VOX slow= moving molecules VOX>,
+485.840	487.400		(H) what temperature do you have people.
+489.850	490.810		... (H) ... Yes,
+490.860	491.380		.. cold,
+491.380	492.630		or low temperature.
+492.630	494.280		(H) And if you have fast moving molecules,
+494.280	495.810		what type of temperature do you have.
+495.750	496.670	MANY:	... Hot.
+496.440	498.590	PHIL:	(H) <VOX Hot or high temperature VOX>.
+498.870	499.700		(H) You're right.
+499.700	501.500		(H) But not every substance beco=mes,
+501.500	502.360		a solid,
+502.360	503.150		(H) a liquid,
+503.150	503.840		and a gas,
+503.840	505.080		at the same temperatures,
+505.180	506.180		(H) as water does.
+506.280	509.630		(H) And that brings us back to the mystery (H) <VOX of our disappearing balloons VOX>.
+509.630	510.910		Now inside this container here,
+510.910	511.840		into which our balloons,
+511.840	512.110		<HI<VOX ah VOX>HI>,
+512.100	514.950		(H) (TSK) I am losing my ... spheres.
+514.950	516.370		(TSK) (H) ... Inside this container,
+516.380	517.750		into which our balloons have disappeared,
+517.750	518.770		I have a liquid.
+518.970	520.190		(H) I'm going to take some of that liquid,
+520.190	523.590		and examine it much in the same way that I did (H) the water=.
+531.360	532.280		... <VOX @@@@@@@
+533.540	535.320		... (H) Yeah= VOX>.
+535.320	536.330		Alright guys.
+536.330	538.430		(H) Let's watch now and see what occurs.
+538.430	541.080		(H) I'm going to pour this liquid into this flask here,
+541.650	542.620		... (H) .. and again,
+542.620	543.910		we will behave like scientists,
+543.910	544.300		and watch,
+544.300	544.800		and observe,
+544.800	548.420		and see what we ... n=otice.
+548.860	550.730		.. (H) Now here= ... is a liquid.
+550.730	552.170		... That is bubbling and steaming,
+552.170	553.200		like the water was,
+553.130	553.980		(H) when there were the f- --
+553.980	555.400		.. when there was a fla=me underneath it.
+555.400	555.900		But,
+555.910	558.630		(H) there's no flame underneath this .. liquid here.
+558.920	560.190		... N_that's different.
+560.300	561.240		.. (H) Let's see,
+561.240	563.300		.. what happens when I put a balloon o=ver the top.
+563.550	565.380		(H) ... If we do in fact have a liquid,
+565.380	566.350		that's turning into a gas,
+566.350	567.840		with enough force to fill up a balloon,
+567.840	569.230		and lo and beho=ld,
+569.240	570.250		(H) <VOX we do VOX>.
+570.250	572.230		(H) It i=s filling up the balloon here.
+572.230	572.820		.. But.
+573.600	575.430		... (H) ... This steam here is very cold.
+575.430	577.610		And we can see that frost (H) is forming,
+577.610	579.520		on the sides of this <HI flask HI> here.
+579.590	580.580		.. (H) <VOX Frost?
+580.640	582.280		.. (H) My God VOX> (Hx).
+582.280	583.080		(H) That's curious.
+583.080	585.410		Let's see what the temperature is of this liquid.
+585.560	586.370		.. (H) % 
+586.380	587.290	AUD:	 XXX
+587.290	588.140	MANY:	(LAUGHTER)
+587.960	589.810	PHIL:	Did you guys come from a deprived home or something,
+589.810	590.760		you didn't have balloons?
+590.770	592.570		@@@ (H) <VOX Fighting over balloo=ns.
+592.570	593.930		I never thought I'd see the day VOX>.
+593.930	596.110		(H) I'm going to put this probe here into this liquid,
+596.110	598.460		and we will see what temperature (H) this balloon is.
+598.460	599.600		Uh try to .. stay in your seats,
+599.600	601.570		I don't want you guys to run up .. throughout the show.
+601.570	602.450		... Okay,
+602.450	604.260		now the temperature of this liquid i=s,
+604.260	607.760		(H) three-hundred and twenty-three degrees below= zero=.
+608.180	611.500		(H) Water becomes a solid at thirty-two degrees above zero.
+611.500	614.300		And it remains a solid (H) at every tenjure- temperature below that.
+614.300	614.710		So,
+614.710	615.050		folks,
+615.050	615.640		do you think,
+615.640	618.740		(H) this .. three-hundred and twenty-three degree l=iquid,
+619.140	620.520		... i=s .. water.
+618.720	619.320	MANY:	.. No.
+621.440	622.000	PHIL:	(H) No.
+622.000	622.340		That's right,
+622.340	624.000		go ahead and shake your heads in disbelief.
+624.000	625.060		Of course it's not water.
+625.060	625.730		(H) No.
+625.730	628.580		This .. folks .. is .. liquid (H) n=itrogen.
+628.580	630.330		.. <VOX Ah= ye=s VOX>.
+630.330	633.570		(H) ... Where folks can you find ... lots of nitrogen.
+635.930	636.450		... % In --
+636.450	637.000		He's like,
+637.000	637.500		..  0oing this.
+637.500	638.360		I thought he had bad breath,
+638.360	638.950		<X yes X>,
+639.140	640.570		... the air you're breathing right now.
+640.570	641.850		Your lungs are filled with this stuff,
+641.850	642.410		all of you.
+642.410	645.410		(H) ... The air is probably about seventy percent nitrogen,
+645.410	646.240		a=nd uh,
+646.240	646.760		.. it's oxygen,
+646.760	648.020		and other gasses as well,
+648.020	648.720		(H) okay?
+648.720	649.950		.. Our body takes it all in.
+649.950	651.470		(H) But we only u=se the oxygen.
+651.470	652.680		We breathe out the nitrogen.
+652.680	654.860		The reason why the nitrogen is not freezing our lungs,
+654.860	656.470		(H) as it is doing this flask here,
+656.470	657.310		(H) is because,
+657.310	659.120		(H) those molecules are moving much faster.
+659.120	660.900		(H) The .. nitrogen is w=armer.
+660.900	662.580		Probably about seventy degrees I would imagine.
+662.580	663.400		(H) But,
+663.400	666.860		... <VOX this ... liquid .. is ve=ry cold indeed.
+666.860	669.590		Three-hundred and twenty-three degrees below= zero= VOX>.
+669.590	670.420		(H) Well,
+670.420	671.780		... to get exactly,
+671.780	673.410		... to get an idea about how cold that is,
+673.410	676.300		let's use these two ... bouncing rubber balls.
+676.300	678.040		I would like you people in the audience to,
+678.040	679.390		(H) examine the balls.
+679.870	681.290		... To let me know if,
+681.290	682.730		.. (H) they are in fact,
+683.450	685.790		... average normal everyday balls.
+686.580	687.960		... Testify for the audience.
+687.960	688.920		<VOX Don't b=ite into it,
+688.920	689.510		jeesh VOX>.
+689.510	690.300	AUD:	@@@
+689.510	691.370	PHIL:	(H)= .. You've really haven't been fed,
+691.370	691.800		have you.
+691.800	692.970		Oh I'm really feeling sorry for you.
+692.970	694.180		Please bounce it back now.
+696.020	696.360	AUD:	... No,
+696.360	697.150		don't bounce [it.
+696.540	697.180	PHIL:	             [@ (H)]
+697.220	698.780	AUD:	<X Throw it anywhere else X>.
+698.310	699.930	PHIL:	(H) @@@@ (H)
+699.440	700.320	AUD:	Throw it in the water.
+700.320	701.460		.. <X Right under the water X>.
+701.290	701.900	PHIL:	(H) That was --
+701.900	702.800		.. I'm surprised I caught that.
+702.800	704.000		Normally I'm .. f_try to goof.
+704.000	704.920		I'm like Michael Jordan,
+704.920	705.610		in the White Sox.
+705.610	706.000		But anyway,
+706.000	707.110		(H) but this time I caught it.
+707.110	707.960		(H) So,
+707.960	708.850		let's see what happens,
+708.850	711.740		when one of these balls goes into the <VOX liquid (H) nitrogen VOX>.
+711.730	713.290		Now the other one stays out here,
+713.290	714.280		(H) with me.
+714.280	715.510		... Where it's nice and warm.
+715.510	718.870		(H)= ... Well let's think now about what's happening to this ball.
+718.870	721.490		... It's in the <VOX ve=ry cold VOX> liquid nitrogen.
+721.490	722.000		Right?
+722.000	722.970		(H) So.
+722.970	724.550		.. What do you think is happening to the ball.
+724.550	726.470		Is the ball getting hotter (H) or colder.
+726.470	727.530		Everybody say it out lou=d.
+727.390	727.820	AUD:	Hotter.
+727.730	728.570	MANY:	.. Colder.
+727.780	729.030	PHIL:	(H) Colder.
+729.030	729.470		Okay,
+729.500	730.960		... <PAR some people don't agree with you.
+730.960	731.830		.. In fact most people don't PAR>.
+731.890	732.610		(H)= Yes,
+732.610	733.510		it's getting colder.
+733.510	735.220		(H) So if the ball is getting colder,
+735.220	737.310		do you think the ball='s m=olecules,
+737.310	738.890		(H) are going faster?
+738.890	739.700		... Or slower.
+739.890	740.990	MANY:	Slower.
+740.490	741.490	PHIL:	(H) Slower,
+741.490	741.810		okay.
+741.810	743.200		And that .. you all .. concur.
+743.200	743.920		That is excellent.
+743.920	744.560		(H) So,
+744.560	746.440		if these molecules are going slower,
+746.440	747.290		(H) do you think --
+748.620	749.760		... and the ball is getting colder,
+749.760	753.280		do you think the ball is becoming (H) <MRC more of a solid MRC>?
+753.300	754.290		.. Or more of a liquid.
+754.290	754.630		What do you think.
+755.290	756.210	AUD:	.. Liquid.
+755.700	756.990	PHIL:	(H) A l=iquid,
+756.990	758.100		only one person thinks that,
+758.100	760.180		cause everybody didn't want to go all that far out on a limb.
+760.180	761.290		So let's see,
+761.490	762.920		(H) .. if uh,
+762.910	763.730		@sh- --
+763.730	765.790		(H) if what this guy is thinking is true.
+765.790	766.860		If it becomes more of a liquid,
+766.860	767.890		or more of a solid.
+767.890	770.710		I will take this ball <VOX out VOX> (H) o=f the liquid nitrogen,
+770.710	773.500		and we will begin ... the experiments.
+773.570	774.510		(H) Okay,
+774.510	774.990		now.
+775.090	776.010		... Let's see,
+776.130	776.850		... they look alike,
+776.850	777.160		don't they,
+777.160	778.170		they still look .. pretty much the same,
+778.170	779.800		except we have steam coming off this ball here,
+779.800	781.900		let's see (H) if they bounce  .. as before.
+781.900	783.260	>ENV:	((BALL_BOUNCING))
+783.260	785.830	PHIL:	... (H) Well this one .. m- .. bounces pretty much the same,
+785.840	786.790		but this one is different.
+786.790	787.960		(H) That is curious.
+787.960	788.590		<VOX Hmm= VOX>.
+788.590	790.210		(H) Well I must continue my study.
+790.210	793.490		(H) Let's see how they react under ... <VOX pressure= VOX>.
+794.390	795.080		... (H) (GRUNT)
+795.080	795.930		(H) Okay,
+795.930	796.740		(GRUNT)
+796.740	797.140		(H) alright,
+797.140	798.990		this one .. pretty much .. is absorbing my energy,
+798.990	799.740		it remains intact,
+799.750	801.350		but let's see what happens to this ball.
+801.820	803.880		... <VOX @ (H) @@ (H) @=@ VOX>
+803.880	807.410		... (H) @@ (H) @@ .. (H)=
+806.710	807.960	AUD:	 Did it break?
+808.000	809.300	PHIL:	... <VOX No= VOX>.
+809.370	810.870		(H) It broke.
+810.870	811.510		... You see,
+811.510	813.350		these molecules got slower and slower and slower,
+813.350	813.770		a=nd,
+813.770	814.870		(H) closer together.
+814.870	816.860		(H) The ball became more of a solid than before,
+816.860	817.720		it became harder.
+817.720	819.260		(H)= .. Well folks,
+819.260	820.150		that .. kinda k- --
+820.430	822.820		it .. gives you a little bit of an idea of what's happening to our balloons,
+822.820	824.790		but it still doesn't make it absolutely clear,
+824.790	825.560		(H) so.
+826.380	831.020		... (H) And we'll see what happens to this ... <VOX b=ig old balloon.
+831.020	833.650		.. When it interacts with liquid n=itrogen  VOX>.
+834.000	835.350		... (H) Alright?
+835.480	837.600		... Rather than see what happens tha- there and- --
+837.600	840.330		.. guess at what's happening to these .. balloons in the container,
+840.330	842.190		we will see what happens (H) to a balloon,
+842.190	844.520		when it interacts with liquid nitrogen in the light of day.
+844.800	845.460		... (H) Alright,
+845.460	848.200		I'm pouring the very cold liquid nitrogen over this balloon.
+848.200	849.980		.. (H) So the balloon and its contents,
+849.980	850.840		the air insi=de,
+850.840	852.800		is getting colder and colder and colder.
+852.800	854.810		(H) Okay those molecules are slowing down.
+854.810	855.850		They're going slower and slower,
+855.850	858.030		(H) and so they're getting closer and closer together.
+858.030	858.430		Okay?
+858.430	861.810		(H) You still have the same num=ber of air molecules inside this balloon,
+861.810	863.140		(H) as you did before.
+863.140	864.140		.. (H) It's just that,
+864.140	865.130		(H) they're going slower,
+865.130	866.100		so they're closer together,
+866.100	867.390		and they take up less space,
+867.390	869.260		(H) in this (H) balloon.
+870.530	872.510		... And look .. at the balloon.
+872.510	873.780		(H) At the very bottom of it.
+873.780	874.870		You can see a liquid.
+874.870	876.270		.. (H) That's the air people.
+876.270	878.150		How often do you get to see liquified air,
+878.150	879.200		but that is the air.
+879.200	882.520		(H) .. The molecules have gotten so= .. slowed down,
+882.520	883.690		and so close together that,
+883.690	884.430		(H) they're less,
+884.430	886.530		.. they're not in the .. as much in the form of a gas now,
+886.530	889.110		they're more in the form % ... % (H) of a liquid.
+889.110	889.900		(H) But now.
+889.900	890.710		.. The air around it,
+890.710	892.600		(H) is causing those molecules to speed up.
+892.600	893.690		... <VOX @@@ VOX>
+893.690	894.600		(H) Ha ha=.
+894.600	895.520		.. (H) And so,
+895.520	897.120		... the molecules are speeding up,
+897.120	898.580		they're getting further and further apart,
+898.580	900.760		(H) .. and taking up more space inside the balloon,
+900.760	903.260		so the balloon goes back to its former size and shape.
+903.260	905.960		(H) So that has to be what's happening (H) to the balloons,
+905.960	907.690		that are inside this container here.
+907.810	909.000		(H) Alright?
+909.000	910.250		... (SWALLOW) Yes,
+910.250	912.260		these balloons are in the very cold liquid nitrogen,
+912.260	914.330		(H) and so those molecules slowed down,
+914.430	915.870		(H) and got closer together,
+915.870	917.020		(Hx) (H) the air,
+917.020	918.470		... took up less space inside the balloons.
+918.470	919.930		So I can fit <VOX a=ll VOX> those balloons,
+919.930	921.850		(H) into this <HI little itty-bitty container HI>.
+921.860	923.140		.. (H) <VOX But now= VOX>,
+923.140	925.420		(H) I'm taking the balloons out .. of this container,
+925.420	927.810		(H) so the molecules .. a=re speeding up.
+927.810	929.400		(H) The air is <VOX heating up VOX>,
+929.440	930.550		.. okay?
+930.550	932.840		.. And so the molecules are going (H) faster and faster,
+932.840	934.570		and they're getting further and further apart,
+934.880	936.960		... (H) they're taking up less space,
+937.220	938.490		... (H) insi=de- --
+938.490	938.770		I'm sorry,
+938.770	940.160		taking .. up more and more space,
+940.160	941.040		inside these balloons.
+941.720	944.000		.. (H) .. And you might want to protect your eardrums.
+944.000	945.650		Cause sometimes as these balloons expand,
+945.650	946.130		they pop.
+946.130	946.930		And let me tell you,
+946.930	949.330		... I get quite shell shocked at the end of the day.
+949.360	950.450		.. (H) So,
+950.480	952.660		... this really teaches us a lot people,
+952.660	953.730		this tells us that the dif[ference] --
+953.480	953.730	>ENV:	                          [((POP))]
+953.730	954.500	PHIL:	<VOX @Ow= VOX>.
+954.500	958.310		(H) .. The difference in a substance between a solid .. a liquid and a gas,
+958.410	959.660		.. (H) .. like water,
+959.660	960.310		i=s,
+960.790	962.820		... how fast the molecules are moving.
+962.820	965.800		And that different ... substances become a solid,
+965.800	966.530		... a liquid,
+966.530	967.920		.. and a gas at different temperatures,
+967.920	972.240		and temperature (H) is a measurement of how fast or slow (H) molecules are moving.
+972.240	973.970		.. (H) That's what I wanted to tell you people,
+973.970	976.100		I love to share that with everyone that I meet,
+976.100	977.540		(H) if you have any questions about this,
+977.540	978.580		or= .. any other subject,
+978.580	979.560		come on up and ask,
+979.560	980.750		(H) .. even if you don't,
+980.750	991.100		.. I certainly hope you have a great day here at the Museum= ... of Science ... <VOX and Industry=%= VOX> (Hx).
+991.100	991.740	>ENV:	((POP))
+991.750	992.270	AUD:	X
+992.270	992.770	PHIL: Oh,
+993.270	993.870		... @@@ (H)
+993.910	995.760		.. <VOX thank you very much.
+995.760	997.500		(H) %=Oy VOX>.
+997.500	998.750		.. Someone's been shot.
+998.750	999.800		... @

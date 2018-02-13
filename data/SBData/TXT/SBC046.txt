@@ -1,0 +1,781 @@
+0.000	2.589	>ENV:	... ((DOOR_OPENING))
+2.589	4.447	REED:	... Hey man.
+4.447	4.934	DARREN:	Hey.
+4.934	6.420	REED:	... Good to see you,
+6.420	6.954		@@
+6.954	8.464		... we=ll,
+8.464	12.328		... I see you went ahead with your plans to do a little skiing there?
+12.328	12.879	DARREN:	.. I did.
+12.879	13.234		@@
+13.234	13.408	SALLY:	@
+13.408	14.046	REED:	We=ll,
+14.046	15.579		I'm glad you didn't hurt yourself too bad,
+15.579	16.185	DARREN:	[Me too].
+15.637	17.163	REED:	[and she says] you're [2getting better2] already,
+16.212	16.788	>ENV:	[2((DOOR_CLOSING))2]
+17.163	18.591	REED:	so that's always a good sign.
+18.591	18.969	DARREN:	.. Yeah,
+18.969	19.619		I mean I couldn't --
+19.619	21.848		... I couldn't begin to [<X deal with X> the slightest pressure].
+20.757	21.151	REED:	[Yeah,
+21.151	22.208		<X give it X> easy easy],
+22.208	22.684		yeah don't --
+22.684	24.518	DARREN:	... (H) Tha[t still hur]ts back here.
+23.404	23.787	REED:	[Yeah],
+24.518	25.014		.. yeah.
+25.014	25.614		... Well,
+25.614	26.761		you don't want to .. stretch,
+26.761	27.550		see what happened,
+27.550	27.875		you st- --
+27.875	28.764		... Ch- --
+28.764	29.780		.. According to this other guy,
+29.780	31.355		you stretched your ligaments in there,
+31.355	34.240		(H) and the ligaments are the things that hold your joint together,
+34.240	35.856		keep it from flopping around so,
+35.856	36.870		(H) if they get,
+36.870	37.567		... you know,
+37.567	38.624		stretched just a little,
+38.624	40.126		when they try to peel down,
+40.126	40.875		and tighten up,
+40.875	41.652		and you don't want to,
+41.652	43.080		(H) ... you know,
+43.080	45.599		get em too la=x while they're trying to tighten.
+45.599	45.924		You know,
+45.924	48.201		you want to let em .. heal as strong as they can.
+48.201	49.087		I mean you can move it,
+49.087	51.382		I'm not saying you got to go around with it just totally,
+51.382	55.798		(H)= but you don't wanna stretch those ... ligaments very much when,
+55.798	56.541		while they're healing.
+56.541	56.796		Just --
+56.796	59.450		(H) ... Just gra=dually bring it around.
+59.450	60.170	DARREN:	.. [Okay].
+59.803	62.042	REED:	[Are you u]sing any kind of walking aids.
+62.042	62.509	DARREN:	[2Hm-mm2].
+62.042	62.509	REED:	[2Nope2].
+62.509	63.809		... Just walking around.
+63.809	64.134		Hunh?
+64.134	64.715	DARREN:	.. Yeah,
+64.715	64.982		I had,
+64.982	66.828		for the first two days I had a crutch or two.
+66.828	67.524	REED:	.. Okay.
+67.524	68.618	DARREN:	I switched from two to one,
+68.618	69.268		like a cane,
+69.268	69.653		and then I,
+69.653	69.976	REED:	Yeah.
+69.976	70.394		Okay.
+70.394	71.218	DARREN:	... Uh=,
+71.218	72.598		.. it was really .. icy there,
+72.598	73.048		so I,
+73.048	74.208		.. it had a spike on it,
+74.208	74.708		so[= I] --
+74.406	74.847	REED:	[Oh],
+74.847	75.556		that was neat.
+75.556	76.194	DARREN:	... Yeah.
+76.194	77.970		Peg it in the @ground.
+77.970	78.763	REED:	.. If you forget,
+78.763	80.273		and walk inside with your spike,
+80.273	82.065		I guess you're [not too] well appreciated.
+80.823	81.190	DARREN:	[(SNEEZE)]
+82.065	82.723		@No[2= @2].
+82.273	82.999	REED:	[2<X Bet you X>2] @.
+82.999	83.533	DARREN:	.. @No,
+83.533	83.824		@
+83.824	85.089	REED:	.. Let me set you up there.
+85.089	85.713		(THROAT)
+85.713	86.990	DARREN:	Is it okay if I record this,
+86.990	87.304		I --
+87.304	88.081		I alread[y have] --
+87.582	87.965	REED:	[Sure].
+87.965	89.289	DARREN:	... It's [2for a2] pro[3ject3].
+88.546	88.824	REED:	[2Sure2].
+89.126	89.486		[3(THROAT)3]
+89.486	90.043		Sure.
+90.043	90.977	DARREN:	... Cool.
+90.977	92.940	REED:	... Alright,
+92.940	93.834		what are you doing over there.
+93.834	95.970		I thought you were doing something (Hx) .. different.
+95.970	97.781		I thought you were working with languages in --
+97.781	98.767	DARREN:	... Okla[homa]?
+98.612	98.865	REED:	[Hunh]?
+98.865	100.792	DARREN:	... Or in California.
+100.792	101.233	REED:	I mean,
+101.233	101.712		well yeah,
+101.712	103.416		y- California your basic pro[ject],
+103.276	104.461	DARREN:	[I] wa=s in linguistics.
+104.461	105.724		That's [2what this project2]'s for,
+104.646	105.192	REED:	[2Yeah that's2] --
+105.724	105.974	DARREN:	but,
+105.974	107.181		... I did a year of it,
+107.181	108.671		an=d decided it wasn't quite,
+108.671	109.585		.. what I [really l-] --
+109.271	109.535	REED:	[Quite],
+109.585	110.432		quite what you want,
+110.432	110.787		okay.
+110.787	111.024	DARREN:	Yeah,
+111.024	111.732		it was an unfortunate,
+111.732	113.591		cause I really don't know quite what I @want @.
+113.591	114.660	REED:	... We=ll that's alright.
+114.660	115.239		... I mean,
+115.239	116.400		there's a lot of things out there,
+116.400	117.341		you'll find something.
+117.341	118.239	DARREN:	.. I hope so (Hx).
+118.239	118.739	REED:	You know,
+118.739	118.962		% --
+118.962	120.143	DARREN:	.. I [move to O]klahoma.
+119.312	119.645	REED:	[X] --
+120.143	120.967		... Completely.
+120.967	122.747		My son is still flopping around,
+122.747	122.964		he --
+122.964	127.023		(H) ... He uh graduated from medical school this year and uh,
+127.023	128.141		I mean he's in uh,
+128.141	129.707		... Soho in New York.
+129.707	130.531	DARREN:	... Reall[y].
+130.427	131.959	REED:	[S]tarting an art .. career,
+131.948	133.794		... @=
+133.794	135.094	DARREN:	@[@@@] @
+134.072	134.781	REED:	[@So=],
+135.059	135.791		.. so you see,
+135.791	136.058		I mean,
+136.058	136.859		a lot of people,
+136.859	137.697		(H) you know,
+137.697	138.975		I mean he's gonna paint for a year,
+138.975	141.338		and just see whether he can do well enough with th[at to] --
+141.134	142.446	DARREN:	[Cause he] doesn't want to be a doctor after all?
+142.446	142.725	REED:	Well,
+142.725	145.261		he couldn't find anything he really wanted to do.
+145.261	145.696		You know,
+145.696	146.317		I mean he,
+146.317	147.827	DARREN:	... Did he [spec]ialize [2<X at all X>2]?
+147.014	147.339	REED:	[he] --
+147.577	148.477		[2(H)2] Well that's what I mean,
+148.477	148.702		no,
+148.702	149.754		he hasn't specialized yet.
+149.754	152.156		But he couldn't find anything that just really,
+152.156	153.526		... pulled him toward it,
+153.526	155.210		... a=nd so he said well,
+155.210	157.576		.. (H) ... you know (Hx),
+157.576	161.268		(H) I guess he got a lot out of always doing art when he was young and,
+161.268	163.093		he's gotta scratch that little itch,
+163.093	163.660		.. I [think,
+163.381	164.084	DARREN:	[Good for him].
+163.660	164.058	REED:	a=nd],
+164.058	164.910		so he's up there,
+164.910	166.220		and he'll give it a year and,
+166.220	167.265		.. see what happens.
+167.265	168.043		And the same for you,
+168.043	168.391		you got --
+168.391	169.517		(H) You got plenty of --
+169.517	170.720		(H) There's= .. uh,
+170.720	171.684		.. fortunately,
+171.684	174.076		... this day and time I think it allows,
+174.076	175.875		... % one to,
+175.875	177.339		.. proceed like you're and-,
+177.339	178.207		you're proceeding,
+178.207	179.182		and he's proceeding.
+179.182	179.657		And I think it,
+179.657	181.132		I think it's the right thing to do.
+181.132	181.608		I would've d- --
+181.608	184.231		I would probably do the same thing were I,
+184.231	184.580		you know,
+184.580	186.242		another generation down the line.
+186.242	187.235		(H) You know,
+187.235	187.935		although I r- %,
+187.935	190.243		.. I didn't make the wrong decision for me.
+190.243	190.708		... But,
+190.708	193.185		... I'm sure I would have been a lot more.
+193.185	194.114		... Uh,
+194.114	195.449		... uh,
+195.449	196.316		... I guess,
+196.316	197.302		diligent in in,
+197.302	198.800		working it out beforehand but,
+198.800	199.513		(H) in,
+199.513	200.298		in my time,
+200.298	200.623		you know,
+200.623	201.768		you really kinda just --
+201.768	203.519		.. There wasn't too many things to do,
+203.519	204.144		you know,
+204.144	204.369		and,
+204.369	205.739		you- .. too many opportunities,
+205.739	206.749		and so you just kinda,
+206.749	208.443		(H) chose between a few,
+208.443	208.693		and,
+208.693	209.422		.. that was it.
+209.422	209.933	DARREN:	... Yeah.
+209.933	210.351		[@@]
+209.921	210.757	REED:	[@=]=
+210.757	211.825	DARREN:	[2@@2] (H)
+210.966	211.407	REED:	[2@So2],
+211.825	214.684		... a little simpler lifesty=le in those days.
+214.684	216.182		(H) .. Tell me where it hurts.
+216.182	217.054	DARREN:	... Uh,
+217.054	218.480		.. still a little bit back here.
+218.480	219.061	REED:	.. Mm-kay.
+219.061	221.073	DARREN:	Doesn't feel quite normal .. back there,
+221.073	221.708		... un[der] --
+221.557	221.917	REED:	[Okay].
+221.917	223.844	DARREN:	... It .. originall[2y hurt2] --
+223.264	224.093	REED:	[2On the si2]=des,
+224.093	224.334		yeah,
+224.334	225.632		the [sides] don't hurt mu[2=ch2]?
+224.434	224.807	DARREN:	[It would] --
+225.443	226.075		[2Not a2]nymore.
+226.075	226.986		[3I think it did at3] fir- --
+226.307	226.778	REED:	[3Mm-kay3],
+226.981	227.608	DARREN:	at [4first4].
+227.224	227.507	REED:	[4great4].
+227.507	228.927	DARREN:	... He drew some blood out,
+228.927	230.247		.. from here [the first time].
+229.434	229.667	REED:	[Yeah,
+229.655	230.293		I saw that].
+230.293	230.677		You got,
+230.677	231.571		%a little bit of blood,
+231.571	232.186		not too much,
+232.186	233.285		that's a good sign too.
+233.285	233.810		... Cause,
+233.810	235.185		(H) usually when they're torn bad,
+235.185	236.645		they have a lot more blood than that.
+236.645	240.232		... Is that doing anything.
+240.232	241.300	DARREN:	.. Nothing bad really.
+241.300	242.997	REED:	... Which one hurts more,
+242.997	243.505		.. ba=ck,
+243.505	244.726		... or forward.
+244.726	246.039	DARREN:	... They're about the same.
+246.039	246.743	REED:	About the same,
+246.743	249.575	DARREN:	There's just this sense of constantly not being quite right.
+249.575	250.091	REED:	.. Mm-kay?
+250.091	251.506		... (H) Well see,
+251.506	252.710		let me show you something over here.
+252.710	254.236		... Watch this one.
+254.236	256.637		... See I'm pushing ba=ck now,
+256.637	257.094	DARREN:	.. Yeah.
+257.094	258.255	REED:	.. and I'm pulling forward,
+258.255	258.592		and it --
+258.592	260.527		... You get a little bit of pull,
+260.527	261.602		... coming forward it,
+261.602	263.227		.. it .. moves out a little bit,
+263.227	263.645		.. and,
+263.645	264.536		but when you go back,
+264.536	264.986		it kinda,
+264.986	266.242		... tight.
+266.242	268.503		... It's got a good catch to it you know,
+268.503	268.898	DARREN:	Mhm.
+268.898	269.536	REED:	over here,
+269.536	271.873		... (H) we're gonna pull,
+271.873	273.079		... pull it out,
+273.079	275.748	DARREN:	... Wow it doesn't have that same movement.
+275.748	278.500	REED:	... It's got a little more .. forward movement,
+278.500	279.314		... and it,
+279.314	279.891		.. kinda,
+279.891	280.813		... has a,
+280.813	284.136		kind of a rubbery kinda end stop there,
+284.136	284.972		.. so= uh,
+284.972	286.537		(H) chances are (Hx),
+286.537	287.846		.. you've uh hurt that,
+287.846	289.755		... uh ligament in the back too.
+289.755	290.613		(H) Uh,
+290.613	291.600	DARREN:	.. The crossband?
+291.600	292.457	REED:	.. M=hm yeah.
+292.457	292.719		The --
+292.719	294.372		... Call --
+294.372	295.929		We call em the cruciate ligaments.
+295.929	297.394		He calls em the ex-ban=ds,
+297.394	298.257		or whatever they [are,
+298.029	298.407	DARREN:	[Yeah,
+298.407	298.745		I don't know what] --
+298.257	298.745	REED:	th- they] --
+298.745	299.585		They cross,
+299.585	300.627		... and one --
+300.627	303.816		.. (H) They cross because one's going forward and one's going backwards,
+303.816	305.882		and they keep you from going forwards and backwards,
+305.882	307.438		is basically [what they] do so.
+306.463	306.782	DARREN:	[Hunh].
+307.438	309.812	REED:	[2(H)2] Pretty logical arrangement there.
+307.886	308.117	DARREN:	[2Mhm2].
+309.812	312.005	REED:	... (THROAT)
+312.005	318.611		... Yeah,
+318.611	319.013		it is.
+319.013	322.241		Your posterior's ... messed up a little bit.
+322.241	323.042		(Hx)=
+323.042	326.014	DARREN:	.. Well,
+326.014	326.861		can that get better?
+326.861	328.918	REED:	... U=h (Hx)=,
+328.918	330.335		... mm=,
+330.335	332.727		... <P get a little better maybe P>.
+332.727	335.792		... It's not gonna get all the way right,
+335.792	336.365	DARREN:	... Mm.
+336.365	338.049	REED:	It'll be .. a little bit of a problem.
+338.049	341.009		(H) I'm not sure you didn't maybe have some of that before,
+341.009	341.942		I don't really know,
+341.942	342.716		... uh,
+342.716	344.723		.. let me see w- .. how much this hurts here.
+344.723	346.011	DARREN:	.. Mm.
+346.011	347.521	REED:	... None?
+347.521	348.299	DARREN:	... Mm-mm.
+348.299	348.624	REED:	Good.
+348.624	350.930		... (H)
+350.930	352.430	DARREN:	.. My main physical activity,
+352.430	354.392		for the past year and a half has been aikido,
+354.392	355.530	>ENV:	... ((DOOR_CLOSING))
+355.530	357.155	DARREN:	which is a pretty gent[le art].
+356.679	357.039	REED:	[Mm].
+357.155	358.439		... Mm-kay.
+358.439	359.206	DARREN:	.. Lot of rolling,
+359.206	359.565		lot of --
+359.565	361.239		... The knees do take something from that,
+361.239	362.005		<X I believe that they X> --
+362.005	363.537		... A lot of work [on em],
+362.886	363.559	REED:	[Oh yeah].
+363.559	364.024		Sure.
+364.024	369.118		Any of those ... things gotta .. (H) put some kinda .. stress on your leg,
+369.118	369.484		you know?
+369.484	371.020	DARREN:	.. I definitely want to get back to it though.
+371.020	373.295		... I had to lay off it for a while.
+373.295	375.598		... That ... hurts right over here.
+375.598	375.897	SALLY:	Okay.
+375.897	376.444	REED:	Mm-kay.
+376.444	378.198		... It's not too bad though.
+378.198	378.952	SALLY:	... (SNIFF)
+378.952	380.856	REED:	.. It's just ve=ry mi=ld,
+380.856	381.715		(H) uh,
+381.715	382.006		that --
+382.006	383.201		That one could probably --
+383.201	385.047		... See look at the difference on here now.
+385.047	385.792		what- .. see --
+385.792	387.818		... See how much of a jiggle you got there,
+387.818	391.295		you got just ... a little laxity there.
+391.295	391.608		righ[=t]?
+391.411	391.817	DARREN:	[M]hm.
+391.817	394.046	REED:	.. And this one's just .. a hai=r different.
+394.046	394.627		I mean it --
+394.627	398.391		... But it hurts.
+398.391	398.902	DARREN:	.. A bit.
+398.902	399.332	REED:	.. Uh,
+399.332	399.784		a little bit.
+399.784	400.969	DARREN:	.. It [hurt a lot at first].
+400.121	401.515	REED:	[But it's just a] hair,
+401.515	402.479		(H) and uh,
+402.479	402.933		.. so,
+402.933	404.706		if you just let that one kinda heal,
+404.706	406.206		... you know,
+406.206	407.204		which I think it's gonna do,
+407.204	409.767		cause you don't even complain much of this over here.
+409.767	410.251		(H) You know,
+410.251	411.077		when you're doing things,
+411.077	412.792		you're thinking more about this back one,
+412.792	415.257		and that's the posterior ... ex-band,
+415.257	416.683		if you want to put it .. like that,
+416.683	418.076		or posterior cruciate we call it.
+418.076	419.148	DARREN:	... (SNIFF)
+419.148	420.187	REED:	... (TSK) Uh,
+420.187	421.835		... seems to be the problem,
+421.835	423.394		.. (H) but it's not uh,
+423.394	428.007		... I'm not sure you didn't have a little bit of that problem before.
+428.007	430.538	DARREN:	... It isn't --
+430.538	432.679		... All these years since the wreck,
+432.679	433.942		the .. the leg's never felt,
+433.942	434.269		you know,
+434.269	434.571		like it,
+434.571	436.347		... it's [never been t]otally norm[2al but2],
+435.012	435.407	REED:	[Mhm].
+435.907	436.347		[2Mhm2].
+436.347	437.218	DARREN:	I just [3got used to it3].
+436.580	437.381	REED:	[3Did your knee3],
+437.381	439.296		did your knee feel [4like it4] would --
+438.811	439.041	DARREN:	[4(GASP)4]
+439.296	440.355		... Sorr- [5that hurt5]s a bit.
+439.621	439.889	REED:	[5X5]
+440.355	441.424		.. Where did that get you,
+441.424	441.849		over here?
+441.849	442.418	DARREN:	Again [yeah].
+442.209	442.429	REED:	[Right].
+442.429	442.963		Yeah okay.
+442.963	443.480		That's okay .
+443.480	447.671		.. (H) Did your knee feel like it ... had some play in it,
+447.671	447.989		you know,
+447.989	449.293		it wasn't real steady,
+449.293	450.343	DARREN:	.. I don't remember.
+450.343	451.493		... That being a --
+451.493	455.789	REED:	Being a [..] complaint while you were doing your (H) martial arts stuff?
+452.424	452.667	SALLY:	[(SNIFF)]
+455.789	457.236	REED:	Still [2<X hurt a little bit too X>2].
+456.165	458.928	DARREN:	[2I injured the front of the2] knees when I was dancing for a while,
+458.928	460.593		I was dancing with Kristy Hannah here,
+460.593	461.661		.. [few years ag]o and,
+460.735	461.360	REED:	[Mhm].
+461.661	463.066	DARREN:	.. there were some times I came down on it,
+463.066	463.995		[and it did some] --
+463.078	463.937	REED:	[XXXXX]?
+463.937	467.188	DARREN:	... But that was .. impact injury.
+467.188	467.583	REED:	Yeah.
+467.583	467.935		Right.
+467.935	469.927		... Let's see .. how rough that is.
+469.927	470.821		Let your knee down.
+470.821	472.284		.. Alright now straighten your knee out.
+472.284	472.586		.. Yeah,
+472.586	473.271		you've got a little --
+473.271	474.699		... [Put your] --
+474.432	474.687	DARREN:	[Yeah].
+474.699	475.209	REED:	Put your hand.
+475.209	475.651		You feel it?
+475.651	476.198	DARREN:	.. Yeah,
+476.198	476.999		.. [it's X].
+476.519	477.672	REED:	[But that's] pretty typical.
+477.672	478.389		How about this one.
+478.389	479.515		You got anything over [here,
+479.271	479.936	DARREN:	[<X I've got a X> X].
+479.515	480.656	REED:	no that's] pretty slick.
+480.656	482.015		Just a little click over [2there2].
+481.771	482.038	DARREN:	[2Yeah2].
+482.038	484.030	REED:	.. (H) ... Alright (Hx)?
+484.030	484.399		Uh,
+484.399	486.257		hold your .. leg real strong there,
+486.257	487.023		let me pull on it.
+487.023	487.859		And let's see if we got,
+487.859	490.400		... a pretty good muscle there?
+490.400	491.991		... Is that hurting anything?
+491.991	492.921	DARREN:	Mm-[mm].
+492.621	492.921	REED:	[Kay].
+492.884	494.075		.. (H) Alright,
+494.075	494.424		well I- --
+494.424	495.411		I think uhm,
+495.411	499.190		... (TSK) (H) .. You know I --
+499.190	499.701		I think,
+499.701	500.850		.. probably,
+500.850	503.511		... it's mostly posterior cruciate,
+503.511	505.136		not so much anterior cruciate,
+505.136	505.950		which is good,
+505.950	507.168		(H) um,
+507.168	511.315		... the medial collateral ligament,
+511.315	513.420		that .. l=igament here is just minimally hurt,
+513.420	515.158		.. (H) .. uh,
+515.158	519.657		I think so=me of that ... posterior cruciate was probably already r- there,
+519.657	521.021		and the reason I'm saying that is,
+521.021	524.746		because it really ... doesn't hurt that much when I pull on it.
+524.746	525.500		(H) See the --
+525.500	527.645		.. This is the one that [pulls on that] --
+526.670	527.873	DARREN:	[It feels tight though] a bit.
+527.873	528.469	REED:	.. Mhm.
+528.469	530.083		... When I push back,
+530.083	531.406		... I'm pushing on it.
+531.406	532.353		... That's --
+532.353	532.822		.. And,
+532.822	534.505		and that's not bothering you very much.
+534.505	535.875		... But see this one,
+535.875	537.060		... has been hurt,
+537.060	538.604		and when I pull on this one,
+538.604	539.850	DARREN:	... That [does hurt].
+539.462	540.530	REED:	[y-.. it] it hurts.
+540.530	540.780		So,
+540.780	541.029		I mean,
+541.029	541.308		you know,
+541.308	541.610		I mean,
+541.610	542.316		pretty simple,
+542.316	542.608		you know,
+542.608	543.560		if if they've been hurt,
+543.560	544.835		they gonna hurt when you stretch em.
+544.835	545.185		you know,
+545.185	545.556		so,
+545.556	549.078		(H)= that's why I'm thinking that .. posterior is probably,
+549.078	550.673		.. a lot of that's been there,
+550.673	553.316		.. (H) you may have hurt it a little bit more,
+553.316	554.071		.. you know,
+554.071	554.674		.. and y%- --
+554.674	556.114		So you got this one a little bit,
+556.114	557.300		and this one a little bit,
+557.300	558.679		(H) Both of em are a little,
+558.679	561.789		(H) both of em can probably heal up if you let em,
+561.789	563.447		... (H) a=nd,
+563.447	565.212	DARREN:	.. No need for surgery to make it [better]?
+564.852	565.200	REED:	[No].
+565.212	565.620		Unh-unh.
+565.620	566.978		... And uh,
+566.978	568.406		... the=,
+568.406	572.097		... the outcome will probably be=,
+572.097	574.222		... pretty close to what you had before.
+574.222	574.804		In other words,
+574.804	575.603		(H)= [I] --
+575.349	576.338	DARREN:	[I may] have lost a b=it,
+576.338	577.140		<@ but it's[2= not @>2] --
+576.674	577.140	REED:	[2Yeah2].
+577.140	577.523		I mean,
+577.523	577.894		you know,
+577.894	578.970		five percent or,
+578.970	579.647		.. something.
+579.647	580.506		You know what I mean,
+580.506	580.739		you know,
+580.739	581.342		I don't know.
+581.342	581.667		You know,
+581.667	582.623		you'll just have to --
+582.623	584.483		.. <X Try to X> have to see how it plays out.
+584.483	585.981		But it it's gonna be minimal.
+585.981	587.752		... (H) And you can z- --
+587.752	589.752		... You can overcome that a little bit,
+589.752	592.227		by getting your .. muscle .. in better shape.
+592.227	595.030		... (TSK) There are two things that stabilize your knee.
+595.030	596.607		(H) This is your knee brace,
+596.607	599.171		the big muscle above your knee is the brace for your knee,
+599.171	601.548		that's what holds it together when you're doing things.
+601.548	602.816		(H) In fact,
+602.816	603.025		you know,
+603.025	604.362		all the sports players they --
+604.362	606.426		Their ligaments have been stretched so much and,
+606.426	607.083		repaired,
+607.083	607.663		and stretched,
+607.663	608.279		and repaired,
+608.279	608.755		that they --
+608.755	610.246		They're just not much good,
+610.246	614.719		(H) and they really (H) .. have to .. compensate with their muscle power,
+614.719	615.517		[is what they do.
+614.719	616.042	DARREN:	[They do a lot of leg lifts]?
+615.517	616.587	REED:	(H) S]o right.
+616.587	617.396		... Uh=,
+617.396	618.282		.. you know just,
+618.282	619.234		... just,
+619.234	619.660		.. uh,
+619.660	620.952		you can do straight leg lifts,
+620.952	624.017		or (H) what we call just those .. little short extensions,
+624.017	627.500		just (H) put a .. bolster under behind your leg right here,
+627.500	631.142		(H) extend the last twenty to thirty degrees with weight on your leg,
+631.142	631.687		like this,
+631.687	633.734		do little short extensions with weight,
+633.734	634.697	DARREN:	... Mhm?
+634.697	636.241	REED:	(H) and keep working up on the weight,
+636.241	637.113	DARREN:	... Mhm?
+637.113	638.812	REED:	... you wanna b- --
+638.812	638.982		You --
+638.982	639.690		What you wanna do,
+639.690	640.998		and you can just do isometrics,
+640.998	643.111		you can just .. l=ock your knee real stiff,
+643.111	644.161		and just tighten your muscle,
+644.161	646.170		hold it tight as you can for three seconds,
+646.170	647.818		and then let it rest for three seconds,
+647.818	649.467		and then tight for three seconds,
+649.467	650.042		and then rest.
+650.042	651.876		(H) And you don't have to move it when you do that.
+651.876	653.614		(H) Uh (Hx),
+653.614	655.820		... %= all kinda ways.
+655.820	657.937		So just whatever the day will al- .. permit,
+657.937	658.181		I mean,
+658.181	659.167		if you're sitting around,
+659.167	661.803		and you got some time to do some ... isometrics,
+661.803	662.546		you can do that,
+662.546	664.690		and then when you have other time you can do the weights.
+664.690	669.623		(H)= But .. keeping this strong will compensate for your ligaments is the .. plan.
+669.623	670.692		You know so uh,
+670.692	671.829		... (H) you know,
+671.829	672.282		I think,
+672.282	673.478		I think you'll find you,
+673.478	674.790		you do pretty well.
+674.790	678.239	DARREN:	... Do you think I can go back to ... aikido and stuff?
+678.239	678.785	REED:	.. Probably,
+678.785	683.586		... as long as it's not too .. too violent.
+683.586	685.377		.. You know it's more form and,
+685.377	686.201		shape and,
+686.201	687.463		... stuff or it's,
+687.463	689.007		[it's not too] much contact.
+687.463	688.126	DARREN:	[It's about] --
+689.007	689.367	REED:	(H)
+689.367	689.925	DARREN:	But no it's,
+689.925	691.844		ideally it's about .. blending.
+691.844	693.803		... It's about blending with the attack,
+693.803	695.987		it's not about meeting the force with force so,
+695.987	696.660	REED:	.. Okay,
+696.660	697.911	DARREN:	... There's a lot of rolls.
+697.911	699.095	REED:	.. Okay,
+699.095	699.501		mm,
+699.501	699.830		well,
+699.830	702.582		(H) I guess if you got good at .. at doing it,
+702.582	702.953		you know,
+702.953	703.534		where you didn't --
+703.534	705.790		Wasn't getting yourself in awkward positions,
+705.790	706.312		%and you know,
+706.312	709.052		.. getting your knee all twisted up underneath you or something,
+709.052	709.319		you know,
+709.319	710.938		you could probably handle it okay.
+710.938	713.295		.. (H)= ... I think,
+713.295	715.713		I think you'll .. you'll be able to see for yourself.
+715.713	718.576		... Because .. once you get your .. muscles strong,
+718.576	720.588		you get this thing controlling your knee well,
+720.588	722.282		you'll see what kind of knee control you have,
+722.282	727.831		it'll be pretty obvious to you whether you (H) you have the type of control ... to do that.
+727.831	730.292	DARREN:	... What do you think the lesson should be from this.
+730.292	730.652		I mean,
+730.652	731.046		.. % --
+731.046	732.544		This is the first time I've ever been on skis.
+732.544	733.733		I never did it before my wreck,
+733.733	734.158		so,
+734.158	735.128		... I guess the less --
+735.128	737.860		W- one lesson is I'll ... probably shouldn't try skiing anymore,
+737.860	739.545	REED:	.. (H) .. (Hx)
+739.545	740.032	DARREN:	%I [%] --
+739.800	740.021	REED:	[%He-] --
+740.032	740.218		% --
+740.218	740.973		... You know,
+740.973	742.784		if it were me personally,
+742.784	744.990		that would probably be the lesson I'd learn from it.
+744.990	746.452	DARREN:	... Cause I'm lucky it wasn't worse.
+746.452	746.779		[When I] --
+746.510	746.893	REED:	[Right].
+746.893	748.135	DARREN:	.. It was a [2pretty bad2] fall,
+747.293	747.685	REED:	[2Right2].
+748.135	748.286	DARREN:	the --
+748.286	749.308		The incline was about,
+749.308	750.746		... I don't know what grade but,
+750.746	752.301		(H) there was a .. turn in the wood- --
+752.301	753.327		It was this was in the woods.
+753.327	753.869	REED:	[Yeah right].
+753.327	754.416	DARREN:	[And it was cro]ss country,
+754.416	754.821		(H)[2=2]
+754.566	754.821	REED:	[2Yeah2].
+754.846	755.728	DARREN:	So I didn't know what I was doing,
+755.728	756.727		my girlfriend had taught me,
+756.727	758.201		.. I had been skiing for two and a half hours,
+758.201	758.926		I was tired,
+758.926	759.866	REED:	.. @@[@]
+759.594	761.085	DARREN:	[and <SM we were] getting close to getting back SM>,
+761.085	762.768		.. (H) and I got % .. carried away.
+762.768	763.916		She showed me how when you're --
+763.916	764.635		In cross country,
+764.635	765.460		when you're about to fall,
+765.460	766.356		you just sit down.
+766.356	766.632	REED:	Oh.
+766.632	767.108		O[kay].
+766.853	767.770	DARREN:	[But I] didn't do it right.
+767.770	768.087		So,
+768.087	769.161		(H) there was a turn and then,
+769.161	769.695		(H) I --
+769.695	771.634		And the .. skis don't .. snap off [of course].
+771.042	771.423	REED:	[Oh.
+771.426	771.878		I] know.
+771.878	772.262	DARREN:	And so,
+772.262	773.190		... it stuck,
+773.190	774.177		and I [kept tw]isting,
+773.481	773.794	REED:	[You] --
+774.177	775.307	DARREN:	and the [2knee2] took all the torque.
+774.340	774.549	REED:	[2%Oh2].
+775.307	777.168	DARREN:	(H)= .. And I didn't know what I'd done.
+777.168	778.606		... I screamed and,
+778.606	779.234		she helped me,
+779.234	780.372		and I manage to somehow,
+780.372	781.022		I don't know % --
+781.022	782.473		S- somehow managed to get up and,
+782.473	784.842		(H) hobble ... on the ski pole,
+784.842	786.258		all the way [back to the cabin,
+785.341	786.653	REED:	[@ Oh my God].
+786.258	787.164	DARREN:	and then we had to] call the uh,
+787.164	790.287		s- the ambulance to take us sixty kilometers to (H) Oreille,
+790.287	791.498		which is a ski resort.
+791.498	792.551	REED:	... [Geez].
+792.040	793.201	DARREN:	[We were in the m]iddle of nowhere.
+793.201	794.427		(H) (Hx) (H)
+794.427	794.838	REED:	.. Hunh.
+794.838	795.465	DARREN:	.. I'm a little --
+795.465	797.276		%I I think it's been three weeks now,
+797.276	797.404		I --
+797.404	798.174		I was hoping that,
+798.174	798.465		you know,
+798.465	799.126		you told me or,
+799.126	800.404		doctor ~Smith told me that you know,
+800.404	802.851		with chronic osteo it could come back from impact,
+802.851	803.222		and I was --
+803.222	805.057		And I really hope this is not the time,
+805.057	805.289		you know,
+805.289	806.410		I've made it .. [how many] --
+805.939	807.504	REED:	[Ah that's] ... unlikely.
+807.504	807.921	DARREN:	.. I've --
+807.921	809.700		I have not spiked any fever or,
+809.700	810.785		or seen any [signs] of,
+810.262	810.541	REED:	[Yeah].
+810.785	811.578		.. No= it's,
+811.578	813.762		... it looks pretty g[ood].
+813.588	814.957	DARREN:	[I] think I may have gotten lucky.
+814.957	817.550	REED:	... Yeah,
+817.550	818.707		if it's not hurting up there,
+818.707	821.656		the pain would be (H) probably your first warning sign.
+821.656	822.132		And you know,
+822.132	823.073	DARREN:	If that ever happ[ened].
+822.875	823.200	REED:	[Ri]ght.
+823.200	829.762		.. You could start .. feeling some (H)= .. cha=nge in the (Hx) .. the status quo,
+829.762	830.403		you know?
+830.403	831.123		.. [Changes],
+830.479	831.146	DARREN:	[I still feel] --
+831.146	831.517	REED:	.. Yeah.
+831.517	833.612	DARREN:	It feels .. b=- .. pretty much like the other leg.
+833.612	833.983		[I mean],
+833.612	833.983	REED:	[Good].
+833.983	834.599		.. That's great.
+834.599	835.214		.. Wonderful.
+835.214	835.794	DARREN:	Solid.
+835.794	837.095	REED:	... Great.
+837.095	838.107	DARREN:	... Well,
+838.107	838.954	REED:	.. Love it.
+838.954	841.009		... Well I'm glad you didn't hurt yourself,
+841.009	842.809		... it's a .. cheap lesson.
+842.809	843.157		Right?
+843.157	843.819	DARREN:	That's @right.
+843.819	845.700	REED:	[@=] @[2@@@2]@
+843.924	844.376	SALLY:	[@=]
+844.713	845.270	DARREN:	[2@ .. @2]
+845.700	846.861		... I'd say so.
+846.861	847.982	REED:	.. (H) Yeah,
+847.982	848.331		I --
+848.331	849.120		I was out --
+849.120	850.257		... We were out,
+850.257	851.864		and the kids were .. skiing,
+851.864	852.291		you know,
+852.291	853.650		and I was watching em go down,
+853.650	854.269		and I <WH was thinking,
+854.269	855.927		.. God that would sure WH> be fun.
+855.927	856.334		You know?
+856.334	857.479		... And then s-,
+857.479	860.285		just barely my common sense .. won out,
+860.285	861.711		and I decided not to do it,
+861.711	863.982		but you know I've had .. two discs taken out of my back,
+863.982	865.851		my neck f=used for a bad disc,
+865.851	868.556		(H) I don't need to go .. flumpity-bump down the hill.
+868.556	868.963		You know,
+868.963	869.834		I don't need any of that,
+869.834	870.124		so,
+870.124	871.958		(H) ... you just have to,
+871.958	872.573		(Hx)
+872.573	874.137		have to kind of draw a few lines,
+874.137	875.448	DARREN:	Mm[=].
+875.173	876.413	REED:	[but I] came close to,
+876.413	877.652	DARREN:	... [2It's tempting2].
+876.932	877.640	REED:	[2to trying it2],
+877.652	878.364		it's tempting.
+878.364	879.514		It's [very tempting].
+878.608	879.270	DARREN:	[It was fun,
+879.270	879.854		I] can tell you,
+879.854	880.454		[2till I fell2] --
+879.929	880.742	REED:	[2Oh Go2]=d.
+880.742	880.928		It's --
+880.928	881.845		It's just great.
+881.845	882.333		.. You know,
+882.333	882.588		but,
+882.588	885.007		(H) then I'd have to pay for it for the rest of my life,
+885.007	886.366		but I didn't know whether I wanted to do [that].
+886.168	886.987	DARREN:	[Not a] fair [2trade2].
+886.772	887.004	REED:	[2(COUGH)2]
+887.004	888.165		Not [3a fair tr3]ade.
+887.329	887.910	SALLY:	[3<X @No= X>3].
+888.165	888.674	DARREN:	[4I wouldn't do it,
+888.165	888.781	REED:	[4@ Ch=-4]
+888.674	889.349	DARREN:	that4]'s bad odds.
+889.349	890.822	REED:	... Good to see you.
+890.822	892.174		... Come see me.
+892.174	893.501		You know whenever you're [in town]?
+892.998	893.463	DARREN:	[I will].
+893.501	894.600	REED:	... And uh,
+894.600	896.794		... (H) let me know what you get into,
+896.794	898.286		I'm sure it'll be something fun.
+898.286	899.165	DARREN:	.. I hope so.
+899.165	900.349	REED:	... I think it will.
+900.349	901.151		... See you.
+901.151	901.464	DARREN:	Bye-bye.
+901.464	901.894	REED:	Okay.
+901.894	902.520	SALLY:	.. Okay?
+902.520	903.690		.. Just .. let us know,
+903.690	905.247		... if you need anything.
+905.247	906.058	DARREN:	.. Okay.
+906.058	906.801	SALLY:	.. Okay?
