@@ -1,0 +1,8 @@
+Errors/Manual Fixes:
+Edited some of the CSVs as they had typos
+Didn’t convert #21, 25, 26, 27, 30, 32, 38, 40, 54 since my code relies upon 2+ ppl who are in the metadata
+Didn’t convert #37 since it said “UnicodeDecodeError: 'utf-8' codec can't decode byte 0xed in position 798: invalid continuation byte”
+Didn’t convert #60 since it said “UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 123: invalid start byte”
+Text file #53 is a little weird at the end
+#55 had some weird conversion issuess
+Just realized on text file #59 that I’ve missed the last line in each txt so you’ll have to manually add that in
