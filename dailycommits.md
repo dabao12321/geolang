@@ -60,4 +60,9 @@
   - initial testing indicates that it can functionally predict geographic origin,
   given the presence of one or more documented wordsgit
 
-### 
+### 2/19/2018
+- merged sarah's modified pull request on deriving .txt data from .trn dataset
+- merged kunal's weeklong pull request converting .txt data to a .csv format
+- condensed kunal's and sarah's contributions plus my own modifications into a
+jupyter notebook, so it will be able to be replicated by any user if necessary
+- enhanced documentation for `transcriptions.ipynb`
