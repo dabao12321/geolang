@@ -58,4 +58,6 @@
 - normalized inputted training data with sklearn's tfidf transformer
 - created and trained a Naive Bayes classifier on DARE corpus
   - initial testing indicates that it can functionally predict geographic origin,
-  given the presence of one or more documented words
+  given the presence of one or more documented wordsgit
+
+### 
