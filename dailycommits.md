@@ -66,3 +66,10 @@
 - condensed kunal's and sarah's contributions plus my own modifications into a
 jupyter notebook, so it will be able to be replicated by any user if necessary
 - enhanced documentation for `transcriptions.ipynb`
+
+### 2/20/2018
+- cleaned and converted the transciptions into pandas DataFrames
+- vectorized SB transcriptions with sklearn's CountVectorizer
+- normalized transcription data with sklearn's tfidf transformer
+- added this Bunch to the Naive Bayes classifier on DARE corpus
+  - parameters (both, dare, transcriptions) determine which sets to train on
