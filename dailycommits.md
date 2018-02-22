@@ -73,3 +73,9 @@ jupyter notebook, so it will be able to be replicated by any user if necessary
 - normalized transcription data with sklearn's tfidf transformer
 - added this Bunch to the Naive Bayes classifier on DARE corpus
   - parameters (both, dare, transcriptions) determine which sets to train on
+
+### 2/22/2018
+- reorganzied 'src' structure around .py files, rather than jupyter notebooks
+- enhanced cleaners methods
+- enhanced vectorizers (under classifiers)
+- added `__init__.py` files to support relative imports
