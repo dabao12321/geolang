@@ -1,7 +1,6 @@
 import sklearn
 import numpy as np
 import pandas as pd
-import nltk
 import os
 import sys
 sys.path.append('../')
@@ -97,5 +96,5 @@ def bunch_training(training_data='lexicon'):
     elif training_data is 'transcripts':
         training = sklearn.datasets.base.Bunch(target=SBtargets, data=SBexamples, target_names=catagories)
     else:
-        raise ValueError("Parameter input invalid.")
+        raise ValueError("Invalid parameter input.")
     return training
