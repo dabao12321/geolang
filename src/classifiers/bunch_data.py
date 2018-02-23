@@ -35,7 +35,7 @@ def read_DARE():
             dialect = geodata.get_value(i,'dialect')
             target = catagories.index(dialect)
             targets.append(target)
-    return examples, targets, catagories
+    return examples, targets
 
 def read_SB_transcriptions():
     '''
@@ -71,4 +71,31 @@ def read_SB_transcriptions():
             except KeyError:
                 # These speakers do not identify with a single state, discard.
                 pass
-    return SBexamples, SBtargets, catagories
+    return SBexamples, SBtargets
+
+def bunch_training(training_data='lexicon'):
+    '''
+    Bunch selected training data to feed into classifers.
+    Optional parameter: training_data indicates the type of data to train on
+    'lexicon' --> DARE corpus only
+    'transcripts' --> SB transcriptions only
+    'all' --> both DARE and SB data
+    '''
+    targets, examples = read_DARE()
+    SBtargets, SBexamples = read_SB_transcriptions()
+    catagories = get_catagories()
+    if training_data is 'all':
+        alltargets = []
+        allexamples = []
+        alltargets.extend(targets)
+        allexamples.extend(examples)
+        alltargets.extend(SBtargets)
+        allexamples.extend(SBexamples)
+        training = sklearn.datasets.base.Bunch(target=alltargets, data=allexamples, target_names=catagories)
+    elif training_data is 'lexicon':
+        training = sklearn.datasets.base.Bunch(target=targets, data=examples, target_names=catagories)
+    elif training_data is 'transcripts':
+        training = sklearn.datasets.base.Bunch(target=SBtargets, data=SBexamples, target_names=catagories)
+    else:
+        raise ValueError("Parameter input invalid.")
+    return training
