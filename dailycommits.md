@@ -79,3 +79,12 @@ jupyter notebook, so it will be able to be replicated by any user if necessary
 - enhanced cleaners methods
 - enhanced vectorizers (under classifiers)
 - added `__init__.py` files to support relative imports
+
+### 2/23/2018
+- finalized Naive Bayes classifier, working model
+- added classification src code, new files:
+  - bunch_data.py
+  - vectorize_data.py
+  - naive_bayes.py
+- added functionality with optional parameters in methods bunch_training,
+  count_vectorize, and predict_multinomial_NB
