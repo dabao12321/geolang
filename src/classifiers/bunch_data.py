@@ -1,4 +1,5 @@
 import sklearn
+import sklearn.datasets
 import numpy as np
 import pandas as pd
 import os
@@ -75,13 +76,14 @@ def read_SB_transcriptions():
 def bunch_training(training_data='lexicon'):
     '''
     Bunch selected training data to feed into classifers.
-    Optional parameter: training_data indicates the type of data to train on
-    'lexicon' --> DARE corpus only
-    'transcripts' --> SB transcriptions only
-    'all' --> both DARE and SB data
+    Input:
+    training_data -- the type of data to train on
+                    'lexicon' --> DARE corpus only
+                    'transcripts' --> SB transcriptions only
+                    'all' --> both DARE and SB data
     '''
-    targets, examples = read_DARE()
-    SBtargets, SBexamples = read_SB_transcriptions()
+    examples, targets = read_DARE()
+    SBexamples, SBtargets = read_SB_transcriptions()
     catagories = get_catagories()
     if training_data is 'all':
         alltargets = []
