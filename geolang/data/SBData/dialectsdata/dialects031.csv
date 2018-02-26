@@ -1,0 +1,886 @@
+SHERRY,NA,Apricot mustard sauce H
+BETH,NA,SNIFF Liver and onions mm
+SHERRY,NA,You should get a Philadelphia cheese steak Beth how about if I pick for you and you pick for me H
+BETH,NA,
+SHERRY,NA,It's easier that way H
+ROSEMARY,NA,What in the world is a Philadelphia s-
+SHERRY,NA,TSK It's roast beef with
+ROSEMARY,NA,Hx
+SHERRY,NA,melted cheese and sauteed onions
+ROSEMARY,NA,Hx Mm That does sound good
+SHERRY,NA,On a hoagie roll
+ROSEMARY,NA,Hx
+SHERRY,NA,Aah
+ROSEMARY,NA,TSK What are you gonna have Sherry
+SHERRY,NA,I don't know ask Beth Hx
+BETH,NA,
+SHERRY,NA,H
+BETH,NA,H Oh
+ROSEMARY,NA,TSK H Sherry's gonna have the classic chef salad
+SHERRY,NA,TSK Oh
+BETH,NA,No that's boring
+ROSEMARY,NA,Or how about the pasta salad
+SHERRY,NA,TSK Oh
+BETH,NA,Well that's X a bit X better How about pasta and steak kebabs
+SHERRY,NA,<VOX More better VOX> Pasta and Where's that
+BETH,NA,Steak specialties First one
+SHERRY,NA,TSK Oh that sounds nice
+ROSEMARY,NA,Oh that does X s g X sound good
+SHERRY,NA,Yeah H That sounds pretty good Okay TSK I'll buy H ENV AMBIENT_NOISE
+BETH,NA,Can even get it as a complete meal
+SHERRY,NA,As long as
+ROSEMARY,NA,H
+SHERRY,NA,Yeah Everything
+ROSEMARY,NA,SIGH
+SHERRY,NA,Oh also available as that Well what else is there Besides all the things they already said
+BETH,NA,Salad and potato SNIFF Oh I guess yeah
+SHERRY,NA,TSK Oh it has pasta hm Yeah salad it must be
+BETH,NA,Salad What are you having
+SHERRY,NA,Mom
+ROSEMARY,NA,TSK Oh I'm having a BLT croissant TSK H And ice tea with no lemon
+SHERRY,NA,Tastes very special Hx
+ROSEMARY,NA,What it says
+BETH,NA,What
+SHERRY,NA,Hx The BLT tastes very special
+ROSEMARY,NA,I don't wanna have roast beef sandwich cause I had one of those for breakfast
+SHERRY,NA,
+BETH,NA,Where does it say taste
+SHERRY,NA,H
+BETH,NA,Oh It's XX taste
+SHERRY,NA,Under the BLT Tastes very special
+BETH,NA,And it's X X
+ROSEMARY,NA,H THROAT
+BETH,NA,Otherwise it doesn't @@@@
+SHERRY,NA,@
+ROSEMARY,NA,I guess Are you we ready finally Do you know what you wanna drink
+BETH,NA,She
+SHERRY,NA,Did Did you know
+BETH,NA,SNIFF Hunh-unh
+SHERRY,NA,Did you decide what to eat Beth
+BETH,NA,Hm-m
+ROSEMARY,NA,H Come on Beth Hx H Hx
+SHERRY,NA,TSK Beth didn't decide
+BETH,NA,SNIFF
+ROSEMARY,NA,H You look just like Sarah when you do that H
+BETH,NA,Hx Now you know where she gets it
+ROSEMARY,NA,Yep I knew all along where she got it H Y
+BETH,NA,I know I know
+ROSEMARY,NA,TSK I see your mouth is finally healing up after two weeks hunh
+BETH,NA,No it's just been a week
+SHERRY,NA,TSK Who was it that hit you
+ROSEMARY,NA,Hm-m you had it went we went to Whidbey
+BETH,NA,TSK Hx Bill
+SHERRY,NA,TSK Oh
+BETH,NA,I had just got it though that d
+ROSEMARY,NA,That was two weeks ago
+BETH,NA,SNIFF Oh well Not quite
+ROSEMARY,NA,No
+BETH,NA,this is only Wednesday
+ROSEMARY,NA,one and a half
+BETH,NA,Tuesday P<X one and a half X>P
+ROSEMARY,NA,Yeah You're right You're right I'm wrong I'm wrong
+BETH,NA,Well I was wrong too cause I said one About one and a half
+SHERRY,NA,TSK Ooh this is what I want TSK A mud pie Can I have that for an appetizer
+ROSEMARY,NA,TSK No but you can have it for dessert
+SHERRY,NA,H Mom I can have it for an appetizer
+ROSEMARY,NA,If you want
+SHERRY,NA,That's right H H TSK Looks good
+BETH,NA,I was gonna have the pasta but we can't all have the same thing
+ROSEMARY,NA,Why not
+SHERRY,NA,H You have the pasta s
+ROSEMARY,NA,Go ahead
+BETH,NA,XXX
+SHERRY,NA,I'm gonna have this cause I'm gonna have that too so I have to have something smaller
+BETH,NA,H Oh God you don't have
+SHERRY,NA,So I have room for that
+ROSEMARY,NA,Oh k-
+BETH,NA,Oh I see
+SHERRY,NA,No so I have room
+ROSEMARY,NA,We're all gonna have that
+SHERRY,NA,It's not
+BETH,NA,Oh
+ROSEMARY,NA,So have what you want
+SHERRY,NA, We're all gonna have 
+BETH,NA,@@@@
+ROSEMARY,NA,H I want
+JAMIE,NA,<X Forget the desserts X>
+SHERRY,NA,H Okay she's ready She wants pasta
+JAMIE,NA,I think the pasta's
+ROSEMARY,NA,H I wanna %b BLT croissant
+JAMIE,NA,Pasta salad's X really good X>
+BETH,NA,No not the pasta salad
+SHERRY,NA,No she wants the pasta and steak kebab
+JAMIE,NA,Okay
+BETH,NA,Yeah
+ROSEMARY,NA,H I thought you wanted this this one
+BETH,NA,Well I couldn't decide
+SHERRY,NA,No That was my choice
+BETH,NA,but
+ROSEMARY,NA,Which one are you having
+SHERRY,NA,That was her I'm having this
+ROSEMARY,NA,Oh H
+BETH,NA,But I wanna salad with it
+JAMIE,NA,What type of dressing
+BETH,NA,COUGH SNIFF VOX I don't know VOX
+ROSEMARY,NA,H
+SHERRY,NA,@
+BETH,NA,I'll have a Caesar salad
+JAMIE,NA,Caesar's
+BETH,NA,SNIFF
+ROSEMARY,NA,H
+JAMIE,NA,TSK And what did you want ma'am
+ROSEMARY,NA,H A BLT croissant And ice tea with no lemon
+JAMIE,NA,Kay X with X
+BETH,NA,SNIFF
+SHERRY,NA,H
+JAMIE,NA,Kay and what type of salad soup or fries
+ROSEMARY,NA,S Can I have clam chowder for my soup
+JAMIE,NA,Mhm
+ROSEMARY,NA,Okay Soup
+BETH,NA,GASP VOX Oh no fair Hx VOX>
+JAMIE,NA,And you wanted the ke @ The kebab here steak and pasta kebab
+BETH,NA,That's what I wanted yeah
+ROSEMARY,NA,And what are you having Sherry
+SHERRY,NA,H Actually it's I wonder if I can get salad and half a sandwich instead of soup and half a sandwich
+BETH,NA,SNIFF
+SHERRY,NA,Salad and
+JAMIE,NA,Sure
+SHERRY,NA,Can I just get salad like green salad or whatever SNIFF
+JAMIE,NA,White whole-wheat sourdough or rye
+SHERRY,NA,H Um whole-wheat
+JAMIE,NA,And did you want um what type of dressing on your salad
+SHERRY,NA,Um H do you have ranch
+JAMIE,NA,Mhm
+SHERRY,NA,TSK Okay
+ROSEMARY,NA,TSK What kind of sandwich are you getting
+SHERRY,NA,I'll take that
+ROSEMARY,NA,Oh
+BETH,NA,Nutty chicken
+SHERRY,NA, Nutty chicken
+ROSEMARY,NA,H Nutty chicken
+SHERRY,NA,Hx
+JAMIE,NA, Real good VOX Okay VOX My name's Jamie
+ROSEMARY,NA,H
+JAMIE,NA,I'll be your waitress you need anything let me know okay
+ROSEMARY,NA,Do you guys want anything to drink
+SHERRY,NA,Okay No I'll take water
+JAMIE,NA,Any drinks
+ROSEMARY,NA,Beth
+BETH,NA,H Hx No uh Hx Actually can I have some tea Hot tea
+JAMIE,NA,Hot tea
+SHERRY,NA,WH Come on Beth Dang it WH
+ROSEMARY,NA,Well it's good for winter's icy blast I already said I wanted ice tea with no lemon
+SHERRY,NA,H
+JAMIE,NA,Okay
+SHERRY,NA,She was just asking us
+ROSEMARY,NA,Yeah I was asking them
+JAMIE,NA,Okay I'll run get those my name's Jamie like I said
+BETH,NA,Great
+JAMIE,NA,you need anything you let me know Okay
+ROSEMARY,NA,Thank you Jamie
+SHERRY,NA,H Jamie
+BETH,NA,
+SHERRY,NA,
+ROSEMARY,NA,H
+SHERRY,NA,H
+ROSEMARY,NA,WH Shoot WH
+JAMIE,NA,HI<VOX Yeah here I am
+SHERRY,NA,H
+JAMIE,NA,here I am VOX>HI>
+SHERRY,NA,H @@@
+BETH,NA,@@@
+ROSEMARY,NA,Hx H Hx
+JAMIE,NA,Mm
+SHERRY,NA,H Just kidding Hx
+ROSEMARY,NA,@@@@@
+SHERRY,NA,Hx H Hx
+JAMIE,NA,No problem
+ROSEMARY,NA,H H
+SHERRY,NA,Hx
+ROSEMARY,NA,Hx
+SHERRY,NA,H
+ROSEMARY,NA,THROAT
+SHERRY,NA,X She's X pretty nice
+BETH,NA,They say the gushier they are
+SHERRY,NA,isn't she
+BETH,NA,the bigger the tip they get HI Hi Billy HI
+SHERRY,NA,H
+ROSEMARY,NA,Billy who
+SHERRY,NA,H Was that Billy
+BETH,NA,BillyWilson
+SHERRY,NA,Billy Wil Your old flame
+BETH,NA,
+SHERRY,NA,oh
+BETH,NA,H Well we've become good frien
+SHERRY,NA,Really
+BETH,NA,Sherry
+SHERRY,NA,Serious
+ROSEMARY,NA,Even after he beat up our car
+BETH,NA,Yeah
+SHERRY,NA,TSK I didn't know that
+BETH,NA,Oh
+SHERRY,NA,TSK Well that was a long
+BETH,NA,He apologized though you know so it was alright
+ROSEMARY,NA,Did he
+SHERRY,NA,So y- You really have become good friends
+ROSEMARY,NA,When did he do that
+BETH,NA,Dad called him and told him he had to So he called back and apologized
+SHERRY,NA,He called back H Why don't you just do it on the same phone call H
+BETH,NA,Well he apologized to me Not to Dad
+SHERRY,NA,O-ho oh he said he had to do that hunh
+BETH,NA,Mhm
+SHERRY,NA,Oh H I didn't know you'd become friends with him
+ROSEMARY,NA,Was he the one that you were up all night with that night I came up and turned the lights on and
+BETH,NA,No that was Mark Taylor
+SHERRY,NA,VOX Oh God
+ROSEMARY,NA,Mark who
+BETH,NA,@Taylor
+SHERRY,NA,what a geek VOX
+BETH,NA,H He was
+SHERRY,NA,Well you've really become f good friends with
+BETH,NA,Y him and his wife's yeah
+ROSEMARY,NA,TSK What's his wife's name
+SHERRY,NA,Hm
+BETH,NA,Kathy
+SHERRY,NA,Where'd she come from
+ROSEMARY,NA,Kathy who
+BETH,NA,Lewiston SNIFF
+ROSEMARY,NA,Hm
+BETH,NA,I don't know Kathy Wilson
+SHERRY,NA,Kathy Lewiston
+BETH,NA,I don't know H 
+SHERRY,NA,Now that's her name Kathy Wilson
+BETH,NA, H She's from Lewiston I don't know I didn't know her until after they were married
+SHERRY,NA,Mm
+BETH,NA,I think I'd met her once before P that though P SNIFF
+SHERRY,NA,Well it's nice you reconciled the past
+BETH,NA,Mm they came over after Laura was born right away
+SHERRY,NA,Oh really Right away
+BETH,NA,Yeah
+ROSEMARY,NA,Do they have any kids
+BETH,NA,Hm-m
+SHERRY,NA,H Have they been married a long time
+BETH,NA,I don't think Kathy can have kids she's got a bad back She couldn't She couldn't
+SHERRY,NA,Hx It sounds bad to me
+BETH,NA,carry Laura She had to be Laura She could hold her As long as she didn't get up
+SHERRY,NA,Really
+BETH,NA,Yeah sh She weighed all of ten pounds you know She's all H heavy H X She could X
+SHERRY,NA,Well maybe she does have quite a problem
+BETH,NA,M-mm
+SHERRY,NA,Some people d could
+BETH,NA,I suppose
+SHERRY,NA,I mean it's not impossible
+BETH,NA,Yeah
+SHERRY,NA,H But
+ROSEMARY,NA,H Hx
+BETH,NA,Tend to believe it's
+SHERRY,NA,how long have they been married
+BETH,NA,not as bad as sh th-
+ROSEMARY,NA,Hx
+BETH,NA,Um H Hx Year and a half I think X and X two years in November SNIFF
+SHERRY,NA,Mm
+ROSEMARY,NA,TSK What's Bill doing now
+BETH,NA,Hm
+ROSEMARY,NA,What are we in the process of Your Bill
+BETH,NA,H
+ROSEMARY,NA,Not Bill Wilson
+BETH,NA,My Bill Um Yesterday he was a carpenter
+ROSEMARY,NA,X Your X
+SHERRY,NA,He was a carpenter
+BETH,NA,Yeah he put a floor in a barn H
+SHERRY,NA,Oh really He put a floor in a barn
+BETH,NA,Well he just fixed it it had had one and he was just replacing old rotten board
+SHERRY,NA,Oh
+BETH,NA,X and stuff X SNIFF I don't know what he's doing today He was supposed to start baling hay but I think they're gonna let it sit another day cause he didn't take his lunch
+ROSEMARY,NA,What does he do when he doesn't take his lunch come home
+BETH,NA,No Doris feeds him
+SHERRY,NA,Eats there
+ROSEMARY,NA,Hm
+SHERRY,NA,TSK Would she feed him every day
+ROSEMARY,NA,Now explain all of this I don't understand what not taking his lunch has to do with baling hay
+BETH,NA,H Well if he was gonna bale hay they wouldn't come in for lunch They would just eat
+ROSEMARY,NA,H
+BETH,NA,while they're  out there
+ROSEMARY,NA,Out there Out in the field I see
+BETH,NA,Yeah
+ROSEMARY,NA,Okay
+SHERRY,NA,If he didn't take his lunch every day would she feed him every day
+ROSEMARY,NA,H COUGH COUGH COUGH
+BETH,NA,Yeah she does Feed him I mean well when they're in the field he has to take his lunch That's just part of the deal But
+SHERRY,NA,Otherwise he'll starve Right
+BETH,NA,No otherwise he doesn't get lunch
+SHERRY,NA,Well I know that's what starving is
+BETH,NA,Actually I think that if she found out
+SHERRY,NA,H
+BETH,NA,he come and didn't have a lunch P she'd fix him one P
+SHERRY,NA,Mm
+ROSEMARY,NA,SWALLOW
+BETH,NA,Cause that's what she does with other people
+SHERRY,NA,Mm
+BETH,NA,But all winter she fixes him lunch
+SHERRY,NA,Oh cause they're always close enough to
+BETH,NA,Actually it's more of a dinner
+SHERRY,NA,H
+BETH,NA,Because it's
+JAMIE,NA,No lemon I will go get you another one
+ROSEMARY,NA,N_that's alright
+SHERRY,NA,She just remembered
+ROSEMARY,NA,No it's okay
+SHERRY,NA,
+JAMIE,NA,Soon as I sat it down
+SHERRY,NA,H
+BETH,NA,X
+JAMIE,NA,sat it down I thought no lemon
+SHERRY,NA,
+JAMIE,NA,I knew it
+SHERRY,NA,H <X Just X>
+ROSEMARY,NA,It
+JAMIE,NA,X
+ROSEMARY,NA,There's not enough lemon there to bother me Thank you
+JAMIE,NA,Okay
+SHERRY,NA,H But it tastes so good with lemon in it I don't even like ice tea
+BETH,NA,H Do you like hot tea
+SHERRY,NA,Yeah I love hot tea
+BETH,NA,SNIFF
+ROSEMARY,NA,H
+SHERRY,NA,But the winter hasn't blasted cold enough for me yet
+ROSEMARY,NA,Do you put lemon in your hot tea
+BETH,NA,I'm going to today cause I have a sore throat
+SHERRY,NA,SWALLOW L Moi L Or L toi L
+BETH,NA,Well I answered
+SHERRY,NA,Schwa
+BETH,NA,I assumed it was me
+ROSEMARY,NA,I was talking to Beth because she had the lemon And the hot tea
+SHERRY,NA,Hx H I get it
+ROSEMARY,NA,Which you don't have
+SHERRY,NA,I get it yeah
+ROSEMARY,NA,H
+SHERRY,NA,Oh I know
+BETH,NA,So what about you Sherry are you gonna put lemon in your hot tea
+SHERRY,NA,H I don't put lemon in my hot tea
+BETH,NA,X You ever do X I only do when I have a sore throat
+SHERRY,NA,I usually d have Yeah that's good Lemon or lemon and honey is good
+BETH,NA,Yeah
+ROSEMARY,NA,H Now you won't be able to touch Jonathan Hx
+BETH,NA,Just don't tell him
+SHERRY,NA,Because you're drinking lemon and honey Hx H
+ROSEMARY,NA,She's got a sore throat X
+BETH,NA,No because I have a cold
+SHERRY,NA,Oh
+BETH,NA,Well
+SHERRY,NA,Don't tell him or don't tell Carolyn Hx
+BETH,NA,Yeah XX
+ROSEMARY,NA,TSK Yeah And
+BETH,NA,H Just don't tell him
+ROSEMARY,NA,H Martha Jean sat there
+BETH,NA,and Hx
+ROSEMARY,NA,and told all about how sick Barbara Jean was when she was tiny and H Hx
+SHERRY,NA,And
+ROSEMARY,NA,H
+BETH,NA,That helped a lot didn't it
+ROSEMARY,NA,Oh Martha Jean  Yeah
+SHERRY,NA,And what Hx H Hx H
+ROSEMARY,NA,H Well Carolyn was
+SHERRY,NA,I don't get it Hx  Cause
+BETH,NA,I loved the little bit about the potty training
+ROSEMARY,NA,MRC Eight months old and potty trained MRC
+SHERRY,NA,She always says that
+ROSEMARY,NA,oh my gosh
+SHERRY,NA,H She told me the story of how uh she trained all her kids by nine months I'd
+BETH,NA,Well what was it
+SHERRY,NA,Now it's gotten back to eight hunh
+BETH,NA,Oh Barb was at eight
+SHERRY,NA,H
+BETH,NA,yeah the boys weren't X but X
+SHERRY,NA,Oh well They only They didn't make it till nine
+BETH,NA,Who who was it that s
+SHERRY,NA,hunh You know boys are slow  SNIFF
+BETH,NA,@Yeah I know H That said that that's not potty training that's mother training
+SHERRY,NA,Oh yeah
+ROSEMARY,NA,Doctor Spock
+SHERRY,NA,Doctor Spock How about Captain Kirk What did he say
+BETH,NA,Hx
+ROSEMARY,NA,No no Sherry H You're an idiot 
+SHERRY,NA, 
+ROSEMARY,NA,H
+SHERRY,NA,H  H
+ROSEMARY,NA,H
+BETH,NA, She's trying  H
+SHERRY,NA,@@
+ROSEMARY,NA,It's Mister Spock and Cap
+SHERRY,NA,I know
+ROSEMARY,NA,and Doctor Spock
+SHERRY,NA,H Well what was her story about Barb That everyone That was
+ROSEMARY,NA,H She was in the hospital three times
+SHERRY,NA,Carolyn was so affected by or unaffected or whatever
+ROSEMARY,NA,With  asthmatic bronchitis
+BETH,NA,With bron
+SHERRY,NA,And so how did Carolyn react
+ROSEMARY,NA,Well
+SHERRY,NA,I Hx For some reason
+ROSEMARY,NA,she said thanks a lot you know because she was so worried about H Jonathan
+SHERRY,NA,Oh sh like oh he's gonna go back again inother words
+ROSEMARY,NA,I said but
+BETH,NA,And then she told her that she didn't outgrow it until she was five or something
+SHERRY,NA,She didn't have what
+BETH,NA,X We'are all going X Barb didn't outgrow it
+SHERRY,NA,Oh outgrow it
+BETH,NA,she was five or something
+SHERRY,NA,Mm Oh So Carolyn was really happy
+BETH,NA,So yeah because C
+SHERRY,NA,like oh this is great news
+ROSEMARY,NA,So then I said but look at Barb she's healthy now and Carolyn looked at her and sort of looked away and I thought oh boy Hx H Hx
+BETH,NA,XXXX X XX
+SHERRY,NA,Rude Way to go Carolyn
+ROSEMARY,NA,Hx
+SHERRY,NA,H Well isn't she healthy
+ROSEMARY,NA,Mhm
+SHERRY,NA,I mean she
+ROSEMARY,NA,S
+SHERRY,NA,I know she has um
+BETH,NA,More or less
+SHERRY,NA,H she has something wrong with her gallbladder
+ROSEMARY,NA,Gallbladder and H heart trouble and
+BETH,NA,Oh yeah
+ROSEMARY,NA,back problems
+SHERRY,NA,She has heart trouble
+BETH,NA,Her She has an enlarged heart
+SHERRY,NA,Oh lots of people have VOX that Oh gosh VOX
+ROSEMARY,NA,TSK That's true
+BETH,NA,Yeah That's true X And she'd X bad back and she's always always using nose spray
+SHERRY,NA,Hx H Maybe she's
+BETH,NA,Alw
+ROSEMARY,NA,H Maybe she's addicted
+SHERRY,NA, a semi-@hypochondriac
+ROSEMARY,NA,H Maybe there's coke in it
+BETH,NA,I think that that's closer to the truth
+SHERRY,NA,Maybe she's a hypochondriac
+ROSEMARY,NA,Sherry Yeah
+BETH,NA,Yeah I think you're right
+SHERRY,NA,Oh Oh
+ROSEMARY,NA,H COUGH COUGH COUGH
+SHERRY,NA,SNIFF I always have get backaches
+BETH,NA,Cause she goes to the doctor a lot
+SHERRY,NA,But
+BETH,NA,It seems to me
+SHERRY,NA,Oh really I think I get backaches because I mean some people's bodies are built a certain way
+BETH,NA,Well bad posture and just don't take care of it
+SHERRY,NA,Well yeah I'm sure that's part of it
+BETH,NA,You know
+ROSEMARY,NA,And also because of the way you sit
+SHERRY,NA,No but I mean some people get backaches more than other people
+ROSEMARY,NA,H and because
+SHERRY,NA,H
+ROSEMARY,NA,you're tall H and the world is built for women who are about five five
+SHERRY,NA,It's And it's
+BETH,NA,And because you're The body is not
+SHERRY,NA,H It's cause of the way my body is
+BETH,NA,the human body H No But Doctor Hensel told me that everybody gets backaches
+SHERRY,NA,Yeah
+BETH,NA,Because y H The human bod backbone
+SHERRY,NA,Oh
+BETH,NA,not the body but the backbone
+SHERRY,NA,Right
+BETH,NA,is not built
+SHERRY,NA,Right
+BETH,NA,for an animal to walk on two feet
+SHERRY,NA,Oh I see
+BETH,NA,it's built for an animal to walk on all fours
+SHERRY,NA,Right Right
+BETH,NA,So if you were spent your whole life on your hands and knees you never get a backache That's basically
+ROSEMARY,NA,TSK H Actually that helps when you have a backache
+SHERRY,NA,Hm Really
+ROSEMARY,NA,Is to get down on your hands and knees and walk arou and crawl around
+BETH,NA,Mm
+SHERRY,NA,Oh not crou Not all the way down though Hunh
+ROSEMARY,NA,Hm-m
+SHERRY,NA,It hurt but then your back's gets sway back
+BETH,NA,No but
+ROSEMARY,NA,TSK N but th
+BETH,NA,No if you But if you're moving it won't If you just stand there it will
+SHERRY,NA,Oh
+ROSEMARY,NA,H Well you know um Hx
+BETH,NA,you wanna but when you're moving you keep it
+ROSEMARY,NA,you know Kris Nelson
+SHERRY,NA,Yeah
+ROSEMARY,NA,H Well when I I asked when I went in with my arm you know cause I had tr so much trouble with my elbow H And so while she was giving me the treatment one time I asked her about backs You know
+SHERRY,NA,Mhm
+ROSEMARY,NA,H and she said the l The newest theory is the opposite We They used to say H that you lie flat
+SHERRY,NA,TSK H Oh I heard this one
+ROSEMARY,NA,with your e With your knees up
+SHERRY,NA,Yeah So that it will curve this way
+ROSEMARY,NA,H So that it curves this way
+SHERRY,NA,Yeah
+ROSEMARY,NA,H She says now we're having em do H uh exercises
+SHERRY,NA,The opposite Arching
+ROSEMARY,NA,where you lie flat on your stomach
+SHERRY,NA,Yeah
+ROSEMARY,NA,and you lift your shoulders up
+SHERRY,NA,Mm
+ROSEMARY,NA,H And then you keep doing it until you can have your hands totally straight and your hips on the H I mean your arms totally straight
+SHERRY,NA,Oh Yeah
+ROSEMARY,NA,and your hips down
+BETH,NA,Hm
+ROSEMARY,NA,so that you're curved way up
+SHERRY,NA,Right
+ROSEMARY,NA,H So I started doing that and believe it or not my backache went away
+SHERRY,NA,Really
+BETH,NA,Really I'll tell Bill Cause H that
+SHERRY,NA,But I can't
+BETH,NA,One night that he was so sick
+ROSEMARY,NA,THROAT
+BETH,NA,when he first got sick and he couldn't He was walking stooped over his back hurt so bad
+ROSEMARY,NA,H You have to You start out real
+SHERRY,NA,Mhm
+BETH,NA,Legs
+ROSEMARY,NA,Just a little bit
+BETH,NA,were numb
+ROSEMARY,NA,You know
+BETH,NA,We put four pillows under his knees
+ROSEMARY,NA,H 
+BETH,NA,and that backache just about went away
+ROSEMARY,NA,COUGH COUGH H But you see that's always worked for me too but it comes back
+SHERRY,NA,Hm
+BETH,NA,Now his didn't though
+ROSEMARY,NA,Well then that's what you You know different people have different ty kinds
+BETH,NA,Well and it was probably just from being sick
+ROSEMARY,NA,%
+BETH,NA,That caused it and he just needed to relax it
+ROSEMARY,NA,H TSK I am conc
+BETH,NA,And that helped him relax
+ROSEMARY,NA,Carolyn thinks she's got a kidney infection
+BETH,NA,P Oh my God P Hx
+SHERRY,NA,Hx
+ROSEMARY,NA,Carolyn's al Carolyn's almost as bad as Barb at being sick but
+SHERRY,NA,She just has these little things that come every once in a while and they're always serious
+BETH,NA,Why does she think she had a kidney infection
+ROSEMARY,NA,H Well she's got a pain at at her waist in the back on one side only H and she's not H going to the bathroom as often as she should even though she's drinking gallons of water H
+BETH,NA,She's gonna get fat if she does that
+SHERRY,NA,Water bloating
+ROSEMARY,NA,No she's gonna get bloated Hx H It's different than fat
+SHERRY,NA,That's fat
+BETH,NA,Yes I know
+ROSEMARY,NA,WH No it isn't the same thing WH
+BETH,NA,Looks like Hx
+ROSEMARY,NA,Yeah but you can lose it real fast
+BETH,NA, H Oh I know
+ROSEMARY,NA,once it's
+BETH,NA,XXX
+ROSEMARY,NA,TSK H
+BETH,NA,So is she gonna go to the doctor and find out
+ROSEMARY,NA,SWALLOW Well she went yesterday and the doctor wasn't there but the physician's assistant H looked at her and thought it was just a muscle spasm So they gave her some
+BETH,NA,Oh
+ROSEMARY,NA,H He He or she got a some pills for muscle spasms but it hasn't helped as of last night it hadn't
+BETH,NA,It's at her waist
+ROSEMARY,NA,H
+BETH,NA,Because they told Marleen
+ROSEMARY,NA,In the back well
+BETH,NA,our kidneys are up under your ribs
+ROSEMARY,NA,Well the
+SHERRY,NA,That's weird
+ROSEMARY,NA,Right
+SHERRY,NA,I thought they were lower
+ROSEMARY,NA,right you know
+BETH,NA,Yeah that's what we always thought too
+SHERRY,NA,I always thought they were down here
+BETH,NA,yeah that's what we thought
+SHERRY,NA,where
+ROSEMARY,NA,But the pain can be just about you know
+BETH,NA,Oh yeah I suppose that's true
+ROSEMARY,NA,you know pain can be just about any place
+BETH,NA,But they tol
+ROSEMARY,NA,H
+BETH,NA,Marleen had something wrong
+SHERRY,NA,They told her they were
+ROSEMARY,NA,Hx
+BETH,NA,H And they said your kidneys are up
+SHERRY,NA,Really
+BETH,NA,here
+SHERRY,NA,Oh That's weird Hm Hm
+ROSEMARY,NA,TSK H I think Hx
+BETH,NA,They're higher than I thought
+ROSEMARY,NA,H Yeah
+SHERRY,NA,Yeah
+BETH,NA,<X I know that X>
+ROSEMARY,NA,H
+BETH,NA,Cause I always thought they were just below your waist
+ROSEMARY,NA,H Anyway Hx
+SHERRY,NA,Yeah I did too
+BETH,NA,But there are
+ROSEMARY,NA,TSK H
+SHERRY,NA,H
+ROSEMARY,NA,She's
+BETH,NA,Yeah all sorts of junk in there anyhow
+ROSEMARY,NA,kinda
+BETH,NA,<X which we don't need X
+ROSEMARY,NA,Yeah SWALLOW H Well she thought she had a bladder infection when she was at Whidbey
+BETH,NA,Oh did she I didn't know that
+SHERRY,NA,Hx Why did she have the opposite problem H
+ROSEMARY,NA,Well it's not exactly opposite But well they're kinda related aren't they H Hx H But
+BETH,NA,It's just moving through her system
+ROSEMARY,NA,But they didn't even do a urinalysis Hx Which I think is ridiculous H When she went in yesterday H S Hx
+BETH,NA,But will a urine show kidneys
+ROSEMARY,NA,Sure
+BETH,NA,Will it show a kidney malfunction
+ROSEMARY,NA,if there's an infection
+BETH,NA,Oh I didn't know it would
+SHERRY,NA,H
+BETH,NA,I guess it would Because they did that for Bill they thought he had a kidney
+SHERRY,NA,Oh they did But they never figured out what he had
+BETH,NA,He had had pneumonia
+ROSEMARY,NA,Eventually
+BETH,NA,The second week he had pneumonia The first week he
+SHERRY,NA,Really
+ROSEMARY,NA,H He had a vi-
+BETH,NA,Apparently just had a virus
+SHERRY,NA,I  %Oh I thought it
+BETH,NA,Or either that or the-
+SHERRY,NA,They didn't know what he had He had pneumonia
+ROSEMARY,NA,Yeah he eventually developed it
+SHERRY,NA,Is that the first time he's ever had pneumonia
+BETH,NA,No
+SHERRY,NA,He's had it before
+BETH,NA,XX When he was real little he almost died of pneumonia
+SHERRY,NA,Oh
+BETH,NA,When he was
+SHERRY,NA,Oh really Hey
+BETH,NA,About three
+SHERRY,NA,H So H VOX now Bill and Jonathan are a natural class right VOX
+BETH,NA,VOX Right VOX
+SHERRY,NA,VOX Oh I get it VOX
+BETH,NA,But he outgrew it when he was five too A little older than five
+SHERRY,NA,TSK
+ROSEMARY,NA,TSK H
+BETH,NA,When they quit going to Lewiston every week
+ROSEMARY,NA,Hx
+BETH,NA,to see his grandmother H H
+SHERRY,NA,Oh that's when he outgrew it Hx
+BETH,NA,He used to have THROAT asthma attacks every time they'd go to Lewiston
+SHERRY,NA,Oh That's a drag he must have liked her a lot Hunh Hx H Or was it the cl
+BETH,NA,He doesn't remember
+SHERRY,NA,Oh oh
+ROSEMARY,NA,H COUGH COUGH COUGH
+BETH,NA,His mom X said it was X
+ROSEMARY,NA,H COUGH COUGH COUGH
+BETH,NA,<X She said she X They went every H just about every weekend She hated going
+SHERRY,NA,His mom Which f g It was Jack's mother
+BETH,NA,Mhm
+SHERRY,NA,Oh Hmm That's
+BETH,NA,But they had to go see her
+SHERRY,NA,pretty bad
+BETH,NA,But he outgrew it H But it scared Marleen cause that was one of her dad's problems One WH of her dad's problems WH
+SHERRY,NA,What Asthma
+BETH,NA,SNIFF
+SHERRY,NA,Oh H Seems like we've got every bad thing there could be in our family
+BETH,NA,He had a lot of things though her dad
+ROSEMARY,NA,H SWALLOW Hx
+BETH,NA,I was talking to a gal at work Karen Baxter
+ROSEMARY,NA,Hx
+BETH,NA,Karen Berringer Baxter
+ROSEMARY,NA,H
+BETH,NA,Who's gonna have a baby She's
+SHERRY,NA,Does she have any already
+BETH,NA,Hm-m
+SHERRY,NA,Hm
+BETH,NA,She's my age
+SHERRY,NA,Yeah I know I remember Karen
+ROSEMARY,NA,Her husband the one that had
+SHERRY,NA,%I Berringer I know the X gal X
+BETH,NA,No her sister's husband
+ROSEMARY,NA,Oh okay H
+BETH,NA,Um but she said they did a um
+ROSEMARY,NA,H
+BETH,NA,glucose tolerance test on her
+ROSEMARY,NA,Yeah
+BETH,NA,and there isn't any diabetes in their family and she goes to doctor Hensel H And there's diabetes in our family and he never did one on me for either of the kids
+ROSEMARY,NA,SWALLOW Maybe they picked something up in a blood test somewhere
+BETH,NA,There must be some H Oh That could be
+ROSEMARY,NA,Her H Hx
+BETH,NA,But And she had gallbladder problems right before she got pregnant
+ROSEMARY,NA,Hx
+BETH,NA,N-
+ROSEMARY,NA,H Well
+BETH,NA,So it could be that they're
+ROSEMARY,NA,H And then there's H COUGH COUGH And there's such a thing as pregnancy diabetes
+BETH,NA,Mhm
+ROSEMARY,NA,H Where you don't have it any other time H And she may have shown signs of that
+SHERRY,NA,Really
+ROSEMARY,NA,and then
+SHERRY,NA,I never heard of that
+ROSEMARY,NA,Mhm
+SHERRY,NA,SNIFF Hm H That's pretty weird
+BETH,NA,Mhm
+ROSEMARY,NA,H
+BETH,NA,Could be
+SHERRY,NA,Hx
+BETH,NA,She didn't say anything about that
+ROSEMARY,NA,See I never had that H But Grandmom did
+BETH,NA,SLURP
+ROSEMARY,NA,When she was pregnant with me
+SHERRY,NA,Oh she did TSK Oh
+BETH,NA,SLURP
+SHERRY,NA,Were you big When you were born
+ROSEMARY,NA,TSK H Seven thirteen
+SHERRY,NA,Oh so she didn't have one of those classic signs of diabetes
+ROSEMARY,NA,Nope H y f usually don't on your first baby
+BETH,NA,See but I did
+ROSEMARY,NA,H But your babies were late Beth my babies none of my babies were late
+BETH,NA,Yeah but Laura was still big Even
+SHERRY,NA,That's what Mom's hoping that it means it doesn't mean anything about having diabetes
+BETH,NA,Oh
+ROSEMARY,NA,I know H
+SHERRY,NA,Hx
+ROSEMARY,NA,Laura Uh d Laura is
+BETH,NA,I mean Laura was big  anyhow
+ROSEMARY,NA,was big would've been big anyway even if she had been on time
+BETH,NA,Cause she was big from the very beginning
+ROSEMARY,NA,Yeah
+BETH,NA,I mean I went in at twelve weeks and he said this is a big baby or twins
+ROSEMARY,NA,TSK Right
+SHERRY,NA,Yeah
+ROSEMARY,NA,TSK
+BETH,NA,So she was SNIFF
+ROSEMARY,NA,Hx
+BETH,NA,Bill said t last night he said H something about the next kid I says Bill I don't want any more kids I'm kidded out He says H he looks at me and he goes TSK H VOX Beth nothing ever flaps you VOX H I said y
+SHERRY,NA,WH WH
+BETH,NA,H now that's not true he said you could have six kids and you would just be calm and cool
+SHERRY,NA,
+BETH,NA,and just be Beth
+SHERRY,NA,@You go VOX guess what Bill you're wrong VOX
+BETH,NA,H
+SHERRY,NA,@H H
+BETH,NA,But now Sunday just about did it
+SHERRY,NA,I wouldn't be Beth
+ROSEMARY,NA,Hx
+SHERRY,NA,@@
+BETH,NA,
+SHERRY,NA,H VOX I wouldn't be Beth anymore VOX
+BETH,NA,H
+SHERRY,NA, H
+ROSEMARY,NA,What happened Sunday
+BETH,NA,Oh I just about had it With Anna and Sharon P<X And I X>P told Sharon
+SHERRY,NA,What they were just
+ROSEMARY,NA,H What were they doing
+BETH,NA,They were Mostly Sharon got on X her X bandwagon about Missus Jackson and I just about came un
+ROSEMARY,NA,About who
+SHERRY,NA,Missus Jackson
+BETH,NA,Jean Jackson
+ROSEMARY,NA,Oh I didn't hear anything about it
+BETH,NA,XXXX H No you'd left
+ROSEMARY,NA,H Oh
+SHERRY,NA,It was later
+ROSEMARY,NA,well tell me about it
+BETH,NA,Hx
+ROSEMARY,NA,Cause I hadn't heard all of this
+BETH,NA,H She was saying that
+SHERRY,NA,H
+BETH,NA,TSK H that that we were talking about um different students being held back for different reasons and that H about children being put oh I was telling her about that one of your girls read at such a low level X that X really should have been SNIFF and they said well why didn't they put her in remedial and I said well I don't know but
+ROSEMARY,NA,She was in remedial
+BETH,NA,Well Hx H I said for one thing
+ROSEMARY,NA,Hx
+BETH,NA,they can't put em in remedial without the parents consent And then the whole thing about that Greg went through in the first part of second grade his first H and she was so upset because
+SHERRY,NA,What happened What happened
+BETH,NA,They wanted to test him for a remedial class
+SHERRY,NA,Who Greg
+BETH,NA,Greg
+SHERRY,NA,Yeah
+ROSEMARY,NA,H It isn't a remedial class
+SHERRY,NA,They wanted to test him
+ROSEMARY,NA,it's called resource room
+BETH,NA,Okay
+SHERRY,NA,Yeah I know
+BETH,NA,resource room
+SHERRY,NA,But
+BETH,NA,Whatever
+SHERRY,NA,just a reme-
+ROSEMARY,NA,And she wouldn't let em
+SHERRY,NA,One
+BETH,NA,H Well she never did anything about it But she was telling Anna
+SHERRY,NA,They never tested him
+BETH,NA,that Missus Jackson
+SHERRY,NA,or they did
+BETH,NA,H demanded he go into the resource room H I said Sharon that's not right H I said she suggested he be tested for it That's two different things That was the first thing I said H And then she was saying TSK H VOX well she just didn't do Greg any good VOX X You know X and I just about I didn't
+ROSEMARY,NA,SNIFF
+BETH,NA,I didn't b but I you know I told Bill later I said H Greg learned more from Missus Jackson than he ever learned from Missus Meyer
+ROSEMARY,NA,TSK Oh well Probably
+BETH,NA,Because H he tried harder for her
+ROSEMARY,NA,Mhm
+BETH,NA,You know And he really
+ROSEMARY,NA,Here's our lunch finally
+BETH,NA,H And he he made a complete sw not complete but he'd im Made a big improvement
+ROSEMARY,NA,Mhm
+SHERRY,NA,Mm
+JAMIE,NA,The Caesar salad with the kebabs
+SHERRY,NA,Hm
+BETH,NA,That was mine
+JAMIE,NA,Okay he made the kebabs a little bit bigger than I regular and I made the salad a little bigger so we put em on separate plates
+BETH,NA,Oh wow
+SHERRY,NA,@Hx H
+BETH,NA,X And X I'm gonna get full then hunh
+SHERRY,NA,What a deal
+ROSEMARY,NA,I had the croissant Mm Thank you
+SHERRY,NA,Thanks
+BETH,NA,And
+JAMIE,NA,Is everything alright now
+ROSEMARY,NA,Looks fine
+BETH,NA,Looks delicious
+SHERRY,NA,Looks good
+JAMIE,NA,Okay great
+BETH,NA,Thank you So and that was
+ROSEMARY,NA,Mm
+BETH,NA,that kind of I mean she was going
+SHERRY,NA,Bugged you
+BETH,NA,and then she said she says well H X and if X She Missus Jackson is still there when Doug gets to second grade VOX she's not gonna get her hands on him VOX
+SHERRY,NA,Oh brother
+BETH,NA,and I said Greg Doug would probably do wonderful in her class Greg did w r finally did well H Well and for one thing it bothered me because Anna takes ahold of something like that and doesn't let go H And Sharon doesn't even think about what she's saying She just starts y VOX nya-nya-nya-nya VOX and I was just
+ROSEMARY,NA,H You should tell SWALLOW TSK Sharon that principals do not take kindly to parents telling em what room they want their kids in H
+SHERRY,NA,Mm
+BETH,NA,I thought boy They oughta put Doug in there just to show her
+SHERRY,NA,
+BETH,NA,Mm
+ROSEMARY,NA,Sh probably just as well I'm not having Doug
+BETH,NA,Well she just
+ROSEMARY,NA,I mean Greg
+BETH,NA,There's just the whole attitude That
+SHERRY,NA,Hx@Hx@Hx What what grade is Doug in
+ROSEMARY,NA,He's starting first next year In kindergarten this year
+SHERRY,NA,Hm Hm
+BETH,NA,But you know like she knows so much about it You know I said probably that one day the The teacher and you both just had a bad day and it came off X on X
+SHERRY,NA,Yeah
+ROSEMARY,NA,Probably just as well I wasn't there
+SHERRY,NA,Hx
+BETH,NA,Oh I was COUGH I told Bill I had several things I wanted to say and I probably would've if Anna wouldn't've been there
+SHERRY,NA,
+BETH,NA,COUGH COUGH COUGH But I watch myself a lot closer around her COUGH COUGH COUGH COUGH COUGH M THROAT THROAT THROAT
+ROSEMARY,NA,This is good clam chowder but it's not as good as Uncle Don made
+SHERRY,NA,He made some Oh after they had gone clamming
+ROSEMARY,NA,X One of those X
+BETH,NA,THROAT You know I don't think Sharon would've said it if you'd've been around
+ROSEMARY,NA,She better not
+SHERRY,NA,Uncle Don made it
+ROSEMARY,NA,H
+SHERRY,NA,After you w
+ROSEMARY,NA,H Yeah but
+SHERRY,NA,they went clamming
+ROSEMARY,NA,surprisingly enough Sherry H it didn't taste real clammy
+SHERRY,NA,Really
+ROSEMARY,NA,Mhm
+SHERRY,NA,Hm
+BETH,NA,Yeah it wasn't all that good
+ROSEMARY,NA,Well it was good but it didn't
+SHERRY,NA,Yeah what's the use of having clam chowder
+ROSEMARY,NA,it wa didn't
+SHERRY,NA,if it doesn't taste like clam
+ROSEMARY,NA,Because evidently fresh clams don't haven't developed a real strong flavor yet
+BETH,NA,Hunh-unh
+SHERRY,NA,How do they get their flavor Being canned or something
+ROSEMARY,NA,TSK I would think so
+SHERRY,NA,Oh Hm
+BETH,NA,X And X refrigerated
+SHERRY,NA,Mm
+ROSEMARY,NA,Just aging H
+SHERRY,NA,Hm
+BETH,NA,Um hm
+ROSEMARY,NA,SLURP TSK Oh I had a s soupspoon and didn't see it Till just now
+SHERRY,NA,Hx
+ROSEMARY,NA,Oh well

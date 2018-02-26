@@ -1,0 +1,667 @@
+0.000	0.708	BEN:	.. Okay folks,
+0.708	2.142		we're coming to a short stairway,
+2.142	2.970		use the handrails,
+2.970	4.087		and be careful please.
+4.087	94.800	>ENV:	((FOOTSTEPS_AND_AMBIENT_CROWD_NOISE))
+94.800	95.277	BEN:	Okay folks,
+95.277	96.340		let's find out where we are.
+96.340	98.341		... We got on the elevator right here,
+98.341	101.019		.. came down and stood on the balcony overlooking the power plant,
+101.019	102.583		... (H) down that stairway,
+102.583	104.621		out on the power plant ramp about that far,
+104.621	106.508		(H) then right at that yellow line.
+106.508	110.367		(H) And you're now standing over the second-largest water pipe in the world,
+110.367	112.169		(H) and it's called a penstock.
+112.169	113.829		... More about that a little bit later.
+113.829	115.576		.. (H) The Colorado River,
+115.576	116.871		flows in this direction.
+116.871	118.334		(H) In order to build a dam here,
+118.334	119.995		the very first thing they had to do=,
+119.995	121.498		(H) was to get rid of that river.
+121.498	124.062		.. (H) So they came up here above where the dam was to be built,
+124.062	125.615		(H) and drilled and blasted out,
+125.615	127.057		four diversion tunnels.
+127.057	128.712		(H) Two on either si=de,
+128.712	130.008		(H) into the canyon wall,
+130.008	131.566		around where the dam was to be built,
+131.566	133.106		(H) out in the river down below.
+133.106	137.059		(H) Each one of these tunnels were drilled and blasted out at fifty-six feet in diameter,
+137.059	139.037		(H) and then lined with three feet of concrete.
+139.037	141.740		.. (H) You're now standing in one of those old diversion tunnels.
+141.740	143.063		... (H) They then came up here,
+143.063	145.367		and they built a cofferdam about a hundred feet high,
+145.367	148.081		(H) to force this river into these diversion tunnels.
+148.081	149.225		(H) Came back down here,
+149.225	150.932		built the other part of that cofferda=m,
+150.932	152.823		(H) about sixty-five feet high=,
+152.823	155.578		(H) to keep this water from backing into the work area.
+155.578	157.284		(H) They now had from he=re,
+157.284	159.045		(H) to here where they could build a dam.
+159.045	161.085		.. (H) They pumped the water out of this area,
+161.085	164.614		(H) and excavated down another hundred and thirty-five feet to bedrock.
+164.614	165.550		.. (H) Okay folks,
+165.550	166.210		if you will please,
+166.210	168.142		take a look at this picture taken during construction,
+168.142	170.764		.. (H) looks like a series of boxes or blocks,
+170.764	172.160		stacked one on top of the other,
+172.160	174.694		.. (H) and those are wooden concrete fo=rms.
+174.694	177.381		(H) Each one of those forms are exactly five feet high,
+177.381	179.659		(H) but they did vary in area somewhat,
+179.659	182.756		(H) because they did not build the dam right straight across the river,
+182.756	184.641		(H) from canyon wall to canyon wa=ll,
+184.641	186.624		(H) they built it in the form of an arc.
+186.624	189.457		... And it's called an arch .. gravity design dam.
+189.457	190.965		(H) Where the force of the water,
+190.965	193.414		coming down the Colorado River hits the face of the dam,
+193.414	197.085		(H) and tends to try to drive these wingtips further into the canyon wa=ll.
+197.085	199.179		.. (H) It's a very strong design.
+199.179	202.265		... They did build two concrete mixing plants here,
+202.265	204.764		(H) they did pour concrete for twenty-four hours a day,
+204.764	205.808		seven days a week,
+205.808	208.020		(H) three hundred and sixty-five days a year.
+208.020	209.282		(H) For two years,
+209.282	211.010		.. less ... six days.
+211.010	215.743		(H) Now every bit of that concrete came down in individual eight-cubic-yard bucketloads.
+215.743	218.384		(H) Eight cubic yards of concrete into one of these forms,
+218.384	221.163		(H) the smallest of which is twenty-two by twenty-five feet,
+221.163	224.279		(H) only filled that form up about three or four inches deep.
+224.279	226.543		.. (H) So there goes that story you may have hea=rd,
+226.543	228.852		(H) that there are workers buried in the concrete here.
+228.852	230.385		.. Couldn't possibly happen.
+230.385	233.313		.. (H) But what they did bury in that freshly poured concrete,
+233.313	235.110		(H) was one-inch steel water pipe.
+235.110	237.513		.. (H) They came down here in this lower cofferda=m,
+237.513	239.354		(H)= and they built an i=ce plant.
+239.354	242.284		.. Capable of making a thousand tons of ice a day.
+242.284	243.653		(H) They used that ice,
+243.653	244.716		to chill the water,
+244.716	247.705		(H) that they forced through that pipe in this newly placed concrete.
+247.705	249.241		.. (H) As concrete ha=rdens,
+249.241	250.501		or cures as we call it,
+250.501	251.867		(H) it produces heat.
+251.867	254.000		... The more you can control that heat,
+254.000	256.033		(H) the better job of curing you're going to get.
+256.033	257.910		.. (H) So they used the chilled water method,
+257.910	259.011		of taking that cold water,
+259.011	261.695		(H) forcing it through that pipe in that newly placed concrete,
+261.695	263.338		(H) picking up some of that heat,
+263.338	265.191		(H) then carrying that heat out and away.
+265.191	268.036		.. (H) They felt if they did not use a method such as this,
+268.036	271.600		.. that it would've taken approximately (H) one hundred and fifty years,
+271.600	274.952		for the concrete .. in the interior part of the dam (H) to cool down.
+274.952	276.454		.. (H) So the system did work.
+276.454	277.555		... And then it hardened,
+277.555	279.138		and they remove these wooden forms,
+279.138	280.185		.. <X they X> left voids.
+280.185	282.380		Vertically and horizontally these forms came together,
+282.380	284.248		(H) those voids were filled with grout.
+284.248	285.215		Under high pressure.
+285.215	287.452		... Grout being a mixture of concrete and water.
+287.452	288.601		... (H) When this is done,
+288.601	291.376		you have what we call a modified monolithic pour,
+291.376	293.568		(H) or basically a solid block of concrete,
+293.568	297.237		(H) which when completed would be six hundred and sixty feet across the base,
+297.237	299.245		(H) fourty-five feet across the top,
+299.245	302.187		(H) twelve hundred and fourty-four feet from wingtip to wingtip,
+302.187	305.229		(H) seven hundred and twenty-six point four feet high.
+305.229	309.063		... <MRC Six point six million tons of concrete MRC>.
+309.063	313.871		... That's enough concrete to build a two-lane highway (H) from New York City to San Francisco.
+313.871	314.562		... O=r,
+314.562	315.313		put another way,
+315.313	318.459		(H) a four-foot wide sidewalk from the North Pole to the South Pole.
+318.459	320.785		.. (H) Then they had to protect that concrete a little bit,
+320.785	323.728		(H) the next thing they had to do then is build a couple of spillways.
+323.728	326.260		(H) As you got out of your cars or your busses this afternoon,
+326.260	327.816		you may have noticed those spillways.
+327.816	328.543		(H) Here they are,
+328.543	329.686		one on either side.
+329.686	330.808		.. (H) What they did,
+330.808	331.507		is they came in here,
+331.507	334.400		and they blocked these diversion tunnels off in this area through here,
+334.400	336.328		... (H) closed these gates up here,
+336.328	339.126		(H) now this yellow part is forever under water.
+339.126	340.500		(H) Underneath that lake out there,
+340.500	341.699		and completely useless.
+341.699	343.281		(H) But they did incorporate,
+343.281	344.791		into the design of the dam,
+344.791	346.950		(H) the balance of those diversion tunnels,
+346.950	349.996		.. (H) using these outer two as spillway tunnels.
+349.996	351.582		(H) Now these spillways were built,
+351.582	353.106		so that the top of the spi=llway,
+353.106	356.066		(H) is twenty-seven feet lower than the top of the dam.
+356.066	360.121		.. (H) This assures us that n- any excess water coming down the Colorado River,
+360.121	362.260		(H) rather than overtopping the dam,
+362.260	364.772		(H) overtops these spillways on either side,
+364.772	366.261		(H) goes into the canyon wall,
+366.261	367.225		around the dam,
+367.225	368.850		(H) out in the river down below.
+368.850	374.900		.. (H) Each one of these spillways is capable of handling (H) two hundred th=ousand cubic feet per second of water.
+374.900	377.856		.. (H) That's the same amount of water that goes over Niagara Falls.
+377.856	380.358		.. (H) <X Falls X> three times higher than Niagara Falls does,
+380.358	382.653		(H) time that water reaches this area down in here,
+382.653	384.709		(H) it is flowing at between one hundred,
+384.709	386.764		(H) and one hundred and twenty miles an hour.
+386.764	389.016		... (H) Okay we have protected the spillways,
+389.016	390.548		(H) now they had to get some water,
+390.548	392.095		.. (H) %- into the power plant.
+392.095	394.626		... What they did is they built four intake towers.
+394.626	396.714		(H) Two on either side of the (H) river,
+396.714	398.037		on ledges above the river,
+398.037	400.754		(H) each of those towers that you saw out there in that lake,
+400.754	403.271		... are three hundred and ninety-five feet high.
+403.271	406.446		... Each with two-eleven-by-thirty-two-foot gates in them,
+406.446	407.703		(H) one gate near the bottom,
+407.703	408.784		one about half way up,
+408.784	410.212		(H) to let the water in.
+410.212	412.273		(H) The water then coming into the penstocks,
+412.273	414.182		(H) like the one we're standing over right now.
+414.182	415.438		... (H) This penstock,
+415.438	417.204		you can see on either side of us out here,
+417.204	418.468		(H) is three stories high,
+418.468	419.879		or thirty feet in diameter,
+419.879	422.963		made of two-and-three-quarter-inch steel boilerplate.
+422.963	425.360		.. (H) Made in section twenty-two feet long.
+425.360	429.277		.. Each section weighing approximately (H) a hundred and fifty tons.
+429.277	432.248		(H) Each of these twenty-two-foot sections is joined to the next section,
+432.248	434.021		(H) using pressure pins like thi=s.
+434.021	436.874		.. (H) The water pressure in that penstock out there this afternoon,
+436.874	440.220		(H) approximately two hundred and thirty-four pounds per square inch.
+440.220	442.000		... (H) Okay we have the water this far,
+442.000	445.162		now we divert that into thirteen-foot penstocks or water pipes,
+445.162	446.814		(H) each one of em going to a turbine.
+446.814	449.295		... (H) The force of the water turns the turbine,
+449.295	451.099		which turns the rotor in the generator,
+451.099	452.411		(H) and generates power.
+452.411	454.564		... The water then coming on the tailrace,
+454.564	455.530		we saw it up there,
+455.530	458.911		(H) and going on downstream to be used at least .. six more times,
+458.911	460.589		before it reaches the Mexican border,
+460.589	461.963		(H) to generate more power.
+461.963	465.736		.. (H) Good clean .. reusable non-polluting source of energy.
+465.736	468.306		... (TSK) (H) The cost of the project.
+468.306	470.889		... A hundred and seventy-five million dollars.
+470.889	472.143		... I say project,
+472.143	474.060		because that includes the building of the dam,
+474.060	476.854		(H) the building of Boulder City about seven miles up the road,
+476.854	480.302		(H) the highway and the railway from Las Vegas out here to the dam site,
+480.302	483.399		(H) and in southern California they built the All-American Canal,
+483.399	485.842		(H) which takes water to the people and the crops,
+485.842	487.935		.. of the Imperial and Coachella Valleys.
+487.935	491.323		(H) This money was borrowed on a fifty-year term at three-percent interest,
+491.323	494.174		(H) and was paid off in fu=ll in nineteen eighty-seven.
+494.174	496.063		... The people who worked here,
+496.063	497.806		and they did work twenty-four hours a day,
+497.806	501.208		(H) average twenty-four-hour work force was about thirty-five hundred men.
+501.208	504.748		.. (H) The most they had at any one time was when they were pouring concrete,
+504.748	506.385		(H) fourty-three hundred men.
+506.385	509.793		... (H) The laborers on the job made fifty cents an hour.
+509.793	513.058		.. (H) Highest paid man on the project was a power shovel operator,
+513.058	515.007		(H) at a dollar and a qu=arter an hour.
+515.007	516.603		... (H) Out of each man's paycheck,
+516.603	518.832		the contractor did deduct each day,
+518.832	520.771		(H) a dollar and sixty cents.
+520.771	522.825		(H) Because the contractor was feeding,
+522.825	524.877		(H) and housing the men in Boulder City,
+524.877	527.524		(H) and taking them back and forth out here to the job site.
+527.524	531.020		... They did have ninety-six .. industrial deaths.
+531.020	534.561		.. The biggest single category of death was classified as falling material.
+534.561	536.187		(H) Basically falling rock.
+536.187	538.607		... But they did have some killed by explosion,
+538.607	539.777		(H) some by drowning,
+539.777	540.995		some by electrocution,
+540.995	543.769		(H) and other types of accidents you might expect to have.
+543.769	545.348		(H) On a job of this magnitude.
+545.348	547.457		... They did complete the project,
+547.457	548.651		two years ahead of schedule,
+548.651	549.663		and under budget.
+549.663	551.606		(H) Started in early nineteen thirty-one,
+551.606	553.783		(H) completed in late nineteen thirty-five.
+553.783	556.139		(H) Just twelve days short .. of five years.
+556.139	558.082		... (H) Do I have any questions.
+558.082	560.585	AUD:	... What's this overhead pipe here X.
+560.585	561.630	BEN:	(H) The overhead pipe.
+561.630	562.837		(H) That's the fresh air pipe.
+562.837	564.928		.. (H) ... In the summerti=me,
+564.928	567.904		(H) the temperature of the air outside gets to be as high as a hundred and twenty degrees.
+567.904	569.449		(H) So they bring that fresh air i=n,
+569.449	572.377		(H) and they pass that fresh air over a sump at the base of the dam,
+572.377	575.148		(H) the water in that sump is a constant fifty-three degrees.
+575.148	578.530		(H) It cools that air down to between sixty-eight and seventy-two degrees,
+578.530	580.516		(H) then they force it back throughout the dam.
+580.516	582.699		(H) So it's %air-conditioning without refrigeration.
+582.699	584.650		Like a big evaporative cooler or swamp cooler.
+584.650	586.590		... Any other questions.
+586.590	587.344		... Yes.
+587.344	588.612	AUD:	... U=h,
+588.612	591.056		during the uh ... earthquake this morning,
+591.056	592.275		do you have any sensors down here,
+592.275	594.004		that .. measure any kind of movement,
+594.004	595.885		o=f ... str[uctur]=es,
+595.186	595.574	BEN:	[<X Right X>].
+595.885	596.524		... Yes.
+596.524	597.836		.. W- v- we have several things.
+597.836	600.112		.. First place we have three seismographs throughout the dam.
+600.112	601.070		(H) We recorded those,
+601.070	602.219		but nobody down here felt em.
+602.219	603.664		(H) But we do have sensors,
+603.664	604.786		built right into the concrete,
+604.786	606.431		(H) any movement that concrete makes,
+606.431	607.860		.. is measured and recorded.
+607.860	609.850		... And they had very little of it this morning.
+609.850	610.593		Very little.
+610.593	612.879		... Any other questions.
+612.879	614.699	AUD:	... How far are you sending electricity.
+614.699	615.337		California?
+615.337	615.836	BEN:	.. Okay.
+615.836	618.470		.. Fifty-six percent of our power goes to southern California,
+618.470	620.321		(H) twenty-five percent of it stays in Nevada,
+620.321	622.490		(H) nineteen percent of it goes to Arizona.
+622.490	623.682		(H) What the government did,
+623.682	626.909		is they got together the delegates from those three states in nineteen thirty.
+626.909	630.226		(H) To allocate the power that would be generated here when this dam was completed.
+630.226	632.697		.. (H) California was growing very fast at that time,
+632.697	634.359		so they asked for and got most of the power.
+634.359	635.872		.. (H) But by the same token,
+635.872	636.405		Las Vegas,
+636.405	638.021		about thirty-five miles up the road here,
+638.021	639.192		(H) at that time,
+639.192	641.474		(H) was nothing but a watering stop on the railroad.
+641.474	642.504		(H) No hotels,
+642.504	643.396		no casinos,
+643.396	647.165		(H) we asked Las Vegas to take five percent of the power we could produce here,
+647.165	648.466		(H) and they agreed to do that.
+648.466	650.096		... But that's all they get today.
+650.096	653.777		(H) Because that contract is good through the year two-th=ousand and seventeen.
+653.777	655.098		.. (H) So all those lights.
+655.098	656.652		You see burning up there in Las Vegas,
+656.652	658.674		(H) comes from power from steam plants,
+658.674	660.913		(H) owned and operated by Nevada Power Company,
+660.913	662.480		(H) using fossil fue=l.
+662.480	664.520		They get very little of <X our X> hydroelectric power.
+664.520	665.284		.. (H) Okay folks,
+665.284	665.896		you can follow me now,
+665.896	666.791		I'm gonna lead us out of here.
+666.791	669.939		... (THROAT)
+669.939	673.914		... O=kay,
+673.914	674.692		here we go folks.
+674.692	691.867	>ENV:	((FOOTSTEPS_AND_AMBIENT_CROWD_NOISE))
+691.867	692.620	AUD:	<X Quite amazing X>.
+692.620	695.470	BEN:	... Y- yes it's a fantastic job they did down here.
+695.470	695.988	AUD:	Yeah.
+695.988	716.352	>ENV:	((FOOTSTEPS_AND_AMBIENT_CROWD_NOISE))
+716.352	717.837	AUD:	About how many people are employed here.
+717.837	718.290		Now.
+718.290	720.027	BEN:	... Right now there's about two hundred.
+720.027	721.952		.. (H) That includes the security people,
+721.952	722.579		the guide force,
+722.579	723.415		the nursing staff,
+723.415	725.709		(H) the people that .. run the computer room,
+725.709	726.450		the office force,
+726.450	727.838		as well as the people that work on the dam.
+727.838	729.511		(H) And that's a twenty-four-hour figure.
+729.511	732.055		(H) But that figure is becoming smaller every year,
+732.055	734.900		(H) because every year we are becoming more highly computerized.
+734.900	736.578		... (THROAT)
+736.578	739.244		... <F Okay folks,
+739.244	740.457		there's a tour group coming in,
+740.457	741.533		stay to your right please,
+741.533	742.369		stay to your right F>.
+742.369	756.725	>ENV:	((AMBIENT_CROWD_NOISE))
+756.725	757.699	BEN:	<F Stay to your right folks,
+757.699	758.622		tour group coming out F>.
+758.622	784.850	>ENV:	((CROWD_AND_MACHINE_NOISE))
+784.850	785.125	BEN:	.. Okay,
+785.125	785.472		if you would,
+785.472	786.179		right up this stairway,
+786.179	787.005		when you get on the balcony,
+787.005	788.896		wait for me on the blue couches on the balcony please.
+788.896	792.231		... Anybody needs the elevator it's available.
+792.231	804.481	>ENV:	((CROWD_AND_MACHINE_NOISE))
+804.481	806.287	BEN:	Anybody that needs the elevator it's <X is X> available.
+806.287	826.072	>ENV:	((CROWD_AND_MACHINE_NOISE))
+826.072	826.495	BEN:	... Come on.
+826.495	845.020	>ENV:	((CROWD_AND_MACHINE_NOISE))
+845.020	845.559	BEN:	<X Come on then X>.
+845.559	850.932		... Up the stairway if you can X.
+850.932	852.085		.. <P<X Up the stairway.
+852.085	852.650		That's --
+852.650	855.640		... Up the stairs X>P>.
+855.640	861.825		... O=kay=,
+861.825	862.522		here we go.
+862.522	868.557		... <VOX Hi VOX>.
+868.557	876.611	AUD:	... That was the .. turbine over here,
+876.611	877.331		off to the si=de --
+877.331	877.560	BEN:	Yeah,
+877.560	878.230		that's the turbine runner.
+878.230	878.583		You bet.
+878.583	881.693		... That's a ... computer design made of stainless steel,
+881.693	883.249		(H) it's designed in such a way,
+883.249	885.495		(H) there's one of em running at a hundred and eighty RPM,
+885.495	888.255		.. it actually l=ifts that eight hundred tons up a quarter of an inch,
+888.255	892.565		<X for X> your main thrust bearing is the very top of this .. u=h structure right down here.
+892.565	893.770		... This is the rotor.
+893.770	897.217		... The rotor and the .. (H) runner,
+897.217	899.226		.. have come out of our A-Seven generator,
+899.226	901.050		what happened we lost a water seal down there.
+901.050	903.231		(H) So we had to pull those out to fix that water seal,
+903.231	905.412		(H) they'll be replaced within a couple of weeks now.
+905.412	906.237	AUD:	.. <X Oh I see X>.
+906.237	909.707	BEN:	.. (H) That (H) rotor in that part of the shaft weighs five hundred and eighty tons.
+909.707	910.301	AUD:	(WHISTLE)
+910.301	935.014	>ENV:	((AMBIENT_NOISE))
+935.014	935.764	BEN:	<FF Okay folks,
+935.764	936.418		if you will please,
+936.418	937.236		follow me now FF>.
+937.236	1035.801	>ENV:	((CROWD_NOISE_AND_FOOTSTEPS))
+1035.801	1036.527	X:	.. Hey [X],
+1036.217	1037.113	BEN:	[H=ow]= you doing?
+1037.113	1037.603	X:	Good.
+1037.603	1049.257	>ENV:	((CROWD_NOISE))
+1049.257	1049.700	BEN:	Okay folks,
+1049.700	1050.566		while we're waiting for the elevators,
+1050.566	1051.884		does anybody have any questions.
+1051.884	1053.848	AUD:	... How long have you been doing .. these [tours].
+1053.548	1054.469	BEN:	[About] five years.
+1054.469	1055.390		.. About five years.
+1055.390	1057.011		(H) I've retired twice,
+1057.011	1057.895		can't stand <X retirement so X>,
+1057.895	1059.013		come back to work at a fun job.
+1059.013	1059.483	AUD:	<X @Oh X>.
+1059.483	1063.091	BEN:	... Anybody have any questions.
+1063.091	1065.987	AUD:	... Yeah,
+1065.987	1066.489		.. ~Ben,
+1066.489	1068.298		... water comes down the center of the,
+1068.298	1069.478		.. where your shaft is,
+1069.478	1070.622		.. goes out the turbine,
+1070.622	1071.474	BEN:	... No.
+1071.474	1072.324		Goes around the dam.
+1072.324	1073.503		Water comes into those towers,
+1073.503	1074.585		.. goes around the dam,
+1074.585	1075.681		comes in from the side.
+1075.681	1076.873	AUD:	Each individual turbine?
+1076.873	1077.838	BEN:	... Yeah?
+1077.838	1080.174	AUD:	The water drops in the center where the shaft goes in,
+1080.174	1080.831		then [goes down],
+1080.367	1080.831	BEN:	[No no].
+1080.831	1081.318		.. No.
+1081.318	1082.437		.. It comes into what they c- --
+1082.437	1083.838		It comes in that thirteen-foot pipe,
+1083.838	1084.740		goes into what they call,
+1084.740	1086.976		(H) the ... area of the wicket gate,
+1086.976	1087.727		... and there --
+1087.727	1089.640		And there's a .. pipe around that wicket gate,
+1089.640	1092.269		(H) a=nd that pipe goes from a thirteen-foot diameter,
+1092.269	1093.485		down to a three-foot diameter,
+1093.485	1094.732		goes around that wicket gate?
+1094.732	1095.340		... [Okay.
+1095.144	1095.620	AUD:	[Right]?
+1095.340	1096.445	BEN:	(H)] It picks up speed.
+1096.445	1097.839		(H) By the time it enters that ap- --
+1097.839	1098.688		% goes out that aperture,
+1098.688	1099.442		that three-foot aperture,
+1099.442	1101.163		it's traveling at fifty-seven miles an hour.
+1101.163	1103.023		.. (H) But that's what drives that big turbine.
+1103.023	1104.752		(H) It goes arou=nd the shaft.
+1104.752	1106.483		It doesn't go into the shaft area at all.
+1106.483	1108.521		... The wicket gate.
+1108.521	1110.160		%= All the water goes in through the wicket gate.
+1110.160	1112.528	AUD:	... It's coming in .. underneath.
+1112.528	1112.759	BEN:	Yeah.
+1112.759	1113.330		(H) [The wick- --
+1113.043	1114.039	AUD:	[Perpendicular],
+1113.330	1114.039	BEN:	% Th- % well],
+1114.039	1115.374	AUD:	[2perpendicular to the <X shaft X>2].
+1114.039	1115.374	BEN:	[2(H) %and % %= yeah2].
+1115.374	1116.861	AUD:	[3The generator's sitting on top3].
+1115.374	1116.085	BEN:	[3%A- %i- okay.
+1116.085	1117.081		.. The shaft is like3] this,
+1117.081	1118.358		and [4water's4] coming in like thi[5=s.
+1117.194	1117.481	AUD:	[4Right4].
+1118.165	1118.715		[5That's what I thought.
+1118.358	1119.952	BEN:	(H) And then it goes ar5]ou=nd like this,
+1118.715	1119.184	AUD:	Oh yeah5].
+1119.952	1120.807	BEN:	[6(H) and then out6].
+1119.952	1121.502	AUD:	[6Now that thing we saw6] down laying that-,
+1121.502	1121.772		uh,
+1121.772	1122.516		alongsi[=de],
+1122.336	1122.516	BEN:	[Okay].
+1122.516	1123.179	AUD:	with the uh,
+1123.179	1123.566		[looked like a] --
+1123.179	1123.566	BEN:	[That's a],
+1123.566	1124.833		%= that's a r- turbine runner.
+1124.833	1125.307		We call.
+1125.307	1126.070		[Turbine runner].
+1125.307	1126.070	AUD:	[That- and that's],
+1126.070	1126.640		is that is that,
+1126.640	1128.138		.. kicked up on the side like that,
+1128.138	1128.709		the water,
+1128.709	1129.278	BEN:	... No,
+1129.278	1130.390		.. [it just .. lays] .. %it --
+1129.524	1130.139	AUD:	[Spinning it around]?
+1130.390	1131.953	BEN:	.. Oh you mean the one d- on the floor [2down there2]?
+1131.637	1132.162	AUD:	[2Yeah2] yeah.
+1132.162	1133.422	BEN:	No [3that's lay3]ing flat like this,
+1132.358	1132.682	AUD:	[3X3]
+1133.422	1135.073	BEN:	and the water drives that around this way [4like this,
+1134.761	1135.574	AUD:	[4<X Oh you're right X> XX4].
+1135.073	1136.194	BEN:	and drives the tur4]bine up there yeah.
+1136.194	1137.699	AUD:	And that's down inside the uh,
+1137.699	1138.556		.. [in the turbine].
+1137.844	1138.556	BEN:	[That's way down] --
+1138.556	1138.804		Yeah.
+1138.804	1139.760		[Way down in the turbine.
+1138.804	1139.615	AUD:	[So it's in the turbine.
+1139.615	1140.025		And that's the],
+1139.760	1140.025	BEN:	Unhunh],
+1140.025	1140.223		[2yeah2].
+1140.025	1140.770	AUD:	[2that's2] what's generat[3ing,
+1140.653	1140.990	BEN:	[3Yeah3].
+1140.770	1141.900	AUD:	that's3] what's turning the wheel.
+1141.900	1142.120	BEN:	Right.
+1142.120	1142.575		... Right.
+1142.575	1143.225	AUD:	We were right on that.
+1143.225	1143.473	BEN:	Right.
+1143.473	1145.655		... Okay folks,
+1145.655	1146.927		step right in the elevator please,
+1146.927	1147.649		.. right on in,
+1147.649	1150.035		... step right in the elevator.
+1150.035	1152.811		... <P Three,
+1152.811	1153.275		four,
+1153.275	1153.739		five,
+1153.739	1154.315		six,
+1154.315	1154.852		seven,
+1154.852	1155.217		eight,
+1155.217	1155.684		nine,
+1155.684	1156.202		ten,
+1156.202	1156.763		eleven,
+1156.763	1157.261		twelve.
+1157.261	1159.665		Thirteen fourteen fifteen sixteen,
+1159.665	1161.933		... nineteen,
+1161.933	1162.663		.. twenty P>,
+1162.663	1163.233		(H) alright,
+1163.233	1163.949		are you with them?
+1163.949	1165.144		... <P Okay P>.
+1165.144	1168.977		... Okay I saved room for you.
+1168.977	1169.476	AUD:	.. All right,
+1169.476	1170.071		thanks a lot [<X man X>].
+1169.905	1170.294	BEN:	[You] bet.
+1170.294	1176.186		... Folks this does conclude your tour of the dam,
+1176.186	1178.043		... hope you enjoyed it as much as I <X enjoying have X> you,
+1178.043	1179.023		come back and see us again.
+1179.023	1180.374		(H) Have any questions on the way up,
+1180.374	1181.120		(H) ask Norm.
+1181.120	1182.122		(H) Bye-bye folks.
+1182.122	1185.848		... Okay,
+1185.848	1187.033		any more questions folks.
+1187.033	1188.782	AUD:	.. What's the .. story with this tile.
+1188.782	1191.029		... Wasn't this created by somebody?
+1191.029	1191.343	BEN:	Yeah.
+1191.343	1191.951		... Folks,
+1191.951	1194.009		(H) the dam was built as a tourist attraction,
+1194.009	1195.223		as well as being very functional,
+1195.223	1196.911		(H) this terrazzo flooring you see,
+1196.911	1199.221		terrazzo is marble chips put down in concrete,
+1199.221	1200.618		(H) ground down and polished,
+1200.618	1203.790		(H) this terrazzo flooring was put in here by one It=alian family,
+1203.790	1204.923		by the name of Martina.
+1204.923	1209.439		... (H) Okay there's two and three-quarter acres of this uh (H) t- uh terrazzo flooring in the floor,
+1209.439	1210.986		(H) but the designs you see,
+1210.986	1213.202		(H) is what that Italian family saw %=,
+1213.202	1216.622		(H) and interpretated from (H) southwest Indian blankets and pottery.
+1216.622	1217.987		That's where the designs came from.
+1217.987	1220.647		... (H) Any other questions.
+1220.647	1223.194	AUD:	... Are there just two elevators down,
+1223.194	1224.151		from these two shafts,
+1224.151	1225.272		that'll take you to [XX] --
+1224.669	1225.272	BEN:	[That's right].
+1225.272	1226.171		.. Two elevators down.
+1226.171	1226.498		Mhm?
+1226.498	1227.554	AUD:	The rest of it's just solid.
+1227.554	1227.933	BEN:	Right.
+1227.933	1229.428		... (H) Well there are,
+1229.428	1232.428		(H) there are two miles of %= tunnels going this way across the dam.
+1232.428	1233.848		(H) They have a pipe gallery,
+1233.848	1235.047		(H) they have a drainage gallery,
+1235.047	1235.446		they have a --
+1235.446	1237.658		... a uh= ... cable gallery,
+1237.658	1239.447		(H) and they have an instrumentation gallery.
+1239.447	1240.641		... And all those things are --
+1240.641	1244.332		(H) They .. measure constantly the condition of the dam with that instrumentation gallery.
+1244.332	1246.508	AUD:	... Y'all open seven days a week?
+1246.508	1247.288	BEN:	... Yeah.
+1247.288	1247.691		Mhm?
+1247.691	1248.778	AUD:	... Is it unusual to-,
+1248.778	1251.376		.. to do the generator .. uh ... room .. floor?
+1251.376	1252.082		In something like this?
+1252.082	1252.509		There's just --
+1252.509	1252.839	BEN:	Yeah.
+1252.839	1253.697		It it's .. in fact,
+1253.697	1254.954		it was built during the depression,
+1254.954	1256.648		(H) [and they wanted to make it a tourist attra-] --
+1255.357	1256.648	AUD:	[<X Make it make it worth talking X>].
+1256.648	1258.470	BEN:	It was at that time the largest dam in the world,
+1258.470	1259.932		... they wanted to make it very nice,
+1259.932	1260.128		yeah,
+1260.128	1260.830		it's unusual.
+1260.830	1262.714		... [Usually] you just have con[2crete deck2]s.
+1261.189	1261.598	AUD:	[Yeah].
+1262.174	1262.537		[2I would2] --
+1262.714	1263.158		.. [3Yeah3].
+1262.825	1263.158	BEN:	[3Yeah3].
+1263.148	1263.768		... Yeah.
+1263.768	1266.845		... (H) .. Any other questions folks.
+1266.845	1267.820		... Yes.
+1267.820	1270.809	AUD:	... What are the chances .. of a leak?
+1270.809	1271.522	BEN:	... Hm?
+1271.522	1272.150	AUD_2:	@[@@]
+1271.792	1273.679	AUD:	[What are the] chances of a leak.
+1273.679	1274.222	BEN:	(H) <X Well X>,
+1274.222	1275.433		.. % it leaks all the time.
+1275.433	1277.075		(H) You see concrete's porous.
+1277.075	1278.362		(H) And because concrete's porous,
+1278.362	1279.888		there's water coming through at all times.
+1279.888	1281.007		(H) But that's good.
+1281.007	1283.091		(H) Because if <X there're X> no moisture in concrete,
+1283.091	1284.067		(H) it dries out,
+1284.067	1285.190		an=d .. spalls and chips,
+1285.190	1286.337		an=d .. turns to powder.
+1286.337	1287.834		(H) Wouldn't make a very good dam.
+1287.834	1289.450		(H) So as long as that lake is back there,
+1289.450	1291.713		forcing that water through the concrete at all times,
+1291.713	1294.461		(H) it keeps that concrete in a stage of what we call being green.
+1294.461	1296.504		(H) Green concrete's very strong.
+1296.504	1298.006		(H) So we have a good strong dam.
+1298.006	1299.347	AUD:	... Say ~Ben,
+1299.347	1299.828	BEN:	.. [Yes].
+1299.565	1301.000	AUD:	[what's going] on up on the hill up here,
+1301.000	1301.819		<X don't [2think it's uh X>2] --
+1301.222	1301.415	BEN:	[2Okay.
+1301.415	1303.210		.. That's a2] five-story parking garage,
+1303.210	1305.125		(H) and the new building is a new visitors center.
+1305.125	1308.047		.. (H) The five-story parking garage will hold four-hundred and fifty cars.
+1308.047	1308.797		(H) Okay,
+1308.797	1310.101		the new f- (H) visitors center,
+1310.101	1312.483		(H) will have ... three revolving theaters in it,
+1312.483	1315.229		... it'll have a .. seating area for people going on tour,
+1315.229	1316.122		it'll have a museum,
+1316.122	1319.005		(H) the top deck of that building will be an observation platform,
+1319.005	1320.872		(H) we can look back at the dam in one direction,
+1320.872	1321.761		downstream in the other.
+1321.761	1322.510		(H) Now,
+1322.510	1323.352		when that's all done,
+1323.352	1324.874		(H) they hope to be able to f=igure,
+1324.874	1328.386		... to handle .. between one point two and one point three million people a year.
+1328.386	1329.672		(H) Last year we had,
+1329.672	1333.226		.. seven hundred and twenty-nine thousand eight hundred and eighty-nine people go through the dam,
+1333.226	1334.527		(H) but we had to turn people away,
+1334.527	1335.455		almost every night.
+1335.455	1336.925		... Just not enough time in the day,
+1336.925	1338.492		to get everybody through the dam that would like to see it.
+1338.492	1338.951	AUD:	.. Hmm.
+1338.951	1340.707		... Will it have any slot machines in it?
+1340.707	1341.401	BEN:	(H) No,
+1341.401	1342.109		[but it'd be a] good idea,
+1341.401	1341.675	AUD:	[@@]
+1342.109	1342.467	BEN:	wouldn't it.
+1342.467	1343.242	AUD:	[@ (H)]
+1342.467	1343.881	BEN:	[(H) Pay] for this [2place2][3=3].
+1343.489	1344.358	AUD_2:	[2@2][3@3][4@@4]
+1343.753	1345.811	AUD:	[3When's3] [4comple4]tion on that ... parking garage.
+1345.811	1348.363	BEN:	... They figure between fifteen and seventeen months.
+1348.363	1348.986		... Yeah.
+1348.986	1350.246		... Okay folks,
+1350.246	1351.432		step right in the elevator please.
+1351.432	1353.263		... (H) R=ight on in.
+1353.263	1360.792	>ENV:	((CROWD_NOISE))
+1360.792	1363.552	X:	... <VOX Everyone please fa[ce the front of the car VOX>].
+1362.405	1364.195	AUD:	[It's gonna be seventeen m]ore months?
+1364.195	1365.359		... Seventeen more months?
+1365.359	1368.906	X:	... <VOX Everyone face the front of the car please VOX>.
+1368.906	1374.209	BEN:	... Ri=ght to [there].
+1373.907	1375.459	X:	[<VOX Front of the] car please VOX>.
+1375.459	1377.755	AUD:	... Have they ever had to use the spillway?
+1377.755	1378.151	BEN:	Just a minute.
+1378.151	1381.730		... Okay folks,
+1381.730	1383.102		this does conclude your tour of the dam,
+1383.102	1384.684		I hope you enjoyed it as much as I enjoyed having you,
+1384.684	1385.794		(H) come back and see us again,
+1385.794	1387.035		have any questions on the way up,
+1387.035	1387.886		(H) ask Norm.
+1387.886	1388.878		.. Bye-bye folks.
+1388.878	1389.245	AUD:	Thanks ~Ben.
+1389.245	1392.091	AUD_2:	... Have they ever had to use the spillway?
+1392.091	1392.396	BEN:	Okay.
+1392.396	1392.841		.. Folks,
+1392.841	1393.545		the question is,
+1393.545	1394.985		did they ever have to use the spillway.
+1394.985	1395.884		.. (H) Yes.
+1395.884	1397.098		Just once in the history of the dam,
+1397.098	1398.382		and that was nineteen eighty-three.
+1398.382	1400.016		... (H) What happened that year,
+1400.016	1402.671		(H) is they had a very heavy snowpack in the Rocky Mountains,
+1402.671	1404.981		(H) .. and that was followed by rain and hot weather,
+1404.981	1407.106		(H) which created a flooding condition.
+1407.106	1410.135		(H) We had more water coming down the Colorado River system,
+1410.135	1411.839		(H) than they could put through the power plant.
+1411.839	1415.654		.. (H) Every reservoir in the Colorado River system was full to overflowing that year.
+1415.654	1416.957		.. (H) On July second,
+1416.957	1419.065		... water overtopped our spillways out here.
+1419.065	1420.143		(H) Six days later,
+1420.143	1422.053		it was going over four and a half feet high.
+1422.053	1424.389		(H) And that went on for sixty-six days.
+1424.389	1427.150		(H) At the end of that time there was no damage to the dam,
+1427.150	1428.385		(H) or to the power plant,
+1428.385	1431.491		(H) but further on downstream where people had built in the floodplain,
+1431.491	1433.955		(H) they did have thirty million dollars worth of damage,
+1433.955	1435.261		(H) but no loss of life.
+1435.261	1438.172		... But that flood's what left that white line around the lake out there.
+1438.172	1441.268		... That white line indicates it was going over the spillways,
+1441.268	1443.383		(H) four and a half feet above floodstage.
+1443.383	1444.828		(H) It gives a false impression,
+1444.828	1446.745		and makes it look like the lake of the level is low.
+1446.745	1448.040		Or level the lake .. of the low.
+1448.040	1450.172		.. (H) Actually we're eight feet above normal,
+1450.172	1450.999		for this time of year.
+1450.999	1452.157	AUD:	... Wow.
+1452.157	1454.282	BEN:	.. (H) Yeah we had a very good snowpack last year.
+1454.282	1455.974		...
