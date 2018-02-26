@@ -11,7 +11,11 @@ and the overlaps between these regions can point to the origin of the speaker.
 
 
 This project aims to automate the above process. It will contain a number of
-functions to classify language into its geographic origin within the United States. 
+functions to classify language into its geographic origin within the United States.
+
+## Installation
+To install packages and necessary libraries, run:
+`python setup.py install_lib`
 
 
 ## License

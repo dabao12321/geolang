@@ -1,29 +1,29 @@
 # Outline of Project
 
-## Current Steps
+## Current Steps (updated 2/25/2018)
 
-1. Research language profiles of U.S. to split into sectors (smaller the better).
-    - Done! Instead of regions, split into non-overlapping areas (states) with words being able to have multiple "origins".
+- Research language profiles of U.S. to split into sectors (smaller the better).
+    - Done.
 
-2. Create database of classed "buzzwords" (draw from data.gov, NLTK, etc.).
-    - Sufficient: Current corpus is from the Dictionary of American Regional English, over 4000 entries (words only).
-    - to do: add sentence by sentence data from the SBData transcriptions
+- Create database of classed "buzzwords" (draw from data.gov, NLTK, etc.).
+    - Done.
 
-3. Build a Naive Bayes classifier to assign probabilities to geographic origin based on a collection (sentence) of words.
+- Build a Naive Bayes classifier to assign probabilities to geographic origin based on a collection (sentence) of words.
+    - Done.
 
-4. Derive geographic area of a single word
+- Derive geographic area of a single word
+    - Done.
 
-6. Predict origin of speaker through a number of questions.
+- Predict location of speaker through transcribed speech or writing.
+    - Done.
 
-7. Predict location of speaker through transcribed speech or writing.
+## Future Steps
+- Plot the popularity of specific words on map.
 
+- Use machine learning to improve feedback.
+    - balance training datasets with more information from less popular states
+    - utilize other ML techniques in the future
 
-## Future Steps?
-7. Plot the popularity of specific words on map.
+- Expand to other English-speaking countries.
 
-8. Use machine learning to potentially improve feedback.
-    - Will be doing this anyway (Naive Bayes, NLTK, sklearn-pipeline)
-
-9. Expand to other English-speaking countries.
-
-10. Expand to other languages.
+- Expand to other languages.
