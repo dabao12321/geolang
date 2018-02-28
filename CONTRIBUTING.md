@@ -21,7 +21,7 @@ write new unit tests for added features.
 ### Running the tests
 ```
 cd test
-python test_all.py
+python TestAll.py
 ```
 Ensure that all tests pass!
 
@@ -45,5 +45,5 @@ if necessary
 * Comments on their own lines
 * Aim for less than 80 characters per line, and do not exceed 100.
 * name methods like "method_name()"
-* name non-class files like "file_name"
-* name class files like "FileName"
+* name non-class files like "file_name.py"
+* name class files like "FileName.py"
