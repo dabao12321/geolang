@@ -91,6 +91,6 @@ jupyter notebook, so it will be able to be replicated by any user if necessary
 
 ### 2/27/2018
 - restructured geolang project, more intuitive.
-- added docs and test folder, more unit tests
+- added docs and test folder, more unit tests, docs/structure.md
 - added a setup.py and requirements.txt for simple installation
 - improved CONTRIBUTING.md, README.md
