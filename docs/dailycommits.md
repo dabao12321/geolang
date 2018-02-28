@@ -88,3 +88,9 @@ jupyter notebook, so it will be able to be replicated by any user if necessary
   - naive_bayes.py
 - added functionality with optional parameters in methods bunch_training,
   count_vectorize, and predict_multinomial_NB
+
+### 2/27/2018
+- restructured geolang project, more intuitive.
+- added docs and test folder, more unit tests
+- added a setup.py and requirements.txt for simple installation
+- improved CONTRIBUTING.md, README.md

@@ -40,17 +40,23 @@ def read_metadata():
                 write = csv.writer(ma, dialect='excel')
                 write.writerow(line.split(','))
 
-def cleanFile():
+def cleanFile(filename='SBC054.txt'):
     '''
     Reads existing .txt files and outputs cleaned .csv files containing
-    transcription data. These files are found in '../../data/SBData/dialectsdata'.
+    transcription data. Do not run unless necessary! All cleaned files already exist.
 
-    CSV format: speaker_name, dialect, word
+    Input:
+    filename -- name of .txt transcription file. Currently set to file 54.
+
+    Output:
+    file in CSV format: speaker_name, dialect, word.
+    These files are found in '../../data/SBData/dialectsdata'.
     '''
+    dialectfile = '../../data/SBData/dialectsdata/' + filename[0:6] + ".csv"
     # change the number for the .txt and .csv each time you move on to the next .txt file
-    with open('../../data/SBData/TXT/SBC054.txt') as f:
+    with open('../../data/SBData/TXT/' + filename) as f:
         data = f.readlines()
-    with open('../../data/SBData/dialectsdata/dialects054.csv', 'w') as r:
+    with open(dialectfile, 'w') as r:
         # for oldName and newName, whenever there's speakers who aren't in the metadata CSV, you need to change
         # the line number of your data to the line number where the first speaker who is in the metadata CSV appears
         # (ex: cleanLine(data[0])[0] to cleanLine(data[1])[0])
@@ -78,14 +84,13 @@ def cleanFile():
 
                 # when running, you need to uncomment below and manually put the names of the people talking
                 # and their geographical origin (put 'NA' if unknown and add more elif statements as needed):
-
                 if fix[0][0:len(oldName)] == 'CYNTHIA':
                     state = 'IL'
                 elif fix[0][0:len(oldName)] == 'AUD':
                     state = 'NA'
                 elif fix[0][0:len(oldName)] == 'MANY':
                     state = 'NA'
-                fix = [fix[0][0:len(oldName)], state, fix[0][len(oldName)+1:len(fix[0])-1]] # remove extra space at end
+                fix = [fix[0][0:len(oldName)], state, fix[0][len(oldName)+1:len(fix[0])-1]]
                 write = csv.writer(r, dialect='excel')
                 write.writerow(fix)
                 fix = []
@@ -100,7 +105,9 @@ def formatWord(w):
     '''
     newWord = ""
     for i in w:
-        if i.isnumeric() or i in ["=", "[", "]", "~", "(", ")"]: continue # add more edge cases as needed
+        # add more edge cases as needed
+        if i.isnumeric() or i in ["=", "[", "]", "~", "(", ")"]:
+            continue
         else: newWord += i
     return newWord
 
@@ -108,8 +115,8 @@ def cleanLine(line):
     '''
     Cleans a single line of text, removing unnecessary alphanumerics or punctuation.
     '''
-    no_punc = [word.strip(string.punctuation) for word in line.split()] # strips punctuation & separates everything
-    no_punc = no_punc[2:] # remove first two numbers in every line
-    no_punc = [x for x in no_punc if x] # removes empty strings
-    no_punc = [formatWord(x) if x.isalpha() == False else x for x in no_punc] # removes weird punctuation
+    no_punc = [word.strip(string.punctuation) for word in line.split()]
+    no_punc = no_punc[2:]
+    no_punc = [x for x in no_punc if x]
+    no_punc = [formatWord(x) if x.isalpha() == False else x for x in no_punc]
     return no_punc
