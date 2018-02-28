@@ -70,7 +70,9 @@ def abbrev_to_state(abbreviations):
         'WY': 'Wyoming'
     }
     for state in abbrevs:
-        name = states[state.upper()]
+        name = states.get(state.upper())
+        if name is None:
+            raise ValueError("Invalid parameter input.")
         output += name.lower() + ", "
     return output[:-2]
 

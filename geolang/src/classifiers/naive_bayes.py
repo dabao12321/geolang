@@ -4,8 +4,8 @@ import pandas as pd
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-from bunch_data import bunch_training
-from vectorize_data import count_vectorize
+from geolang.src.classifiers.bunch_data import bunch_training
+from geolang.src.classifiers.vectorize_data import count_vectorize
 
 def train_multinomial_NB(X_train_tfidf, training):
     '''

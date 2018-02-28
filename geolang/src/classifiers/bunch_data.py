@@ -3,9 +3,7 @@ import sklearn.datasets
 import numpy as np
 import pandas as pd
 import os
-import sys
-sys.path.append('../')
-from cleaners.clean_geodata import abbrev_to_state
+from geolang.src.cleaners.clean_geodata import abbrev_to_state
 
 def get_catagories():
     '''
@@ -73,7 +71,7 @@ def read_SB_transcriptions():
                 target = catagories.index(dialect)
                 SBexamples.append(x)
                 SBtargets.append(target)
-            except KeyError:
+            except ValueError:
                 # These speakers do not identify with a single state, discard.
                 pass
     return SBexamples, SBtargets

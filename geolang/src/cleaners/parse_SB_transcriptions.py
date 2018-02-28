@@ -40,7 +40,7 @@ def read_metadata():
                 write = csv.writer(ma, dialect='excel')
                 write.writerow(line.split(','))
 
-def cleanFile(filename='SBC054.txt'):
+def clean_file(filename='SBC054.txt'):
     '''
     Reads existing .txt files and outputs cleaned .csv files containing
     transcription data. Do not run unless necessary! All cleaned files already exist.
@@ -99,7 +99,7 @@ def cleanFile(filename='SBC054.txt'):
             if len(fix) == 0: fix.append(sentence)
             else: fix[0] += sentence
 
-def formatWord(w):
+def format_word(w):
     '''
     Cleans a single word, removing unnecessary alphanumerics or punctuation.
     '''
@@ -111,12 +111,12 @@ def formatWord(w):
         else: newWord += i
     return newWord
 
-def cleanLine(line):
+def clean_line(line):
     '''
     Cleans a single line of text, removing unnecessary alphanumerics or punctuation.
     '''
     no_punc = [word.strip(string.punctuation) for word in line.split()]
     no_punc = no_punc[2:]
     no_punc = [x for x in no_punc if x]
-    no_punc = [formatWord(x) if x.isalpha() == False else x for x in no_punc]
+    no_punc = [format_word(x) if x.isalpha() == False else x for x in no_punc]
     return no_punc

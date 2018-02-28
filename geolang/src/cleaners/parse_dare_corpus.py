@@ -9,7 +9,7 @@ import string
 import numpy as np
 import pandas as pd
 from sklearn import svm
-from clean_geodata import abbrev_to_state, get_regions
+from geolang.src.cleaners.clean_geodata import abbrev_to_state, get_regions
 
 def expand_region(region, word):
     '''This expands a singular entry of a general region to multiple entries containing
@@ -45,7 +45,6 @@ def clean_dare():
     alldata = alldata.reset_index()
     for index, row in alldata.iterrows():
         alldata.set_value(index, 'index', index)
-
     return alldata
 
 def print_dare_file(overrule=False):

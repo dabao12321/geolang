@@ -5,8 +5,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.naive_bayes import MultinomialNB
-
-from bunch_data import bunch_training
+from geolang.src.classifiers.bunch_data import bunch_training
 
 def get_shape(arr):
     '''
